@@ -8,23 +8,15 @@ tags:
   - "green-ink"
 ---
 
-View fullsize
-
-\>
-
-<img src="https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1446484061465-8TWIHYXT0OTIWX1RR1D8/image-asset.jpeg" alt="Kaweco Palm Green ink" />
-
-![Kaweco Palm Green ink](https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1446484061465-8TWIHYXT0OTIWX1RR1D8/image-asset.jpeg)
+![Kaweco Palm Green ink](exemplar.jpeg)
 
 Kaweco Palm Green ink
 
-As I mentioned in my review of [Diamine Meadow](http://www.carpedavid.com/blog/2015/5/25/ink-review-diamine-meadow), I am not a connoisseur of green ink. I had a grand total of three specimens ([J. Herbin Vert Empire](http://www.carpedavid.com/blog/2010/3/13/ink-review-j-herbin-vert-empire.html), [J. Herbin Vert Olive](http://www.carpedavid.com/blog/2010/6/8/ink-review-j-herbin-vert-olive.html), and Iroshizuku Shinryoku) sitting on my self until I picked up Meadow. Vert Empire and Shinryoku were too dour to be of interest to me, and Vert Olive is so vibrant as to be all but unusable. Additionally, green isn’t a color that tends to hold my interest, especially when compared to blue, red, and violet, but Meadow opened my eyes to the versatility of green ink.
+As I mentioned in my review of [Diamine Meadow](/blog/2015/5/25/ink-review-diamine-meadow), I am not a connoisseur of green ink. I had a grand total of three specimens ([J. Herbin Vert Empire](/blog/2010/3/13/ink-review-j-herbin-vert-empire.html), [J. Herbin Vert Olive](/blog/2010/6/8/ink-review-j-herbin-vert-olive.html), and Iroshizuku Shinryoku) sitting on my self until I picked up Meadow. Vert Empire and Shinryoku were too dour to be of interest to me, and Vert Olive is so vibrant as to be all but unusable. Additionally, green isn’t a color that tends to hold my interest, especially when compared to blue, red, and violet, but Meadow opened my eyes to the versatility of green ink.
 
 I mention this so that you know that I am neither damning with faint praise nor speaking from a position of scholarly authority when I say that Kaweco Palm Green is my favorite green ink after Diamine Meadow. It is a lovely forest green that has the best shading of any of the eight Kaweco colors, and which exhibits the excellent behavior characteristics of the line.
 
 Palm Green behaves admirably across all paper types, exhibiting low levels of feathering and a narrow, crisp line even on cheap paper. This comes at a cost of a fairly dry flow, but it is not so severe as to be off-putting. It dries quickly across the board.
-
-.tg {border-collapse:collapse;border-spacing:0;} .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;} .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;} .tg .tg-yw4l{vertical-align:top}
 
 | Paper | Dry Time | Bleed Through | Show Through | Feathering |
 | --- | --- | --- | --- | --- |
@@ -34,13 +26,7 @@ Palm Green behaves admirably across all paper types, exhibiting low levels of fe
 | Midori | 10 seconds | None | Low | None |
 | Canson | 10 seconds | None | None | None |
 
-View fullsize
-
-\>
-
-<img src="https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1446743006675-68E8QENIA1J2FXVGV3ZQ/Kaweco+Palm+Green+Water+Test.jpg" alt="Kaweco Palm Green water test" />
-
-![Kaweco Palm Green water test](https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1446743006675-68E8QENIA1J2FXVGV3ZQ/Kaweco+Palm+Green+Water+Test.jpg)
+![Kaweco Palm Green water test](durability.jpg)
 
 Kaweco Palm Green water test
 
@@ -48,11 +34,7 @@ Kaweco Palm Green performed identically to all of the other Kaweco colors in the
 
 I wouldn’t recommend using it in any application that requires water-resistance, like addressing an envelope or signing a check. 
 
-\>
-
-<img src="https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1446489230148-KWZBPT4DEM7HL5LJZMG0/image.jpg" alt="Kaweco Palm Green bottle" />
-
-![Kaweco Palm Green bottle](https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1446489230148-KWZBPT4DEM7HL5LJZMG0/image.jpg)
+![Kaweco Palm Green bottle](bottle.jpg)
 
 Kaweco Palm Green bottle
 

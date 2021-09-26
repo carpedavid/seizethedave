@@ -5,12 +5,6 @@ tags:
   - "podcast"
 ---
 
-\>
-
-<img src="https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1454009414379-KC01JZ4AJ1ZW6GI6WMBU/image.jpg" alt="image.jpg" />
-
-![image.jpg](https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1454009414379-KC01JZ4AJ1ZW6GI6WMBU/image.jpg)
-
 I'm late to the podcast game. While technically savvy people have been listening to the format for years, I never quite found a set of shows that compelled me to listen. I could catch This American Life and Radiolab on my local NPR station, and I had only so much space on my phone, and I tend to go on broad musical explorations that wander from female-fronted symphonic metal to contemporary classical to dubstep to the complete works of Mahler to the Hamilton Original Broadway Cast Recording.
 
 Lately, though, I've been on a podcast kick. I listen to them in the car on the way to and from work, and I've managed to find just the right mix of shows so that I neither fall behind nor run out of content. If the length of my commute ever changes, I'm screwed. In the interest of sharing, here's that mix, with some comments from me:
@@ -47,7 +41,7 @@ The Adam who founded the Planet Money podcast and the Adam who directed Anchor
 
 David Brancaccio, host of Marketplace Morning Report, examines some of the most popular non-fiction pieces from the Esquire magazine archives. He places each piece in its historical context while talking with other guests about the creation and impact of the piece. It's a very well produced examination of journalism throughout the twentieth century, in addition to re-telling a series of very interesting stories.
 
-**[Criminal](http://thisiscriminal.com/)**
+[**Criminal**](http://thisiscriminal.com/)
 
 In the same way that the Only Human podcast is about health, Criminal is about crime. Specifically, it examines the effects that crime has on the people who perpetrate it, are victimized by it, and fight it. The host, Phoebe Judge, has one of the best voices in podcast-dom.
 

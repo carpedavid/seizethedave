@@ -3,6 +3,8 @@ title: "Remember to speak"
 date: "2020-11-06"
 ---
 
+
+
 This is primarily directed toward my conservative friends and family, but of course anyone is welcome to read it.
 
 I don’t believe that voting Republican automatically makes you a racist. I do believe that you can be conservative and also be compassionate. I don’t believe that you can hate the sin and love the sinner, but I do believe that you believe it, and intent counts for a lot these days. And while I firmly don’t believe that person-hood begins at conception, I understand that if you do, then trying to ban abortion is not only morally appropriate, but morally imperative.

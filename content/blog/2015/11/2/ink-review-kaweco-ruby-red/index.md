@@ -8,21 +8,13 @@ tags:
   - "kaweco"
 ---
 
-View fullsize
-
-\>
-
-<img src="https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1446483963790-EQ6OUX0HN31X3J9QFWK0/image-asset.jpeg" alt="" />
-
-![](https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1446483963790-EQ6OUX0HN31X3J9QFWK0/image-asset.jpeg)
+![Kaweco Ruby Red](exemplar.jpeg)
 
 I'm a big fan of red ink. Red is my favorite color - I'm drawn to its vibrancy and dynamism. If the color red has a drawback, though, it is the quality that makes it so interesting: the high degree of contrast that makes it stand out from the crowd. In nature, red is an attention getting color, sending one of a number of messages depending on the organism in question: I am poisonous, I am ripe, I am dangerous, I am delicious. Unfortunately, all the extra stimulation that our brains must endure when dealing with the color can cause red ink to be fatiguing to read over a long period of time.
 
-To find a regular spot in my ink rotation, then, a red ink's aesthetic qualities have to outweigh the burden of use. Some colors capture my imagination: [Diamine Red Dragon](http://www.carpedavid.com/blog/2010/9/7/ink-review-diamine-red-dragon.html) is magical and [J. Herbin Rouge Hematite](http://www.carpedavid.com/blog/2010/5/16/ink-review-j-herbin-1670.html) is spectacular while [Iroshizuki Momiji](http://www.carpedavid.com/blog/2010/4/28/ink-review-iroshizuku-momiji.html) is sublime. Kaweco Ruby Red, though, is more prosaic: it's a pragmatic magenta red, and it makes no pretense about being more. It exhibits low to moderate levels of shading, depending on the width of the nib, and provides very high levels of contrast on white, off white, and cream colored paper.
+To find a regular spot in my ink rotation, then, a red ink's aesthetic qualities have to outweigh the burden of use. Some colors capture my imagination: [Diamine Red Dragon](/blog/2010/9/7/ink-review-diamine-red-dragon.html) is magical and [J. Herbin Rouge Hematite](/blog/2010/5/16/ink-review-j-herbin-1670.html) is spectacular while [Iroshizuki Momiji](/blog/2010/4/28/ink-review-iroshizuku-momiji.html) is sublime. Kaweco Ruby Red, though, is more prosaic: it's a pragmatic magenta red, and it makes no pretense about being more. It exhibits low to moderate levels of shading, depending on the width of the nib, and provides very high levels of contrast on white, off white, and cream colored paper.
 
 As with the rest of the Kaweco line, Ruby Red is a dry ink that behaves well across all paper types, from the super-smooth Midori MD to the cheap, feather-prone, low-grade copier paper found in most offices.
-
-.tg {border-collapse:collapse;border-spacing:0;} .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;} .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;} .tg .tg-yw4l{vertical-align:top}
 
 | Paper | Dry Time | Bleed Through | Show Through | Feathering |
 | --- | --- | --- | --- | --- |
@@ -32,23 +24,13 @@ As with the rest of the Kaweco line, Ruby Red is a dry ink that behaves well ac
 | Midori | 15 seconds | None | Low | None |
 | Canson | 10 seconds | None | None | None |
 
-View fullsize
-
-\>
-
-<img src="https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1447163174320-FIND0OKEUVVEJHP7MG1K/image-asset.jpeg" alt="" />
-
-![](https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1447163174320-FIND0OKEUVVEJHP7MG1K/image-asset.jpeg)
+![Water Test](durability.jpeg)
 
 In the water test, Ruby Red showed no resistance at all. The smear test, in which I rub a wet finger across the page, resulted in a red smear that then lifted completely from the page when blotted. The drip test exhibited the same behavior: the ink lifted easily after a drop of water sat for a few seconds. The soak test, in which I run the paper under water, washed away the ink completely.
 
 Each of the Kaweco colors behaves similarly with regard to water resistance: they have none. As long as you keep this in mind, it shouldn't dissuade you from using the ink - just make sure to limit your use to applications that don't require it.
 
-\>
-
-<img src="https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1446489180579-SYHA8X1EG2AGQ85SFHTY/image.jpg" alt="image.jpg" />
-
-![image.jpg](https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1446489180579-SYHA8X1EG2AGQ85SFHTY/image.jpg)
+![Bottle](bottle.jpg)
 
 Kaweco ink comes in two forms: cartridges and 30ml glass bottles, which is the format I used during testing. The bottles themselves are pleasantly designed, and the labels accurately reflect the color of the ink inside them. I have no real complaints about the bottle, other than I had to tip it to the side slightly in order to create sufficient depth to fill my test pen properly.
 

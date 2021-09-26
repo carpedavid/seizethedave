@@ -8,11 +8,7 @@ tags:
   - "red-ink"
 ---
 
-\>
-
-<img src="https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1464967301606-1NROC73JFI5DJ5ISK3FT/noodler%27s+berning+red.jpg" alt="Noodler's Berning Red" />
-
-![Noodler's Berning Red](https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1464967301606-1NROC73JFI5DJ5ISK3FT/noodler%27s+berning+red.jpg)
+![Noodler's Berning Red](noodler's-berning-red.jpg)
 
 Noodler's Berning Red
 
@@ -21,8 +17,6 @@ It’s an immutable karmic law that, when an ink producer creates a new color sp
 Politics aside, Berning Red is quite a good ink. It’s a bright, candy-apple red - it doesn’t lean purple or brown, and no magenta is in sight. It’s a quintessential red that’s easy to read on the page. It has a moderate level of saturation, fading a little in the really broad strokes of a calligraphy pen, but producing a crisp, bold line with low levels of shading when used with a fine nib. It’s easy to write with, having a moderate level of flow and producing no sensation of scratchiness on most paper.
 
 After I was done testing it, it cleaned up easily, flushing quickly from the converter and feed. It did not stain. Berning Red is also an extremely cost-effective ink. Noodler's standard line of ink is the best value on the market - the 3 oz bottles run roughly $12.50, which works out to a cost of $0.14 per milliliter - the lowest of any ink I’m aware of.
-
-.tg {border-collapse:collapse;border-spacing:0;} .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;} .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;} .tg .tg-yw4l{vertical-align:top}
 
 | Paper | Dry Time |
 | --- | --- |
@@ -37,21 +31,13 @@ So how does the quick-drying claim stand up? Well, it dries faster than a lot of
 
 It is generally well-behaved across each of the paper types I tested, though it has an increased tendency to show-though on absorbent papers, and to bleed through when used with a really wet nib, like the Pilot Parallel pens. It’s not something you’re likely to encounter if you’re using good quality paper in a fine-nib pen, but it is something to keep in mind.
 
-\>
-
-<img src="https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1464967435902-BO3L97997O0VEGEAU7DQ/image-asset.jpeg" alt="Noodler's Berning Red water test" />
-
-![Noodler's Berning Red water test](https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1464967435902-BO3L97997O0VEGEAU7DQ/image-asset.jpeg)
+![Noodler's Berning Red water test](durability.jpeg)
 
 Noodler's Berning Red water test
 
 Berning Red held up surprisingly well in the water resistance test, in which I simulate three scenarios: something wet gets dragged across the page, droplets of water fall onto the page and get blotted up, and the paper gets soaked. It smeared easily enough when I ran a wet finger across the page, which resulted in a lovely red smudge - so it is not suitable for painting over with washes or watercolors. However, it didn't completely lift from the page when I blotted it, nor when I soaked it under the faucet, which means that your work won’t be completely obliterated if you do happen to get it wet by accident.
 
-\>
-
-<img src="https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1464967499333-CYSR958Q8JGE9LVWKC23/image-asset.jpeg" alt="Noodler's Berning Red bottle" />
-
-![Noodler's Berning Red bottle](https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1464967499333-CYSR958Q8JGE9LVWKC23/image-asset.jpeg)
+![Noodler's Berning Red bottle](bottle.jpeg)
 
 Noodler's Berning Red bottle
 

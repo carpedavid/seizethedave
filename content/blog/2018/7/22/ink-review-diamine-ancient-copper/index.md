@@ -9,11 +9,7 @@ tags:
   - "red-ink"
 ---
 
-\>
-
-<img src="https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1532308086531-PJ82AWALCPEPPTR5PWZZ/IMAGE.JPG" alt="Diamine Ancient Copper" />
-
-![Diamine Ancient Copper](https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1532308086531-PJ82AWALCPEPPTR5PWZZ/IMAGE.JPG)
+![Diamine Ancient Copper](exemplar.jpg)
 
 Diamine Ancient Copper
 
@@ -23,21 +19,13 @@ It also has gravitas of a sort that is not usually present in inks that are not 
 
 In my experience, Diamine ink performs consistently across the different colors of the line: it feathers a bit on absorbent, un-sized paper, and it behaves admirably on coated, ink-resistant paper. Ancient Copper behaved as expected on the six paper types I used to test it: cheap, office copier paper; Staples Bagasse notepad; Rhodia Bloc pad; Midori MD notebook; Canson XL Mixed Media notebook; and Leuchtturm1917 notebook. It took anywhere between one second to dry on copier paper to twenty seconds to dry on Midori paper.
 
-\>
-
-<img src="https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1532308054347-15FHQOY7YN6H9UFG9GN1/IMAGE.JPG" alt="Diamine Ancient Copper Water Tests" />
-
-![Diamine Ancient Copper Water Tests](https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1532308054347-15FHQOY7YN6H9UFG9GN1/IMAGE.JPG)
+![Diamine Ancient Copper Water Tests](durability.jpg)
 
 Diamine Ancient Copper Water Tests
 
 Diamine Ancient Copper is not a water resistant ink. It smudges and runs when exposed. In the smear test, in which I run a wet finger across the page, it left a coppery smudgy mess. In the drip test, in which I drip water and then blot it up, much of the ink lifted from the paper. In the soak test, in which I run the page under water, the ink nearly washed away completely. A ghost of the image remains - enough to still read it - but not much else.
 
-\>
-
-<img src="https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1532308128096-P942CVO9370HV3XQIB5S/FullSizeRender.jpg" alt="Diamine Ancient Copper Bottle" />
-
-![Diamine Ancient Copper Bottle](https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1532308128096-P942CVO9370HV3XQIB5S/FullSizeRender.jpg)
+![Diamine Ancient Copper Bottle](bottle.jpg)
 
 Diamine Ancient Copper Bottle
 

@@ -8,19 +8,11 @@ tags:
   - "blue-ink"
 ---
 
-View fullsize
+![Kaweco Royal Blue](exemplar.jpeg)
 
-\>
+I began my review of the eight Kaweco ink colors with [Pearl Black](/blog/2015/10/28/ine-review-kaweco-pearl-black), though Royal Blue was the first bottle I actually opened. Any manufacturer's version of "ballpoint pen blue" is usually a safe bet - it's like trying the crème brûlée at a new restaurant, or the pale ale at a new brewery. It's a known quantity with minimal variables that provides an easy avenue for comparison.
 
-<img src="https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1446483841519-GOK5ECG65FF1B1KR3H7S/image-asset.jpeg" alt="" />
-
-![](https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1446483841519-GOK5ECG65FF1B1KR3H7S/image-asset.jpeg)
-
-I began my review of the eight Kaweco ink colors with [Pearl Black](http://www.carpedavid.com/blog/2015/10/28/ine-review-kaweco-pearl-black), though Royal Blue was the first bottle I actually opened. Any manufacturer's version of "ballpoint pen blue" is usually a safe bet - it's like trying the crème brûlée at a new restaurant, or the pale ale at a new brewery. It's a known quantity with minimal variables that provides an easy avenue for comparison.
-
-In [my collection](http://www.carpedavid.com/blog/2015/11/20/inkventory-2015), Kaweco Royal Blue is most similar to [Lamy Blue](http://www.carpedavid.com/blog/2010/3/6/ink-review-lamy-blue.html), but with a more intense color. Like the other Kaweco colors, it has low saturation, moderate to low shading, and a very dry flow. It produces a thiner line than a wet-flowing ink like [Iroshizuku Asa-gao](http://www.carpedavid.com/blog/2014/8/3/ink-review-iroshizuku-asagao) when used in the same pen. It behaves very well on cheap, absorbent paper, and dries relatively quickly on premium sized paper, which, as far as I can tell, was a deliberate choice on the part of whomever engineered the line.
-
-.tg {border-collapse:collapse;border-spacing:0;} .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;} .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;} .tg .tg-yw4l{vertical-align:top}
+In [my collection](/blog/2015/11/20/inkventory-2015), Kaweco Royal Blue is most similar to [Lamy Blue](/blog/2010/3/6/ink-review-lamy-blue.html), but with a more intense color. Like the other Kaweco colors, it has low saturation, moderate to low shading, and a very dry flow. It produces a thiner line than a wet-flowing ink like [Iroshizuku Asa-gao](/blog/2014/8/3/ink-review-iroshizuku-asagao) when used in the same pen. It behaves very well on cheap, absorbent paper, and dries relatively quickly on premium sized paper, which, as far as I can tell, was a deliberate choice on the part of whomever engineered the line.
 
 | Paper | Dry Time | Bleed Through | Show Through | Feathering |
 | --- | --- | --- | --- | --- |
@@ -30,23 +22,13 @@ In [my collection](http://www.carpedavid.com/blog/2015/11/20/inkventory-2015), K
 | Midori | 15 seconds | None | Low | None |
 | Canson | 10 seconds | None | None | None |
 
-View fullsize
-
-\>
-
-<img src="https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1447163209027-R85LXCWRVSOACJWUOW94/image-asset.jpeg" alt="" />
-
-![](https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1447163209027-R85LXCWRVSOACJWUOW94/image-asset.jpeg)
+![Water Test](durability.jpeg)
 
 Royal Blue holds up to water the same way that the other Kaweco colors do: it doesn't. On the smear test, in which I wipe a wet finger across the page, the ink was wiped completely out, and readily lifted from the page when I blotted it. The same happened on the drip test, where I let a droplet of water sit on the page before blotting. The ink lifted completely away. You can see the same behavior on the soak test, where I hold the paper under running water for a few minutes - no ink remained.
 
 If there is a silver lining, it's that I imagine, though I have not tested, that Royal Blue should clean up easily from other surfaces, like desktops and shirtsleeves. This is an "inside the envelope" ink, certainly not one you'd want to use on the outside.
 
-\>
-
-<img src="https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1446489154941-Z2SWPF53CW7C01GQCACN/image.jpg" alt="image.jpg" />
-
-![image.jpg](https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1446489154941-Z2SWPF53CW7C01GQCACN/image.jpg)
+![Bottle](bottle.jpg)
 
 Kaweco ink comes in two forms: cartridges and 30ml glass bottles, which is the format I used during testing. The bottles themselves are pleasantly designed, and the labels accurately reflect the color of the ink inside them. I have no real complaints about the bottle, other than I had to tip it to the side slightly in order to create sufficient depth to fill my test pen properly.
 

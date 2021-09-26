@@ -5,11 +5,7 @@ tags:
   - "intentional-change"
 ---
 
-\>
-
-<img src="https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1464874782663-P1BWQUJ6EOORN59AAQFX/image-asset.gif" alt="" />
-
-![](https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1464874782663-P1BWQUJ6EOORN59AAQFX/image-asset.gif)
+![Intentional Change](intentional-change.gif)
 
 Change can be scary. The path between point A and B never seems to be a straight line. It is filled with twists and turns, false starts and false stops, missteps and side steps. It always seems to take longer than you’ve anticipated, and you may not even recognize the destination once you’ve arrived. Sometimes, you may start your journey without knowing where you’re going, and in today’s fast-paced world, just keeping track of where you’ve been can be a challenge.
 

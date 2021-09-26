@@ -5,11 +5,7 @@ tags:
   - "ink"
 ---
 
-\>
-
-<img src="https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1448034973455-HTL1PGG2WTT181BPCH39/image.jpg" alt="image.jpg" />
-
-![image.jpg](https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1448034973455-HTL1PGG2WTT181BPCH39/image.jpg)
+![Inkventory](inkventory.jpg)
 
  [Three years ago](http://www.carpedavid.com/blog/2012/1/27/inkventory-2012.html), I took stock of my ever-expanding ink collection. It feels like it's time to tackle that process again. Here is the full list of ink bottles that I own, most of which are pictured above:
 

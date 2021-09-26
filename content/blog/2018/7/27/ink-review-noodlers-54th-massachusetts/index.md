@@ -8,11 +8,7 @@ tags:
   - "blue-black-ink"
 ---
 
-\>
-
-<img src="https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1532741032091-VELL40J5Z37M06C8QF8T/FullSizeRender.jpg" alt="FullSizeRender.jpg" />
-
-![FullSizeRender.jpg](https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1532741032091-VELL40J5Z37M06C8QF8T/FullSizeRender.jpg)
+![Exemplar](exemplar.jpg)
 
 Noodler’s 54th Massachusetts blue-black ink has become one of my favorites. It is conservative enough to be useful in any situation -- business or personal -- but is still a lovely diversion from a standard blue or black. It flows easily -- it is wet, smooth, and easy to write with. It dries in a reasonable amount of time, and I find the color pleasant and easy to read. It also appears to have a touch of chartreuse to it that blue and black inks don’t typically possess.
 
@@ -22,21 +18,13 @@ My complaints, such as they are, are twofold: first, it does not behave in an ou
 
 Dry time is relatively quick, though, as one would expect, it takes longer to dry on smooth, sized paper like Rhodia and Midori (20 seconds) than on cheap copier paper (1 second). It does bleed through and feather heavily on copier paper, but otherwise behaves.
 
-\>
-
-<img src="https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1532741073750-A48Y82NTF89RMU2JE80I/FullSizeRender.jpg" alt="FullSizeRender.jpg" />
-
-![FullSizeRender.jpg](https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1532741073750-A48Y82NTF89RMU2JE80I/FullSizeRender.jpg)
+![Durability](durability.jpg)
 
 54th Massachusetts is advertised as bulletproof - a marketing term that Noodler’s created to refer to ink that can’t be removed once it has bonded to the fibers in the paper -- so one would expect it to hold up on the water test, and it does. 54th Massachusetts soaks right in to the paper, which means that, on the smear test, where I run a wet finger across the page, absolutely no ink moved.
 
 On the drip test, where I place droplets of water on the page, absolutely no ink lifted off the page. Finally, on the soak test, in which I run the paper under the faucet, the ink stood resolute. Noodler’s 54th Massachusetts lives up to its bulletproof moniker - it's impossible to remove with water alone.
 
-\>
-
-<img src="https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1532741111961-Z9RINUL27VAGA5HRG2GR/FullSizeRender.jpg" alt="FullSizeRender.jpg" />
-
-![FullSizeRender.jpg](https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1532741111961-Z9RINUL27VAGA5HRG2GR/FullSizeRender.jpg)
+![Bottle](bottle.jpg)
 
 Noodler’s 54th Massachusetts comes in a standard 3 oz. Noodler’s bottle that’s filled to the brim – so be careful when opening. Noodler’s intentionally uses stock bottles and lids to keep their prices low, which means that they aren’t intended to be show pieces in and of themselves. The labels, however, almost always tell their own story.
 

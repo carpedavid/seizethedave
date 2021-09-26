@@ -1,0 +1,9 @@
+[build]
+  command = "hugo"
+  publish = "public"
+
+[build.environment]
+  HUGO_VERSION = "0.88.1"
+  HUGO_ENV = "production"
+  ALGOLIA_BASE_URL = "https://crawler.algolia.com"
+  ALGOLIA_API_KEY = ""

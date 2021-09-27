@@ -8,15 +8,7 @@ tags:
   - "red-ink"
 ---
 
-View fullsize
-
-\>
-
-<img src="https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1371412086616-1QEMP5XEKBFKEZH4VFE9/j+herbin+rouge+opera.jpg" alt="J. Herbin Rouge Opera" />
-
-![J. Herbin Rouge Opera](https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1371412086616-1QEMP5XEKBFKEZH4VFE9/j+herbin+rouge+opera.jpg)
-
-J. Herbin Rouge Opera
+![J. Herbin Rouge Opera](exemplar.jpg)
 
 J. Herbin Rouge Opera should come with a warning. If you fill your fountain pen with it, you will, in short order, develop a compulsion to listen to Puccini, Verdi, and, perhaps, Bizet. The ink is the color of a heavy, velvet stage curtain and of walls lined with brocade. It's the color of soprano Anna Netrebko's dress in the 2005 staging of La Traviata. It's each of those shades from moment to moment, and it's all of them at once. Just try to avoid humming a little Wagner once your pen is inked up.
 
@@ -26,15 +18,7 @@ Like many of the J. Herbin inks, Rouge Opera exhibits a high degree of featherin
 
 On Rhodia and Clairefontaine paper, Rouge Opera results in low levels of bleed through and moderate show-through. I noticed significant bleed-through and show-through on both Staples bagasse and on copier paper, however. It is something to be aware of if one's intent is to use both sides of a page.
 
-View fullsize
-
-\>
-
-<img src="https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1371412157088-86156LV1WX9X34JV43KX/j+herbin+rouge+opera+water+test.jpg" alt="J. Herbin Rouge Opera water test" />
-
-![J. Herbin Rouge Opera water test](https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1371412157088-86156LV1WX9X34JV43KX/j+herbin+rouge+opera+water+test.jpg)
-
-J. Herbin Rouge Opera water test
+![J. Herbin Rouge Opera water test](durability.jpg)
 
 Most J. Herbin inks that I've reviewed have not been on speaking terms with water. [Bleu Pervenche](/blog/2013/1/1/ink-review-j-herbin-bleu-pervenche), for example, ran screaming at the slightest hint of moisture, and [Terre de Feu](/blog/2011/1/3/ink-review-j-herbin-terre-de-feu.html) faded into the background, leaving only a shadow of its former self behind. I was expecting the same behavior from Rouge Opera, but was, quite frankly, astounded at how it actually responded.
 
@@ -42,15 +26,7 @@ The smear test, in which I run a wet finger across the page, did result in signi
 
 The soak test was the most surprising of all. While some ink washed away, and what was left feathered noticeably, all of the words are still completely legible and visible. I suppose one could refer to it at this point as Rouge Operetta – still of exceptional quality, just a little bit lighter.
 
-View fullsize
-
-\>
-
-<img src="https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1371412200489-XWQ63Y6PRFYNC4A425GV/j+herbin+rouge+opera+bottle.jpg" alt="J. Herbin Rouge Opera bottle" />
-
-![J. Herbin Rouge Opera bottle](https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1371412200489-XWQ63Y6PRFYNC4A425GV/j+herbin+rouge+opera+bottle.jpg)
-
-J. Herbin Rouge Opera bottle
+![J. Herbin Rouge Opera bottle](bottle.jpg)
 
 J. Herbin fountain pen inks come in a 30ml bottle with an integrated pen rest that is suitable for displaying on top of one's desk. The red label on this bottle is fairly representative of the ink inside.
 

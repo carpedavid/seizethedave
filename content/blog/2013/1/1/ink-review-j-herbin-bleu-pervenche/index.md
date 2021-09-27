@@ -8,15 +8,7 @@ tags:
   - "blue-ink"
 ---
 
-View fullsize
-
-\>
-
-<img src="https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1357071638192-5IPJTD6GB39E7TIK2NSE/j+herbin+bleu+pervenche.jpg" alt="j herbin bleu pervenche writing sample" />
-
-![j herbin bleu pervenche writing sample](https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1357071638192-5IPJTD6GB39E7TIK2NSE/j+herbin+bleu+pervenche.jpg)
-
-j herbin bleu pervenche writing sample
+![j herbin bleu pervenche writing sample](exemplar.jpg)
 
 J. Herbin makes watercolor-lovely ink. Some colors, like [Bleu Myosotis](/blog/2010/11/15/ink-review-j-herbin-bleu-myosotis.html), give the impression that the viewer is looking at a field of wildflowers through a set of gauzy curtains in the pale light of a spring morning. Bleu Pervenche, on the other hand, places the viewer on a rocky outcropping, gazing out at the blue-green waters of the Mediterranean, one hand against the brow to shield his eyes, squinting in the summer sun.
 
@@ -28,27 +20,11 @@ The ink exhibits a high degree of feathering on normal copy paper and Staples Ba
 
 Like most J. Herbin inks, saturation is low, which enables the loveliest characteristic of Bleu Pervenche to shine: the high degree of shading that it exhibits even in fine-writing pens. Show- and bleed-though were both moderate on Rhodia paper, though I didn't notice it at all on slightly heavier Clairefontaine notebook paper.
 
-View fullsize
-
-\>
-
-<img src="https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1357071135726-83SPV8CZRWDKVLL3BWBA/j+herbin+bleu+pervenche+water+test.jpg" alt="j herbin bleu pervenche water test" />
-
-![j herbin bleu pervenche water test](https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1357071135726-83SPV8CZRWDKVLL3BWBA/j+herbin+bleu+pervenche+water+test.jpg)
-
-j herbin bleu pervenche water test
+![j herbin bleu pervenche water test](durability.jpg)
 
 J. Herbin inks aren't known for being water resistant, and Bleu Pervenche is no exception. When I ran my wet finger across the page for the smear test, it erased most of the lines, and left a blue haze in its wake. The drip test, in which I let a several drops of water sit on the page for a minute before blotting them up, wasn't much better – most of the ink came up with the blotter. The soak test, where I run the paper under water for thirty seconds, was the most impressive of all – nearly all of the ink was washed away, and only the faintest of lines remains.
 
-View fullsize
-
-\>
-
-<img src="https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1357071173871-Y0GDM64M221NN24XW6WG/j+herbin+bleu+pervenche+bottle.jpg" alt="j herbin bleu pervenche bottle" />
-
-![j herbin bleu pervenche bottle](https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1357071173871-Y0GDM64M221NN24XW6WG/j+herbin+bleu+pervenche+bottle.jpg)
-
-j herbin bleu pervenche bottle
+![j herbin bleu pervenche bottle](bottle.jpg)
 
 J. Herbin fountain pen inks come in a 30ml bottle with an integrated pen rest that is suitable for displaying on top of one's desk. The bottles are slightly challenging to use with a large-nibbed pen, though – I had to tilt the bottle to get a deep enough well to fully submerge my pen.
 

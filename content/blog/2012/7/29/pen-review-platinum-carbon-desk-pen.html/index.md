@@ -7,11 +7,9 @@ tags:
   - "platinum"
 ---
 
-[![](http://static.squarespace.com/static/4ff3a147e4b0d277e95412d1/507ef311e4b0d506cf192e04/507ef312e4b0d506cf1930c9/1343577239227/1000w)](javascript:Y.Squarespace.Utils.lightboxAsset('507ef312e4b0d506cf1930cb');)
+![Platimum Carbon Desk Pen](carbon-pen.jpeg)
 
-(click to embiggen - photo courtesy of Jet Pens)
-
-[Platinum Carbon](/blog/2011/3/8/ink-review-platinum-carbon-black.html) is archival-quality ink that I've reviewed favorably in the past. I've reviewed other permanent inks as well, but Carbon stands out for its ability to completely withstand water once dry, making it very friendly to artists who want to paint with washes or watercolors over inked lines. Most other permanent inks permanently stain the page, but leave a residue that can be smeared or tint the color of the wash.
+[Platinum Carbon](/blog/2011/3/8/ink-review-platinum-carbon-black) is archival-quality ink that I've reviewed favorably in the past. I've reviewed other permanent inks as well, but Carbon stands out for its ability to completely withstand water once dry, making it very friendly to artists who want to paint with washes or watercolors over inked lines. Most other permanent inks permanently stain the page, but leave a residue that can be smeared or tint the color of the wash.
 
 To understand the behavior of Carbon ink, it is useful to discuss the difference between dyes and pigments. Generally speaking, dye is a soluble substance that chemically bonds to the substrate that it is coloring. Because they are soluble, many dyes can be washed off easily, and must be fixed in place using other substances. Since the vast majority of fountain pen inks are dye based, finding ones with water resistance is hard to come by.
 
@@ -37,9 +35,7 @@ Everything I've described so far is good – there are no showstoppers – but n
 
 At any rate, a nib this fine has no business being this smooth. It has a bit of spring to it, which gives it a cushioned feel on the page. Additionally, you can coax a tiny bit of line variation with gentle pressure, due to the springiness; it is not a flex nib – to be clear, just one with a bit of give.
 
-[![](http://static.squarespace.com/static/4ff3a147e4b0d277e95412d1/507ef311e4b0d506cf192e04/507ef312e4b0d506cf1930ca/1343577395177/1000w)](javascript:Y.Squarespace.Utils.lightboxAsset('507ef312e4b0d506cf1930cc');)
-
-(click to embiggen)
+![writing sample](exemplar.jpeg)
 
 The super-fine nib produces an extremely slender line, as you can see in the sample above. The super-fine line would be perfect for writing complex ideograms with, which I suppose is the point. With many types of ink, a line this fine would look washed out, but the Carbon ink is up to the task. While clearly not as bold as the extra-fine line created by the Lamy, it's still a solid black on the page.
 

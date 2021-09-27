@@ -8,13 +8,7 @@ tags:
   - "black-ink"
 ---
 
-View fullsize
-
-\>
-
-<img src="https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1446038422463-2KFKZ1DFFN2DY0Z8L8PO/image-asset.jpeg" alt="" />
-
-![](https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1446038422463-2KFKZ1DFFN2DY0Z8L8PO/image-asset.jpeg)
+![Kaweco Pearl Black](exemplar.jpeg)
 
 In the years since I began my fountain pen obsession, I've amassed a fair quantity of ink from a wide variety of manufacturers, but I've never been in the position to review the full range of one manufacturer's offerings. Thanks to the fine people at Kaweco, though, I have all eight colors that they offer, so I can compare and contrast within the line as well as without.
 
@@ -26,8 +20,6 @@ Let's start with Pearl Black, the most saturated of the eight colors. It's a sol
 
 The characteristic that I found most surprising about Pearl Black, and therefore all of the Kaweco colors, was its performance on cheap, absorbent paper: it behaves very, very well. The dry nature of the ink combined with whatever chemical engineering went into its formulation makes the ink resistant to feathering and bleed through. This is the perfect line of ink for someone who wants the benefits of a fountain pen with a variety of color choices, but who is forced to write on the sort of paper that office administrators buy because it is cheap.
 
-.tg {border-collapse:collapse;border-spacing:0;} .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;} .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;} .tg .tg-yw4l{vertical-align:top}
-
 | Paper | Dry Time | Bleed Through | Ghosting | Feathering |
 | --- | --- | --- | --- | --- |
 | Copier | 1 second | Low | Moderate | Low |
@@ -36,13 +28,7 @@ The characteristic that I found most surprising about Pearl Black, and therefore
 | Midori | 15 seconds | None | Low | None |
 | Canson | 10 seconds | None | None | None |
 
-View fullsize
-
-\>
-
-<img src="https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1446038446197-Z6BMLYXW4G2EHLVP3JN8/image-asset.jpeg" alt="" />
-
-![](https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1446038446197-Z6BMLYXW4G2EHLVP3JN8/image-asset.jpeg)
+![Water Test](durability.jpeg)
 
 I had no idea what to expect from Pearl Black going into the water test, as this is the first Kaweco ink I've tested. There is no mention of water resistance in the ad copy, which is good, because it doesn't appear to have any. I was slightly surprised by what the Pearl Black did when water touched it though - in each case, it turned a deep purple before washing away.
 
@@ -50,11 +36,7 @@ In the smear test, in which I run a wet finger across the page, the ink turned i
 
 The soak test yielded the best results, counter-intuitively, because the multiple components in the ink washed away quickly, leaving a faint set of lines behind. One could argue that this reflects a minor level of water resistance - clearly some part of the ink is bonding to the paper and resisting removal, but the degree to which the ink bleeds and its eagerness to do so suggests that wetting this ink is mostly likely going to lead to ruin. One should absolutely not use this ink for any type of artwork where washes will be layered on top of it.
 
-\>
-
-<img src="https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1446060260549-3XUNOM19ACW6DU9U660C/image.jpg" alt="image.jpg" />
-
-![image.jpg](https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1446060260549-3XUNOM19ACW6DU9U660C/image.jpg)
+![Bottle](bottle.jpg)
 
 Kaweco ink comes in two forms: cartridges and 30ml glass bottles, which is the format I used during testing. The bottles themselves are pleasantly designed, and the labels accurately reflect the color of the ink inside them. I have no real complaints about the bottle, other than I had to tip it to the side slightly in order to create sufficient depth to fill my test pen properly.
 

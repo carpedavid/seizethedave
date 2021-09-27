@@ -8,19 +8,13 @@ tags:
   - "green-ink"
 ---
 
-\>
+![Diamine Meadow](exemplar.jpeg)
 
-<img src="https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1432605826018-DJ87RLPANRZLEUIXPU1B/image-asset.jpeg" alt="" />
-
-![](https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1432605826018-DJ87RLPANRZLEUIXPU1B/image-asset.jpeg)
-
-I’m not a connoisseur of green ink. I’ve reviewed J. Herbin’s [Vert Olive](http://www.carpedavid.com/blog/2010/6/8/ink-review-j-herbin-vert-olive.html) and [Vert Empire](http://www.carpedavid.com/blog/2010/3/13/ink-review-j-herbin-vert-empire.html), and I have Iroshizuku Shinryoku sitting on my shelf, but none of them have spent much time in my pens. Over the years, I’ve reviewed plenty of red and blue ink, and I love a good purple, but green isn’t a color that captured my imagination – until I tried Diamine Meadow.
+I’m not a connoisseur of green ink. I’ve reviewed J. Herbin’s [Vert Olive](/blog/2010/6/8/ink-review-j-herbin-vert-olive.html) and [Vert Empire](/blog/2010/3/13/ink-review-j-herbin-vert-empire.html), and I have Iroshizuku Shinryoku sitting on my shelf, but none of them have spent much time in my pens. Over the years, I’ve reviewed plenty of red and blue ink, and I love a good purple, but green isn’t a color that captured my imagination – until I tried Diamine Meadow.
 
 There’s no mystery in the inspiration behind the name of the ink – no foreign (to English speakers) language to parse or obscure tidbit to research – only the verdant, vibrant, green of an English meadow. The ink is a lovely, moderately saturated yellow-green that exhibits a very high degree of shading. Like most Diamine ink, it is neither especially dry nor especially wet. It is pleasant to write with, but doesn’t go out of its way to make the pen glide across the page.
 
 In my experience, Diamine ink performs consistently across the different colors of the line: it feathers on absorbent, un-sized paper, and it behaves admirably on coated, ink-resistant paper. Meadow behaved as expected on the five paper types I used to test it: cheap, office copier paper; Staples Bagasse notepad; Rhodia Bloc pad; Midori MD notebook; and Canson XL Mix Media notebook.
-
-.tg {border-collapse:collapse;border-spacing:0;} .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;} .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
 
 | Paper | Dry Time | Bleed-Through | Show-Through | Feathering |
 | --- | --- | --- | --- | --- |
@@ -30,11 +24,7 @@ In my experience, Diamine ink performs consistently across the different colors 
 | Midori | 15 seconds | No | Low | None |
 | Canson | 20 seconds | No | None | None |
 
-\>
-
-<img src="https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1432605871973-QSUW37M67H9NLJTLR3H0/image-asset.jpeg" alt="" />
-
-![](https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1432605871973-QSUW37M67H9NLJTLR3H0/image-asset.jpeg)
+![Meadow water test](durability.jpeg)
 
 While an actual meadow is invigorated by a healthy rain, growing bolder and more verdant as a result, Diamine Meadow is affected in precisely the opposite fashion. The smear test, in which I run a wet finger over the paper, produced a lovely yellow-green smudge, obliterating the lines on the page. In the drop test, in which I leave water on the paper for 10 seconds before blotting it up, the ink lifted easily from the page, leaving a ghostly haze behind.
 

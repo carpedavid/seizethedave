@@ -8,15 +8,7 @@ tags:
   - "gray-ink"
 ---
 
-View fullsize
-
-\>
-
-<img src="https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1443313170445-H9J78S0TXTM171MFHRLY/image-asset.jpeg" alt="Noodler's Lexington Gray" />
-
-![Noodler's Lexington Gray](https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1443313170445-H9J78S0TXTM171MFHRLY/image-asset.jpeg)
-
-Noodler's Lexington Gray
+![Noodler's Lexington Gray](exemplar.jpeg)
 
 The USS Lexington is the oldest surviving aircraft carrier in the world. Commissioned in 1943, it saw extensive service as part of the Pacific fleet during WWII, where it developed a reputation for being impossible to sink - so much so that Japanese navy began referring to it as a “ghost” ship. This reputation, coupled with it’s blue camouflage scheme, earned the ship the moniker “The Blue Ghost.”
 
@@ -28,8 +20,6 @@ It exhibits a surprising amount of shading for an ink with such a high degree of
 
 It is smooth-writing ink, though the flow is slightly on the dry side. Overall, it’s easy to write with across most types of paper. It also behaves quite well on all of the paper types I tested. Feathering was low across the board, and dry times were will within expectations for the different paper types I tested: cheap, office copier paper; Staples bagasse notepad; Rhoda Bloc pad; Midori MD notebook; and Canson XL Mix Media notebook. 
 
-.tg {border-collapse:collapse;border-spacing:0;} .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;} .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;} .tg .tg-yw4l{vertical-align:top}
-
 | Paper | Dry Time | Bleed Through | Show Through | Feathering |
 | --- | --- | --- | --- | --- |
 | Copier | 1 second | Moderate | Moderate | Low |
@@ -38,13 +28,7 @@ It is smooth-writing ink, though the flow is slightly on the dry side. Overall, 
 | Midori | 15 seconds | None | Low | None |
 | Canson | 20 seconds | None | None | None |
 
-\>
-
-<img src="https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1443026944713-GHLFLOEWKX88MV2ECXQM/image-asset.jpeg" alt="Noodler's Lexington Gray water test" />
-
-![Noodler's Lexington Gray water test](https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1443026944713-GHLFLOEWKX88MV2ECXQM/image-asset.jpeg)
-
-Noodler's Lexington Gray water test
+![Noodler's Lexington Gray water test](durability.jpeg)
 
 Lexington Gray is advertised as "bulletproof" - Noodler's term of art for ink that resists removal from that paper, once dry. As you can see by the water test, the description is entirely accurate; the ink isn't going anywhere. Once again, the Lexington lives up to its reputation as unsinkable. This is one of the most impressive water tests I've done. If I didn't tell you that the scan above was from _after_ the water test, you'd never suspect it.
 
@@ -52,13 +36,7 @@ I do three types of tests to evaluate an ink's water resistance. In this case, t
 
 One other item worth noting is that Lexington Gray is also advertised as UV light-proof. Testing ink for light-fastness isn’t part of my standard repertoire, but I do understand that it is a concern for those looking for an archival quality ink. If the water-fastness test is any indication of the ink’s light-fastness, though, I’m guessing that you could leave your work face up in the middle of the Sahara desert for several millennia, and it wouldn’t fade one bit. 
 
-\>
-
-<img src="https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1443313241296-FMC33M5NZJ9CGYNIGKLM/image.jpg" alt="Noodler's Lexington Gray bottle" />
-
-![Noodler's Lexington Gray bottle](https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1443313241296-FMC33M5NZJ9CGYNIGKLM/image.jpg)
-
-Noodler's Lexington Gray bottle
+![Noodler's Lexington Gray bottle](bottle.jpg)
 
 Noodler’s bottles are very utilitarian, and this one is no exception. The bottle of Lexington Gray is their standard, stock bottle, filled to the brim with ink. Be careful when opening a bottle of Noodler's ink for the first time - it's easy to spill if you're even the slightest bit careless. On the label is a picture of the ink's naval namesake, the USS Lexington. Noodler’s is never going to win design awards for their bottles or packaging, but they don’t need to when the ink itself is so good.
 

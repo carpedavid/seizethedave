@@ -7,11 +7,7 @@ tags:
   - "iroshizuku"
 ---
 
-\>
-
-<img src="https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1407098850725-4QDIMB68LLKIOXB0FQPA/iroshizuku+asagao.jpg" alt="iroshizuku asagao.jpg" />
-
-![iroshizuku asagao.jpg](https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1407098850725-4QDIMB68LLKIOXB0FQPA/iroshizuku+asagao.jpg)
+![iroshizuku asagao](exemplar.jpg)
 
 I’d like to begin by offering a hearty apology to the fine folks at [Jet Pens](http://www.jetpens.com), who sent me a bottle of [Iroshizuku Asagao](http://www.jetpens.com/Pilot-Iroshizuku-Ink-50-ml-Asa-gao-Morning-Glory-Dark-Blue/pd/3508) all the way back in October of 2013. At the time, I thought that I could sneak in an ink review in the middle of my EMBA program. That was a gross over-estimation of time and ability on my part. I managed to get the ink samples created, but the review itself never materialized – always de-prioritized in favor of papers, presentations, and projects. I’m finally back, though. My brain has recovered, and, for my first foray back into the reviewing realm, I’m delivering the long-overdue review of Iroshizuku Asagao.
 
@@ -19,11 +15,7 @@ The morning glory was first identified in China, where it was used for medicinal
 
 The ink performed modestly across a variety of paper types. On Rhodia paper, which is very fountain pen friendly, the ink dried in 4 seconds, and displayed moderate feathering. Show-through and bleed-through were both moderate as well – manageable, but one wouldn’t want to use this ink to write on both sides of the page. It performed reasonably well on cheap copier paper, where it dried in 1 second, and had low to moderate feathering. It had above average levels of bleed-through and show-through, though. Asagao fared the worst on Staples’ bagasse, where it dried in 2 seconds, but exhibited extraordinary feathering, and had high levels of bleed-through and show-through.
 
-\>
-
-<img src="https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1407098881914-SVCZVCKU82SUHTVAOJR6/iroshizuku+asagao+water+test.jpg" alt="iroshizuku asagao water test.jpg" />
-
-![iroshizuku asagao water test.jpg](https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1407098881914-SVCZVCKU82SUHTVAOJR6/iroshizuku+asagao+water+test.jpg)
+![iroshizuku asagao water test](durability.jpg)
 
 Asagao is the first Iroshizuku ink on which I’ve conducted a water test, so I wasn’t quite sure what to expect. They are not advertised as possessing any significant water resistance, so I had no idea whether it would wash out easily, or hang on tenaciously. Overall, it did reasonably well.
 
@@ -31,11 +23,7 @@ The smear test, in which I run a wet finger over the page, turned the lovely blu
 
 The drip test, in which I leave drops of water on the page for a few seconds or so before blotting, caused the lines to feather and some ink to be blotted up, but the sample was still readable. The soak test, in which I run the paper under a stream of water for thirty seconds in an attempt to wash the ink off the page, did rinse a great amount of the ink away. However, enough remained behind to be completely legible.
 
-\>
-
-<img src="https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1407099054113-PBAE9QZMJMCBA4GIDYAZ/image-asset.jpeg" alt="" />
-
-![](https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1407099054113-PBAE9QZMJMCBA4GIDYAZ/image-asset.jpeg)
+![iroshizuku asagao bottle](bottle.jpeg)
 
 Iroshizuku bottles remain one of the loveliest designs in the field. The beautiful 50ml bottle brilliantly showcases the color of the ink it contains. It’s quite solid and its thick bottom gives it a surprising amount of heft. An indentation in the bottom of the bottle is intended to aid in soaking up the last few drops of ink.
 

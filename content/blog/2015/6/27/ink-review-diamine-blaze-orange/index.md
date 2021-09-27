@@ -8,15 +8,7 @@ tags:
   - "orange-ink"
 ---
 
-View fullsize
-
-\>
-
-<img src="https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1435439619844-SF7V2MFY5K1D40RDKOK0/image-asset.jpeg" alt="Diamine Blaze Orange. Click to embiggen." />
-
-![Diamine Blaze Orange. Click to embiggen.](https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1435439619844-SF7V2MFY5K1D40RDKOK0/image-asset.jpeg)
-
-Diamine Blaze Orange. Click to embiggen.
+![Diamine Blaze Orange](exemplar.jpeg)
 
 Blaze orange is well known to Americans as the color of construction barrels, traffic cones, and hunting caps. It’s a color designed to provide significant contrast to the environment – critical when dodging traffic during rush hour on a busy highway or when creeping through the woods with dozens of other hunters, all of whom have high-powered rifles in hand. In those contexts, the color is aggressively monotone, obnoxious, and prosaic, but when embodied in ink form by Diamine, it becomes delightfully dynamic, engaging, and lyrical.
 
@@ -26,8 +18,6 @@ Blaze Orange is generally pleasant to write with. Like most Diamine ink, it is n
 
 In my experience, Diamine ink performs consistently across the different colors of the line: it feathers a bit on absorbent, un-sized paper, and it behaves admirably on coated, ink-resistant paper. Blaze Orange behaved as expected on the five paper types I used to test it: cheap, office copier paper; Staples Bagasse notepad; Rhodia Bloc pad; Midori MD notebook; and Canson XL Mix Media notebook.
 
-.tg {border-collapse:collapse;border-spacing:0;} .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;} .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
-
 | Paper | Dry Time | Bleed-Through | Show-Through | Feathering |
 | --- | --- | --- | --- | --- |
 | Copier | 1 second | Yes | Medium | Low |
@@ -36,25 +26,12 @@ In my experience, Diamine ink performs consistently across the different colors 
 | Midori | 10 seconds | No | Low | None |
 | Canson | 15 seconds | No | None | None |
 
-View fullsize
 
-\>
-
-<img src="https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1435439676510-O27EKWNCPJ0IY0PXPZ4R/image-asset.jpeg" alt="Diamine Blaze Orange water test. Click to embiggen." />
-
-![Diamine Blaze Orange water test. Click to embiggen.](https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1435439676510-O27EKWNCPJ0IY0PXPZ4R/image-asset.jpeg)
-
-Diamine Blaze Orange water test. Click to embiggen.
+![Diamine Blaze Orange water test.](durability.jpeg)
 
 Blaze Orange exhibits very little in the way of water resistance. When I ran a wet finger across the page for the the smear test, I left a giant orange smudge behind. In the drip test, where I let a drop of water soak on the paper before blotting it up, the ink fared no better – the affected ink lifted cleanly from the page, leaving only a soft, orange haze behind. During the soak test, in which I ran the page under a stream of water for 30 seconds, the ink almost completely washed away, fading to a ghost of its original self. This is not an ink that one should use to address an envelope or anything else that might be exposed to the elements.
 
-\>
-
-<img src="https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1443314024224-MYO1ESUH04DA6EQGLTRW/image.jpg" alt="Diamine Blaze Orange bottle" />
-
-![Diamine Blaze Orange bottle](https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1443314024224-MYO1ESUH04DA6EQGLTRW/image.jpg)
-
-Diamine Blaze Orange bottle
+![Diamine Blaze Orange bottle](bottle.jpg)
 
 Diamine ink is available in 30ml plastic and an 80ml glass bottles, both of which are utilitarian and slightly boring in appearance. The 30ml plastic bottle has a neck that is very small in diameter, and I found that some of my larger pens would not fit all the way in, which made getting to the ink a bit of a challenge. Though you may wish to go with the smaller volume to try out a new color, my recommendation would be to go for the larger bottle due to its superior usability.
 

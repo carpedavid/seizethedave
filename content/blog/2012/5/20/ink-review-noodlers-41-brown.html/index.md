@@ -8,41 +8,17 @@ tags:
   - "brown-ink"
 ---
 
-[
-
-\>
-
-<img src="https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1350497043794-GS9L5VEQLJ9ROLQ8LG0T/image-asset.jpeg" alt="" />
-
-![](https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1350497043794-GS9L5VEQLJ9ROLQ8LG0T/image-asset.jpeg)
-
-](javascript:Y.Squarespace.Utils.lightboxAsset('507ef312e4b0d506cf19308a');)
-
-[](javascript:Y.Squarespace.Utils.lightboxAsset('507ef312e4b0d506cf19308a');)
-
-(click to embiggen)
+![Noodler's 41 Brown](exemplar.jpeg)
 
 My infatuation with Noodler's bulletproof ink continues. This time, it is #41 Brown – an ink named after the junior senator from Massachusetts, Scott Brown. I'll get to the political meaning behind the name later, when I discuss the label - but for now, let it be known that the ink is a rich, dark brown with golden overtones. It is highly saturated, like most Noodler's inks, which results in a solid, clean line with little shading.
 
-I tested the ink on a Rhodia notepad, Staples bagasse, and cheap office-quality copier paper. Compared to [Noodler's Black](https://david-garrett.squarespace.com/blog/2012/3/24/ink-review-noodlers-black-revisited.html), #41 Brown is less viscous - it doesn't enable the pen to glide across the page like an Olympic ice skater, but it is still easy and pleasant to write with. Like most Noodler's inks, it exhibits very little feathering – even on copier paper. Bleed-through is non-existent on all of the papers I tested it with; show-though is also low to nil.
+I tested the ink on a Rhodia notepad, Staples bagasse, and cheap office-quality copier paper. Compared to [Noodler's Black](/blog/2012/3/24/ink-review-noodlers-black-revisited.html), #41 Brown is less viscous - it doesn't enable the pen to glide across the page like an Olympic ice skater, but it is still easy and pleasant to write with. Like most Noodler's inks, it exhibits very little feathering – even on copier paper. Bleed-through is non-existent on all of the papers I tested it with; show-though is also low to nil.
 
 Like most Noodler's inks, the drying time varies widely depending on the paper. On cheap, absorbent, copier paper, it dried to the touch on three seconds. On Staples bagasse, it dried in fifteen seconds. However, as is typical, it took over a minute to completely dry and become smudge proof on the coated Rhodia paper. 
 
 Historically, drying time has been the major factor preventing me from extensively using Noodler's inks. As I mentioned in my re-review of Black, my writing habits have changed extensively enough that I no longer find the long drying time to be an issue. Your mileage may vary – if you are tearing through pages in a Moleskine or Rhodia Webbie, committing your latest brainstorm to paper, you may well be unhappy with the results. If you are a lefty and insist on using high quality paper and notebooks, you may be in for a rude surprise. However, if you spend all day writing on legal pads and copier paper, you may quickly fall in love.
 
-[
-
-\>
-
-<img src="https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1350497043689-JX5X18ADQRPTSCSGOJQ9/image-asset.jpeg" alt="" />
-
-![](https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1350497043689-JX5X18ADQRPTSCSGOJQ9/image-asset.jpeg)
-
-](javascript:Y.Squarespace.Utils.lightboxAsset('507ef312e4b0d506cf19308b');)
-
-[](javascript:Y.Squarespace.Utils.lightboxAsset('507ef312e4b0d506cf19308b');)
-
-(click to embiggen)
+![water test](durability.jpeg)
 
 Noodler's bulletproof inks are designed to withstand attempts to remove them from paper. The dyes bond to the cellulose in the paper and can't be washed away by water, bleach, or other methods. Therefore, they stand up fairly well to water on most paper. On coated papers that resist ink, they may sometimes smudge, as the ink that dries upon the surface is still susceptible to being washed away.
 
@@ -54,19 +30,7 @@ On the soak test, in which I run the paper under a stream of water for several m
 
 Nathan Tardiff, the wizard behind Noodler's ink, doesn't do things in half measures. He designs his inks to behave well on the most common paper types, instead of assuming that the user will have paper that is friendly to fountain pen ink, and he designs his bulletproof inks to stand up to all but the most determined forger.
 
-[
-
-\>
-
-<img src="https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1350497043689-RUGTKX9WKN90IFVIPGE8/image-asset.jpeg" alt="" />
-
-![](https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1350497043689-RUGTKX9WKN90IFVIPGE8/image-asset.jpeg)
-
-](javascript:Y.Squarespace.Utils.lightboxAsset('507ef312e4b0d506cf19308c');)
-
-[](javascript:Y.Squarespace.Utils.lightboxAsset('507ef312e4b0d506cf19308c');)
-
-(click to embiggen)
+![Noodler's 41 Brown bottle](bottle.jpeg)
 
 One of the other areas where Mr. Tardiff deals in extremes is in his political beliefs. He's not afraid to share them, going so far as to plaster them on the labels of his bottles. In the case of #41 Brown, the label has three catfish (the mascot of Noodler's ink), which are apparently from Lake Pearl in Wrentham, Massachusetts, residence of Senator Scott Brown. The three catfish are pictured as thinking, in order, "Cast asunder one party nepotism and feudalism," "The 'Scott' heard round the world," and "It's the people's seat! Monarchy in Massachusetts eternally results in revolution."
 

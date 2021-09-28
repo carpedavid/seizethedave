@@ -5,10 +5,6 @@ tags:
   - "ink"
 ---
 
-![](http://s3.media.squarespace.com/production/1431296/16917466/-pVYkleemO0w/TyIZD6TtnQI/AAAAAAAAAco/1SyxJiiVfHE/s400/inkventory.jpg)
-
-(click to embiggen)
-
 Over the past two years or so, I've acquired a lot of ink. The collection above represents my inkventory as of January 2012, not including a rack full of samples. So, I thought I'd catalog my collection just for fun. Below are the bottles of ink that I own, linked to the reviews that I've done for each.
 
 **Diamine**

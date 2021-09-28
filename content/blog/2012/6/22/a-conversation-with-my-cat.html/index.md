@@ -9,11 +9,7 @@ tags:
   - "sriracha"
 ---
 
-\>
-
-<img src="https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1403978482961-YU7MHV0R36SDD1A2Q9WQ/zocalo.jpg" alt="zocalo.jpg" />
-
-![zocalo.jpg](https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1403978482961-YU7MHV0R36SDD1A2Q9WQ/zocalo.jpg)
+![zocalo.jpg](zocalo.jpg)
 
 "Hola, Señor."
 

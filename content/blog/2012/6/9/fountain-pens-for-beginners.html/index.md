@@ -13,25 +13,13 @@ The three main factors that will affect your experience are the pen itself, the 
 
 ## Pen
 
-\>
-
-<img src="https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1350497043827-1FBKXR32ZTWMWTMNRVUO/image-asset.jpeg" alt="" />
-
-![](https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1350497043827-1FBKXR32ZTWMWTMNRVUO/image-asset.jpeg)
-
-(Lamy Safari in charcoal)
+![Lamy Safari in charcoal](lamy-safari.jpeg)
 
 The best beginner's pen, in my opinion, is the Lamy Safari. The Safari is a workhorse of a pen and is marketed toward every-day users and students. It is easy to clean and maintain, it's durable, and it's fairly priced. The steel nib is available in a variety of widths, which range from extra-fine, which approximates a fine-tipped ballpoint pen, to fine, which resembles a medium-tipped ballpoint pen, to medium and broad. The plastic body of the pen comes in a range of colors, from conservative charcoal to bright red.
 
 The Safari comes with a cartridge of blue ink. The cartridge plugs into the back of the nib unit, and can be replaced with other cartridges. Lamy ink cartridges come in basic colors: blue, black, blue/black, red, green, turquoise, and violet. They are easy to use, convenient to carry around, and are fairly mess free. The only drawback is the lack of color variety.
 
-\>
-
-<img src="https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1350497043837-LQ45V694AYAE5GJE6NWO/image-asset.jpeg" alt="" />
-
-![](https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1350497043837-LQ45V694AYAE5GJE6NWO/image-asset.jpeg)
-
-(Safari nib unit with converter attached)
+![Safari nib unit with converter attached](safari-nib-unit.jpeg)
 
 If you feel like exploring the wide range of colors available in bottled inks, then you'll need something called a converter. A converter plugs into the back of the nib unit, just like a cartridge, except that it contains a screw-driven piston. To fill a pen that uses a converter, you'll need to plunge the whole nib, up to the barrel of the pen, into an open bottle. By twisting the screw on the end of the converter, you can move the piston up and down, and pull the ink up into the barrel.
 
@@ -39,13 +27,7 @@ When you've filled the converter, make sure to wipe off any excess ink on the bo
 
 ## Ink
 
-\>
-
-<img src="https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1350497043955-2W5RV86T8401QUO9VD6I/image-asset.jpeg" alt="" />
-
-![](https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1350497043955-2W5RV86T8401QUO9VD6I/image-asset.jpeg)
-
-(From the left: Noodler's Black, Waterman Florida Blue, Diamine Monaco Red)
+![From the left: Noodler's Black, Waterman Florida Blue, Diamine Monaco Red](ink-bottles.jpeg)
 
 Bottled fountain pen ink is available in a wide variety of colors and qualities. Some ink is highly saturated and produces vibrant, solid lines. Other ink produces amazing variations in shading, resulting in a lovely watercolor effect with each stroke. Some ink is designed to withstand the attacks of forgers and resist all attempts at removal, while other ink is designed to wash right out of clothing.
 
@@ -63,15 +45,9 @@ If you do any sort of editing, underlining, or highlighting, then a vibrant colo
 
 The last piece of the puzzle is paper. Most people are familiar primarily with notebook paper, legal pads, and cheap, office-grade copier paper. A whole world of high-quality paper awaits. Two brands of paper are well knows for being fountain-pen friendly. They have smooth surfaces, which makes them easy to write on, and they resist ink, which means that they produce nice, crisp lines with a minimum of feathering.
 
-\>
+![Rhodia notepads](rhodia-pads.jpeg)
 
-<img src="https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1350497043938-PRSA2BU3B7S0Q63CFTCF/image-asset.jpeg" alt="" />
-
-![](https://images.squarespace-cdn.com/content/v1/4ff3a147e4b0d277e95412d1/1350497043938-PRSA2BU3B7S0Q63CFTCF/image-asset.jpeg)
-
-(Rhodia notepads)
-
-Rhodia is famous for producing notepads bound in a bright orange, coated cardboard. They are available in a wide variety of sizes and in blank, lined, or graph paper. The microperforated paper itself is bright white and pH neutral, so it is easy to read, stands up to wear and tear, and lasts a long time. Rhodia notepads are what I use to write [all of my ink reviews](/blog/?category=ink%20reviews).
+Rhodia is famous for producing notepads bound in a bright orange, coated cardboard. They are available in a wide variety of sizes and in blank, lined, or graph paper. The microperforated paper itself is bright white and pH neutral, so it is easy to read, stands up to wear and tear, and lasts a long time. Rhodia notepads are what I use to write [all of my ink reviews](/categories/ink-reviews/).
 
 Clairefontaine makes great notebooks. Their softcover, clothbound notebooks contain 96 pages of satin-smooth, bright white paper, and are available in blank, lined, French-ruled, or graph.
 

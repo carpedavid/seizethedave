@@ -8,9 +8,7 @@ tags:
   - "rohrer-and-klingner"
 ---
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/--_Ltn4RytvI/TyiDKH-0nBI/AAAAAAAAAdQ/Q5-mPobIK_k/s640/rohrer%2Band%2Bklingner%2Bscabiosa.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/--_Ltn4RytvI/TyiDKH-0nBI/AAAAAAAAAdQ/Q5-mPobIK_k/s1600/rohrer%2Band%2Bklingner%2Bscabiosa.jpg)
-
-(click to embiggen)
+![rohrer and klingner scabiosa](rohrer%20and%20klingner%20scabiosa.jpg)
 
   
 
@@ -56,13 +54,8 @@ Iron gall inks are traditionally dry-writing, and therefore behave well on most 
 
 Dry time was very good across the board, ranging from 3 seconds on the cheap copier paper to 12 seconds on the Rhodia paper. The outlier was staples bagasse, on which it took a full 16 seconds to dry. Feathering was also consistently low relative to the character of every paper; there were no surprises.
 
-  
 
-  
-
-[![](http://s3.media.squarespace.com/production/1431296/16917466/-eTRtJ6-3TQk/TyncTB8oOjI/AAAAAAAAAdY/FKSOjp1nYBQ/s320/rohrer%2Band%2Bklingner%2Bscabiosa%2Bwater%2Btest.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/-eTRtJ6-3TQk/TyncTB8oOjI/AAAAAAAAAdY/FKSOjp1nYBQ/s1600/rohrer%2Band%2Bklingner%2Bscabiosa%2Bwater%2Btest.jpg)
-
-(click to embiggen)
+![Water test](rohrer%20and%20klingner%20scabiosa%20water%20test.jpg)
 
   
 
@@ -80,25 +73,14 @@ For the smear test, in which I run a wet finger across the page, the results wer
 
 Finally, the soak test, in which I run the paper under water for thirty seconds, resulted in a very gradual lightening of the lines, as all the ink that hadn't bonded was washed away. What remains, though, is completely and easily readable.
 
-  
-
-  
-
-[![](http://s3.media.squarespace.com/production/1431296/16917466/-VBaXE8QETO4/TyiDI6H3ggI/AAAAAAAAAc4/kgsRTWipsm8/s320/roher%2Band%2Bklingner%2Bscabiosa%2Bbottle.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/-VBaXE8QETO4/TyiDI6H3ggI/AAAAAAAAAc4/kgsRTWipsm8/s1600/roher%2Band%2Bklingner%2Bscabiosa%2Bbottle.jpg)
-
-(click to embiggen)
+![bottle](roher%20and%20klingner%20scabiosa%20bottle.jpg)
 
   
 
 Rohrer and Klingner inks come in a 50ml glass bottle with a screw-on, metal lid. The color featured on the label in intended to mimic the color of the ink within. They're neither unattractive nor exceptionally pretty; instead they're merely functional, and remind me of art supplies. Unless you're an artist, they're not the kind of bottle you're likely to feature in a prominent place on your desk.
 
-  
 
-  
-
-[![](http://s3.media.squarespace.com/production/1431296/16917466/-6MZliJvcpVw/TyiDJGJVRMI/AAAAAAAAAdA/b9dc7_Az5p0/s320/rohrer%2Band%2Bklingner%2Bscabiosa%2Bhand.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/-6MZliJvcpVw/TyiDJGJVRMI/AAAAAAAAAdA/b9dc7_Az5p0/s1600/rohrer%2Band%2Bklingner%2Bscabiosa%2Bhand.jpg)
-
-(click to embiggen)
+![rohrer and klingner scabiosa](rohrer%20and%20klingner%20scabiosa%20hand.jpg)
 
 One final word about the water resistance of Scabiosa - it does a pretty good job of clinging to skin. This took a few washes to get completely off.
 

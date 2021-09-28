@@ -8,10 +8,7 @@ tags:
   - "noodlers"
 ---
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/-XqI9ZejtEcE/T241FCLU_oI/AAAAAAAAAeI/K2_Zzkj78Vs/s640/noodler)](http://s3.media.squarespace.com/production/1431296/16917466/-XqI9ZejtEcE/T241FCLU_oI/AAAAAAAAAeI/K2_Zzkj78Vs/s1600/noodler)
-
-(click to embiggen) 
-
+![noodler's black revisited](noodler's%20black%20revisited.jpg)
   
 ...or, How I Learned to Stop Worrying and Love the Bomb
 
@@ -33,12 +30,6 @@ On paper that fountain pen aficionados tend to avoid whenever possible, like the
 
 Another area in which Noodler's Black displays dramatic differences is in its lubricating qualities. It is not wet ink, and the line that it produces tends to be narrower than other inks. In some pens, this makes the nib feel slightly scratchy when compared to other less dry inks. However, it's not like a traditional dry ink, either. It is viscous, not miserly, and in many pens – especially wet writing ones – the ink allows the pen to skate across the surface of the page as if it were the surface of a still, frozen lake. My [Visconti Homo Sapiens](/2011/11/pen-review-visconti-homo-sapiens.html) is one such pen – its Dreamtouch nib loves this ink. Writing with the combination of the two is effortless.
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/-NwPWYa0HNsU/T241FoGFSRI/AAAAAAAAAeQ/FibKDIww5Mk/s320/noodler)](http://s3.media.squarespace.com/production/1431296/16917466/-NwPWYa0HNsU/T241FoGFSRI/AAAAAAAAAeQ/FibKDIww5Mk/s1600/noodler)
-
-(click to embiggen)
-
-  
-
 One of the main selling points of Noodler's Black is that it is bulletproof, which means that it is archival in quality – resisting fading and being friendly to paper. It also binds to the cellulose in paper and therefore becomes resistant to removal by washing, erasing, bleaching, and other conventional means. Here again, a greater level of experience allows me to be more nuanced when analyzing this characteristic than in my initial review. Noodler's Black is, indeed, not removable, as my tests below demonstrate. However, only the portion of the ink that binds to the paper resists removal – that which remains can be washed away.
 
 You can see this behavior in the smear test, in which I run a wet finger across the page. The lines are just as dark as they were to start, but now a light grey smudge accompanies them.
@@ -46,12 +37,6 @@ You can see this behavior in the smear test, in which I run a wet finger across 
 On coated papers that resist ink penetration (to avoid feathering, bleed-through, and show-through), some of the ink will end up drying on top of the paper and will not bind to the cellulose underneath. What remains bound to the paper can't be removed. However, unlike [Platinum Carbon](/2011/03/ink-review-platinum-carbon-black.html), for example, which does become completely waterproof when dry, the portion of Black that remains on top of the paper can smudge, smear, and wash away when exposed to water, making it unsuitable for use in artistic projects where one wishes to wash or paint over an inked line. For most, this will be a minor point of contention, but it is worth pointing out.
 
 The drip test and soak test, though, prove the bulletproof label – I defy anyone to identify that the ink has been touched by water at all. While the excess ink that dried on top of the page has been lifted or washed away, what remains is just as bold and dark a line as it ever was.
-
-[![](http://s3.media.squarespace.com/production/1431296/16917466/-QS-ZSIO1SR0/T242B4tWMSI/AAAAAAAAAeY/mHh1Qd4TAU4/s320/IMG_0731.JPG)](http://s3.media.squarespace.com/production/1431296/16917466/-QS-ZSIO1SR0/T242B4tWMSI/AAAAAAAAAeY/mHh1Qd4TAU4/s1600/IMG_0731.JPG)
-
-(click to embiggen)
-
-  
 
 Noodler's inks come in a standard 3 oz. bottle that's filled to the brim – so be careful when opening. Noodler’s intentionally uses stock bottles and lids to keep their prices low, which means that they aren’t intended to be showpieces in and of themselves. They are functional and stable, but not an objet d'art intended for the top of one's desk.
 

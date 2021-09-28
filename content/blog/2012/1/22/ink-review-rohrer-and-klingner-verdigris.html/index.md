@@ -7,9 +7,7 @@ tags:
   - "rohrer-and-klingner"
 ---
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/-HPbbcx4soss/TxxtNcvdCuI/AAAAAAAAAcY/Qilv4hjDRDA/s640/r%2Band%2Bk%2Bverdegris.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/-HPbbcx4soss/TxxtNcvdCuI/AAAAAAAAAcY/Qilv4hjDRDA/s1600/r%2Band%2Bk%2Bverdegris.jpg)
-
-(click to embiggen)
+![rohrer and klingner verdigris](r%20and%20k%20verdegris.jpg)
 
   
 Thanks to the generosity of the Fountain Pen Network member, Jared, I received set of ink samples. Among them were several vials of Rohrer and Klingner ink, which is a German brand that has recently become available in the US. I previously reviewed Morinda, which is a pretty, vibrant, candy-red ink. The second vial I opened was Verdigris, which is one of the more interesting inks I've had the pleasure of using.

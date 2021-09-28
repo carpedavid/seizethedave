@@ -8,9 +8,7 @@ tags:
   - "rohrer-and-klingner"
 ---
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/-ketTAOF7x1k/T4IkdXrVg3I/AAAAAAAAAe0/lGijkNSWxj4/s640/r%2Band%2Bk%2Bsalix.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/-ketTAOF7x1k/T4IkdXrVg3I/AAAAAAAAAe0/lGijkNSWxj4/s1600/r%2Band%2Bk%2Bsalix.jpg)
-
-(click to embiggen)
+![rohrer and klingner salix](r%20and%20k%20salix.jpg)
 
   
 Rohrer and Klingner make wonderful inks – I've enjoyed [Morinda](/2011/05/ink-review-rohrer-and-klingner-morinda_17.html), a vibrant, juicy candy-red, and [Verdigris](/2012/01/ink-review-rohrer-and-klingner.html), a dark, weathered blue-green. I also really liked Scabiosa, a dusky purple, and one of the only non-blue-black iron gall inks that I've ever seen. Salix is R&K's other iron gall ink, and it, too, defies the traditional iron-gall color scheme, though not as significantly as [Scabiosa](/2012/02/ink-review-rohrer-and-klingner-scabiosa.html).
@@ -25,9 +23,7 @@ Fortunately, modern formulations of iron gall ink are safe for fountain pens. Th
 
 Salix behaves reasonably on each of the papers I tested. Its drying time is significantly longer than its cousin, Scabiosa, but is not unreasonable. Dry time on fountain-pen-friendly Clairfontaine paper took about twenty seconds. On Staples bagasse, it was dry to the touch in ten seconds, and on cheap copier paper, it dried in five. Feathering was extremely low on each of the previously mentioned papers, as were show-though and bleed-through.
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/-L672Gq9dxXw/T4IkcoR7L4I/AAAAAAAAAes/0kSoaYPkp-o/s400/r%2Band%2Bk%2Bsalix%2Bwater%2Btest.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/-L672Gq9dxXw/T4IkcoR7L4I/AAAAAAAAAes/0kSoaYPkp-o/s1600/r%2Band%2Bk%2Bsalix%2Bwater%2Btest.jpg)
-
-(click to embiggen)
+![water test](r%20and%20k%20salix%20water%20test.jpg)
 
   
 As befits iron-gall ink, Salix performed well on the various water tests I subjected it to. However, like most permanent dye-based inks, (and unlike [Platinum Carbon](/2011/03/ink-review-platinum-carbon-black.html) and other pigmented inks) only the ink that bonds to the paper can be considered waterproof. In the smear test, in which I drag a wet finger across the surface of the paper, you can see a light smudge caused by a small amount of ink that dried on top of the surface of the paper.
@@ -35,10 +31,6 @@ As befits iron-gall ink, Salix performed well on the various water tests I subje
 The drip test, in which I let droplets of water soak on the page before blotting them up, reveals a slight bit of feathering due to the surface ink running and then drying elsewhere on the page. The original lines are still completely readable.
 
 The soak test, in which I run the paper under a stream of water for half a minute, results in the surface ink washing cleanly away, and leaving fully legible, though slightly lighter, lines behind.
-
-[![](http://s3.media.squarespace.com/production/1431296/16917466/-iAPpeTlVenU/T4ImjdJhCAI/AAAAAAAAAe8/gqxJO9UlL-4/s400/IMG_0738.JPG)](http://s3.media.squarespace.com/production/1431296/16917466/-iAPpeTlVenU/T4ImjdJhCAI/AAAAAAAAAe8/gqxJO9UlL-4/s1600/IMG_0738.JPG)
-
-(click to embiggen)
 
   
 Rohrer and Klingner inks come in a 50ml glass bottle with a screw-on, metal lid. The color featured on the label in intended to mimic the color of the ink within. They're neither unattractive nor exceptionally pretty; instead they're merely functional, and remind me of art supplies. Unless you're an artist, they're not the kind of bottle you're likely to feature in a prominent place on your desk.

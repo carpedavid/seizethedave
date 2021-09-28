@@ -8,9 +8,7 @@ tags:
   - "ink"
 ---
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/-DfqtQqZR0eA/TxNX17ShQhI/AAAAAAAAAcM/raW6Z0LnnBU/s640/diamine%2Bdamson.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/-DfqtQqZR0eA/TxNX17ShQhI/AAAAAAAAAcM/raW6Z0LnnBU/s1600/diamine%2Bdamson.jpg)
-
-(click to embiggen)
+![diamine damson](diamine%20damson.jpg)
 
   
 Diamine Damson is the color a ninja fruit would wear when trying to sneak into an orchard under the cover of darkness. Named for fruit it resembles, Damson is a dark, dusky plum that turns nearly black when used in a wet-writing pen. In a dry-writing pen, it produces a washed-out gray-purple line. It's a moderately saturated ink - neither as rich as other Diamine inks, like Imperial Purple, or as light as J. Herbin Poussiere de Lune, which it closely resembles. When written with a broad nib, Damson produces some nice shading, but delivers a fairly consistent line in a fine nib.

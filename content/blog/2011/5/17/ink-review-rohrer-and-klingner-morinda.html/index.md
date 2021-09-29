@@ -8,11 +8,7 @@ tags:
   - "rohrer-and-klingner"
 ---
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/-NgmwcjMmbLw/TdCKe3xmlWI/AAAAAAAAAR4/-K5dAr8Ur4w/s640/r%2Band%2Bk%2Bmorinda.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/-NgmwcjMmbLw/TdCKe3xmlWI/AAAAAAAAAR4/-K5dAr8Ur4w/s1600/r%2Band%2Bk%2Bmorinda.jpg)
-
-(click to embiggen)
-
-  
+![](r-and-k-morinda.jpg)
 
 Thanks to the generosity of the Fountain Pen Network member, Jared, I received set of ink samples. Among them were several vials of Rohrer and Klingner ink, which is a German brand that has recently become available in the US. I was immediately attracted to the vial of Morinda, which is a pretty, vibrant candy-red ink. It is similar in color to J. Herbin Rouge Caroubier, but significantly more saturated and somewhat less prone to shading.
 
@@ -38,11 +34,8 @@ The Ecosystem notebook fared a bit better, but its thicker, more absorbent paper
 
   
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/-1Cssakzsr8Q/TdCKheH2CeI/AAAAAAAAAR8/EUGniAsCKA4/s400/r%2Band%2Bk%2Bmorinda%2Bwater%2Btest.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/-1Cssakzsr8Q/TdCKheH2CeI/AAAAAAAAAR8/EUGniAsCKA4/s1600/r%2Band%2Bk%2Bmorinda%2Bwater%2Btest.jpg)
+![](r-and-k-morinda-water-test.jpg)
 
-(click to embiggen)
-
-  
 
 Morinda held up better than I expected when subjected to my series of water-fastness tests. On the smear test, in which I ran a wet finger across the page, the ink ran, but remained somewhat legible. I've seen other inks turn into an illegible mess, so this was somewhat refreshing.
 

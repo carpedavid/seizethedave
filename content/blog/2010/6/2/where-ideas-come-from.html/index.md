@@ -11,14 +11,14 @@ My general strategy is to look at people, places, or situations that would norma
 
 First, I may take a scene, an image, or a bit of dialogue that makes sense in a particular context and then strip away that context. The challenge is to then create an entirely new context in which the object in question makes sense.
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP7TssldpeI/AAAAAAAAAJA/l_PgUoJj5T8/s1600/ideas%2B1.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP7TssldpeI/AAAAAAAAAJA/l_PgUoJj5T8/s1600/ideas%2B1.jpg)
+![](ideas-1.jpg)
 
   
 (MARKUS SCHREIBER / AP)
 
 For example, the picture above is of a woman in costume at the Carnival of Cultures Parade in Berlin. Let’s strip away that context and create a new one. She looks a little bit like a porcelain doll – an aged and weathered living doll. Perhaps she lives in a world where opulence means having living artwork, where having a gallery full of sentient statuary is a display of wealth. If so, did her owner go bankrupt and lose his collection? Has she been moldering in a warehouse for a decade? What options would be available to her, now that she’s no longer in mint condition?
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP7TtFMg4vI/AAAAAAAAAJE/ii7iA8IioYQ/s1600/ideas%2B2.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP7TtFMg4vI/AAAAAAAAAJE/ii7iA8IioYQ/s1600/ideas%2B2.jpg)
+![](ideas-2.jpg)
 
   
 (REUTERS)

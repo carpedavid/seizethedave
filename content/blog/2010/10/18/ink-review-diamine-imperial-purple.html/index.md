@@ -11,7 +11,7 @@ tags:
 Rating: 5.0  
 October 18, 2010
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP48uAgYUKI/AAAAAAAAAGU/DcR0DZUfVIs/s1600/diamine%2Bimperial%2Bpurple.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP48uAgYUKI/AAAAAAAAAGU/DcR0DZUfVIs/s1600/diamine%2Bimperial%2Bpurple.jpg)
+![](diamine-imperial-purple.jpg)
 
   
 I’ve been using Diamine Imperial Purple for the past two weeks, and I can’t get enough of it. It’s a vibrant, majestic purple that makes me think of royal banners waving in a bright, sunny sky – of knights jousting on horseback and ladies waiting in…um…waiting. It is a highly saturated “red” purple that exhibits moderate shading. It is not reddish per-se, but rather red by contrast with a blue-purple or indigo.
@@ -24,7 +24,7 @@ In my initial testing, I noticed no bleed through with a variety of paper. Recen
 
 Drying time was good – on Moleskine and Rhodia paper, it took about eight seconds to dry. On garden variety copier paper, it took about three seconds.
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP48pMQFdnI/AAAAAAAAAGQ/SPHRnpU1O10/s1600/diamine%2Bimperial%2Bpurple%2Bbottle.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP48pMQFdnI/AAAAAAAAAGQ/SPHRnpU1O10/s1600/diamine%2Bimperial%2Bpurple%2Bbottle.jpg)
+![](diamine-imperial-purple-bottle.jpg)
 
   
 Diamine inks are available in a 30ml plastic bottle and an 80ml glass bottle, both of which are utilitarian in appearance. The smaller plastic bottle has a neck that is very small in diameter. I found that some of my larger pens, like a Lamy 2000, would not fit all the way in, which made getting to the ink a bit of a challenge. My recommendation would be to go for the larger bottle.

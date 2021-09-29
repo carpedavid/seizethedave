@@ -8,11 +8,7 @@ tags:
   - "sailor"
 ---
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/-YP-iyF-anic/Tb_YH2YhEII/AAAAAAAAAR0/wNiG2xQ1tLk/s640/sailor%2Bblue%2Bblack.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/-YP-iyF-anic/Tb_YH2YhEII/AAAAAAAAAR0/wNiG2xQ1tLk/s1600/sailor%2Bblue%2Bblack.jpg)
-
-(click to embiggen)
-
-  
+![](sailor-blue-black.jpg)
 
 Sailor Jentle Blue Black is a very pleasant, easy to use, blue-black ink. It is a dark blue with tinges of black - exactly what I would expect from a blue-black ink, and exactly unlike the Parker Quink Blue Black I reviewed previously. It is a moderately wet ink, compared to the Parker Quink, and therefore writes with a bolder line. It is highly saturated and exhibits a medium level of shading in a fine-nibbed pen.
 
@@ -32,13 +28,8 @@ Dry time faired quite well compared to other inks, as well. On the copier paper 
 
 My only complaint about the ink is that it has a very sharp chemical solvent smell to it. Some inks possess a mild odor that is only noticeable up close, but this scent is more powerful. It is similar to the smell of some permanent markers. If you're sensitive to odors in general, or specifically to that type of scent, I'd recommend steering clear, or at least evaluating it in person before buying.
 
-  
 
-  
-
-[![](http://s3.media.squarespace.com/production/1431296/16917466/-wpM65kYeFh0/Tb_YHO9lvaI/AAAAAAAAARw/91d3pDgRT24/s400/sailor%2Bblue%2Bblack%2Bwater%2Btest.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/-wpM65kYeFh0/Tb_YHO9lvaI/AAAAAAAAARw/91d3pDgRT24/s1600/sailor%2Bblue%2Bblack%2Bwater%2Btest.jpg)
-
-(click to embiggen)
+![](sailor-blue-black-water-test.jpg)
 
   
 
@@ -56,11 +47,7 @@ My conclusion is that Sailor Jentle Blue Black has an appreciable degree of wate
 
   
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/-p-5H06MUeII/Tb_X9xSQ8-I/AAAAAAAAARs/wOCPb_iSHb8/s400/sailor%2Bblue%2Bblack%2Bbottle.JPG)](http://s3.media.squarespace.com/production/1431296/16917466/-p-5H06MUeII/Tb_X9xSQ8-I/AAAAAAAAARs/wOCPb_iSHb8/s1600/sailor%2Bblue%2Bblack%2Bbottle.JPG)
-
-(click to embiggen)
-
-  
+![](sailor-blue-black-bottle.JPG)
 
 Sailor inks come in a bottle that looks like a cold-cream jar – though I suspect the water-resistant blue-black ink would make a poor cosmetic substitute for anyone but zombies. More interesting, perhaps, than the bottle's outward appearance, though, is the mechanism it has built-in for facilitating the filling of pens.
 

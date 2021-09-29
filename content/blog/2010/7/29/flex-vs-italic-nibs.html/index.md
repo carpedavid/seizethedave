@@ -22,7 +22,7 @@ Excellent question! While italic and flexible nibs are both capable of producing
 
 Flexible nibs, like the one in the video linked above, are generally the same width as a normal fine, medium, or bold nib, but the tines of the nib respond to the pressure of your hand. They separate, allowing more ink to flow, and thus produce a wider line. While there are some pen manufacturers that produce flexible nibs today, like the Namiki Falcon, vintage flexible nibs generally have a much higher degree of flex. Many nibmeisters will also modify modern nibs to add flexibility to them. For the example below, I actually used a flexible nib on a dip pen.
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP7HxmlhXTI/AAAAAAAAAIE/I4DZjPkYuoU/s1600/italic%2Bv%2Bflex.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP7HxmlhXTI/AAAAAAAAAIE/I4DZjPkYuoU/s1600/italic%2Bv%2Bflex.jpg)
+![](italic-v-flex.jpg)
 
   
 Personally, I think that italic nibs are much easier for a beginner to learn with. It’s much easier to control the angle that you hold your pen than to control the pressure as you’re learning. Plus, most calligraphy hands are designed for italic nibs, not flexible ones – so if you’re interested in learning classic italic, uncial, and roman scripts, then that’s where I’d recommend that you start.

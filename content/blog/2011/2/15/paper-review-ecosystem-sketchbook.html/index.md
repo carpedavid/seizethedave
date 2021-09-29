@@ -10,10 +10,7 @@ tags:
 Rating: 4.0  
 February 15, 2011
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TVHYZi7YrGI/AAAAAAAAAPc/2bIyzUwqaiI/s400/IMG_0274.JPG)](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TVHYZi7YrGI/AAAAAAAAAPc/2bIyzUwqaiI/s1600/IMG_0274.JPG)
-
-(click to embiggen)
-
+![](IMG_0274.JPG)
   
 I've been a big fan of ecosystem notebooks, having positively reviewed their [hardback lined journal](/2010/06/paper-review-ecosystem-notebook.html) and [created an iPad cover](/2010/06/great-ecosystem-ipad-cover-hack.html) from a large, lined softcover journal. When I found out that they were releasing a sketchbook, I made it a point to get a copy to review, and I have to say that I'm pretty pleased.
 
@@ -23,10 +20,7 @@ The endpapers are printed with ecosystem's leaf pattern, and there is a space to
 
 Unlike a standard hardback notebook, the sketchbook is quite a bit larger – measuring 7 3/8 by 9 7/8 inches. Inside are 128 pages of bright white, chlorine free, acid free, 80 lb. paper. I'm happy to report that my major quibble with the early hardbound notebooks – glue that crept between the signatures and locked every few pages together near the spine – is gone. Every page now lies completely flat.
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TVHYaZGQcmI/AAAAAAAAAPg/zYiTK9R-tQ8/s640/IMG_0281.JPG)](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TVHYaZGQcmI/AAAAAAAAAPg/zYiTK9R-tQ8/s1600/IMG_0281.JPG)
-
-(click to embiggen)
-
+![](IMG_0281.JPG)
   
 So how does this perform as a sketchbook? Quite well, I'm happy to report. The paper is generally smooth and uncoated. It takes a medium pencil, ballpoint pen, and brush pen quite well – without any hint of feathering or bleed-through. A sharpie marker bled through, as I expected, but did not transfer any ink to the underlying page. Fountain pen ink was a mixed bag – one very wet pen feathered more than I expected, but I was able to use a 6mm calligraphy nib with several inks without issue.
 

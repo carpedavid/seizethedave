@@ -11,9 +11,7 @@ tags:
 Rating: 4.0  
 January 3, 2011
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TSIphdJOp3I/AAAAAAAAAOo/-KiOTag6dSM/s640/j%2Bherbin%2Bterre%2Bde%2Bfeu.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TSIphdJOp3I/AAAAAAAAAOo/-KiOTag6dSM/s1600/j%2Bherbin%2Bterre%2Bde%2Bfeu.jpg)
-
-(click to embiggen)
+![](j-herbin-terre-de-feu.jpg)
 
   
 If J Herbin Café des Isles is the color of coffee with cream, then Terre de Feu is the color of powdered cocoa. It is a lovely milk-chocolate ink with a slight reddish undertone – almost reminiscent of red clay. It possesses a low degree of saturation and a high degree of shading in even a fine nib pen.
@@ -22,18 +20,14 @@ As with most J Herbin inks, Terre de Feu is slightly watery – as a result, it 
 
 Dry time was average. On the slow-drying and non-absorbent Rhodia paper, it took 5 seconds to dry to the touch. On the absorbent and typically fast-drying Ecosystem paper, it took slightly longer, at 6 to 8 seconds. I've seen this behavior with occasional inks, and it always startles me. Feathering was atypically low for J Herbin inks on both papers, which is nice to see.
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TSIpgdSOIQI/AAAAAAAAAOk/8KpNf23qiHI/s400/j%2Bherbin%2Bterre%2Bde%2Bfeu%2Bwater%2Btest.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TSIpgdSOIQI/AAAAAAAAAOk/8KpNf23qiHI/s1600/j%2Bherbin%2Bterre%2Bde%2Bfeu%2Bwater%2Btest.jpg)
-
-(click to embiggen)
+![](j-herbin-terre-de-feu-water-test.jpg)
 
   
 Water resistance was generally low. In the smear test, in which I run a wet finger across the page, the red-brown dyes ran easily, creating a lovely smudge on the page. The drip test, in which I let several drops of water soak into the page for a minute before blotting them up, pulled the red-brown dye right off the paper, leaving a ghostly grey line behind.
 
 The results of the soak test, in which I run the paper under a stream of water for thirty seconds, were better than I anticipated. While the red-brown dye washed off almost immediately, it left behind a light grey line that is similar to a pencil line. As a result, a catastrophic encounter with water might not completely obliterate one's work. However, I wouldn't use Terre de Feu with anything I intended to resist the elements, like the outside of an envelope.  
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TSIpbMeQsmI/AAAAAAAAAOg/HxagRClr0vU/s400/j%2Bherbin%2Bterre%2Bde%2Bfeu%2Bbottle.JPG)](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TSIpbMeQsmI/AAAAAAAAAOg/HxagRClr0vU/s1600/j%2Bherbin%2Bterre%2Bde%2Bfeu%2Bbottle.JPG)
-
-(click to embiggen)
+![](j-herbin-terre-de-feu-bottle.JPG)
 
   
 J. Herbin fountain pen inks come in a 30ml bottle with an integrated pen rest that is suitable for displaying on top of one's desk.

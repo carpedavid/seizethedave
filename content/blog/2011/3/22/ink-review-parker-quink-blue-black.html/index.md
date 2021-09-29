@@ -8,10 +8,7 @@ tags:
   - "parker"
 ---
 
-[![](https://lh4.googleusercontent.com/-rpcA5PgYT0g/TX1l-eKpBnI/AAAAAAAAAQw/pwcswk0hnIM/s640/parker+quink+blue+black.jpg)](https://lh4.googleusercontent.com/-rpcA5PgYT0g/TX1l-eKpBnI/AAAAAAAAAQw/pwcswk0hnIM/s1600/parker+quink+blue+black.jpg)
-
-(click to embiggen)
-
+![](parker-quink-blue-black.jpg)
   
 Parker Quink Permanent Blue Black is a workhorse of an ink that I'm sorry I waited this long to try out. First developed in the late 1920's, it was regarded as a revolutionary ink that eliminated the need for blotting. It remains, to this day, one of the most popular fountain pen inks in production.
 
@@ -21,18 +18,14 @@ Blue-black is the first Parker Quink (a portmanteau of "quick" and "ink") in my 
 
 On every single paper I tested, I saw no trace of feathering, a low level of show-through, and no bleed-through at all. Drying times varied a bit – from 3 seconds on the copier paper; to 8 seconds on the bagasse, Moleskine, and Ecosystem; to 12 seconds on the Rhodia – but they all fell well within the normal range for each paper.
 
-[![](https://lh4.googleusercontent.com/-PTy1qHTXaa4/TX1mJlPM2uI/AAAAAAAAAQ0/N3--Q2oHU90/s640/parker+quink+blue+black+water+test.jpg)](https://lh4.googleusercontent.com/-PTy1qHTXaa4/TX1mJlPM2uI/AAAAAAAAAQ0/N3--Q2oHU90/s1600/parker+quink+blue+black+water+test.jpg)
-
-(click to embiggen)
+![](parker-quink-blue-black-water-test.jpg)
 
   
 For an ink labeled as permanent, though, it is anything but waterproof. The smear test, in which I drag a wet finger across the page, produced a lovely teal smudge which obliterated any trace of the underlying line. The drip test, in which I let a drop of water sit on the paper for a minute before blotting, lifted a significant amount of ink from the page.
 
 The soak test, in which I run the paper under a stream of water, washed away nearly all the ink. The faintest trace of a line was left – the ghost of inks past, I suppose – but not enough to be legible. To be fair, the "permanent" label exists only to contrast with the "washable" label of their blue ink, which is specifically designed to be easily removed from one's hands. Still, I wouldn't address an envelope with it, especially if one's destination is in Atlantis.
 
-[![](https://lh4.googleusercontent.com/-8uegCLHggJ0/TX1mUBJKJVI/AAAAAAAAAQ4/9HtUL0NBePQ/s400/parker+blue+black+bottle.JPG)](https://lh4.googleusercontent.com/-8uegCLHggJ0/TX1mUBJKJVI/AAAAAAAAAQ4/9HtUL0NBePQ/s1600/parker+blue+black+bottle.JPG)
-
-(click to embiggen)
+![](parker-blue-black-bottle.JPG)
 
   
 Parker Quink comes in a solid, sturdy 2 oz. bottle, which is a perfectly pleasant. It's neither ugly nor utilitarian, but it is a bit conservative, as befits the ink it holds. It won't look out of place on the desk of anyone that wears a Brooks Brothers' suit to work (present company included), but it might seem a tad archaic on the shelf of a modern, bohemian artist.

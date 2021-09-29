@@ -11,7 +11,7 @@ tags:
 Rating: 4.0  
 September 14, 2010
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP6bZSaAo9I/AAAAAAAAAG4/XIwCTy-jc4w/s1600/diamine%2Boxblood.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP6bZSaAo9I/AAAAAAAAAG4/XIwCTy-jc4w/s1600/diamine%2Boxblood.jpg)
+![](diamine-oxblood.jpg)
 
   
 Some inks are simply too appropriately named. Diamine Oxblood is one such ink. It is a well-behaved red-brown that falls firmly into the “dried blood” category. If you’ve ever brought a juicy steak home from the butcher and taken a look at the butcher paper, you know exactly what’s in store for you. Oxblood is highly saturated with a surprising level of shading. On both the off white of Moleskine paper and the bright white of Rhodia paper, this ink creates a bold, bloody line.
@@ -20,7 +20,7 @@ As with the other Diamine inks that I’ve tried, Oxblood flows easily, and prov
 
 The drying time was very good. On Rhodia paper, on which ink often takes longer to dry, it took eight seconds. On standard copier paper, it was dry to the touch in three seconds.
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP6bZPXHWNI/AAAAAAAAAG0/BU_D08h5Uhw/s1600/diamine%2Boxblood%2Bbottle.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP6bZPXHWNI/AAAAAAAAAG0/BU_D08h5Uhw/s1600/diamine%2Boxblood%2Bbottle.jpg)
+![](diamine-oxblood-bottle.jpg)
 
   
 Diamine inks are available in a 30ml plastic bottle and an 80ml glass bottle, both of which are utilitarian in appearance. The smaller plastic bottle has a neck that is very small in diameter. I found that some of my larger pens, like a Lamy 2000, would not fit all the way in, which made getting to the ink a bit of a challenge. My recommendation would be to go for the larger bottle.

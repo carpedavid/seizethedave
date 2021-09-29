@@ -11,7 +11,7 @@ tags:
 Rating: 5.0  
 November 30, 2010
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP4soTHCUeI/AAAAAAAAAFs/7_1zQbe7AcE/s1600/black%2Bswan.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP4soTHCUeI/AAAAAAAAAFs/7_1zQbe7AcE/s1600/black%2Bswan.jpg)
+![](black-swan.jpg)
 
   
 The award for most poetically named ink goes to Noodler’s Black Swan in Australian Roses – one of the most poetic inks I’ve reviewed this year. Black Swan is a brand new ink from Noodler’s that was just released in late November. It is a moderately saturated ink with lots of very moody shading, and was designed to show off the shading potential of flex nibs.
@@ -22,14 +22,14 @@ Like most Noodler’s inks, Black Swan flows easily in all of the pens I used it
 
 Where Black Swan differed from other Noodler’s inks is in its drying time. I’ve resisted using many Noodler’s inks due to the typically long drying times, but this one dries relatively quickly on both Rhodia paper and Ecosystem journals – about ten to twelve seconds. Curiously, it took over thirty seconds for this ink to dry on Moleskine paper – I’m at a loss as to why.
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP4staVXGQI/AAAAAAAAAFw/eg6-LbJ0iWk/s1600/black%2Bswan%2Bwater%2Btest.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP4staVXGQI/AAAAAAAAAFw/eg6-LbJ0iWk/s1600/black%2Bswan%2Bwater%2Btest.jpg)
+![](black-swan-water-test.jpg)
 
   
 Pleasantly, I also found Black Swan to be quite resistant to water. According to Noodler’s, this ink is about sixteen percent bulletproof – but it stands up quite well under most scenarios. A smear test, in which I ran a wet finger across the page, does show some bleeding, but the lines remain bold and readable.
 
 A drip test, in which I let drops of water set for about a minute before blotting them, is barely noticeable. A small amount of ink came up, but nothing that affected the legibility of the lines. The soak test was most impressive. I ran the paper under the faucet for about a minute, and the lines remained quite readable. On the left-hand side of the soak test, you can see some fading where I rubbed the paper – but I was taking paper off at that point. In summary, it performed admirably.
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP4sx7gV1jI/AAAAAAAAAF0/g59LGibfWIM/s1600/black%2Bswan%2Bink%2Bbottle.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP4sx7gV1jI/AAAAAAAAAF0/g59LGibfWIM/s1600/black%2Bswan%2Bink%2Bbottle.jpg)
+![](black-swan-ink-bottle.jpg)
 
   
 Noodler’s Black Swan in Australian Roses comes in a standard 3 oz. Noodler’s bottle that’s filled to the brim – so be careful when opening. Noodler’s intentionally uses stock bottles and lids to keep their prices low, which means that they aren’t intended to be show pieces in and of themselves. They are functional and stable, but not an objet d’art intended for the top of one’s desk.

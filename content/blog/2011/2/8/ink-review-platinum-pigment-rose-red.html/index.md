@@ -12,9 +12,7 @@ tags:
 Rating: 4.0  
 February 8, 2011
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TUS7yR5smOI/AAAAAAAAAPQ/MAPNuxipVi0/s640/platinum%2Bpigment%2Brose%2Bred.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TUS7yR5smOI/AAAAAAAAAPQ/MAPNuxipVi0/s1600/platinum%2Bpigment%2Brose%2Bred.jpg)
-
-(click to embiggen)
+![](platinum-pigment-rose-red.jpg)
 
   
 Platinum Pigment Rose Red is my first experience with pigment-based fountain pen inks. The vast majority of fountain pen inks are dyes dissolved in water or other solvents, but pigment-based inks have micro-particles that are suspended in solution. They are specifically formulated for fountain pens, with particles small enough and solvents benign enough that they won't clog the feed or interfere with the capillary action of the nib.
@@ -27,9 +25,7 @@ This ink behaved quite well on each of the papers I tested it with. I saw feathe
 
 Dry time varied considerably, though. On Ecosystem paper, the ink was dry to the touch on six seconds. On Rhodia, which normally takes longer, it took about fifteen seconds – much too long for lefty-over-writers. For my habits, it's in the comfortable range.
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TUS7xufhVRI/AAAAAAAAAPM/q_gHnWHctiw/s400/platinum%2Bpigment%2Brose%2Bred%2Bwater%2Btest.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TUS7xufhVRI/AAAAAAAAAPM/q_gHnWHctiw/s1600/platinum%2Bpigment%2Brose%2Bred%2Bwater%2Btest.jpg)
-
-(click to embiggen)
+![](platinum-pigment-rose-red-water-test.jpg)
 
   
 One of the selling points for pigment inks is their water resistance. Some bulletproof dye-based inks, like Noodler's, bind to the cellulose in the paper, but any ink left to dry on the surface can wash away or smear when exposed to water. This makes them great for signing checks, but poor candidates for artists that want to apply a wash over them. Platinum pigment inks, on the other hand, dry like paint. This makes them ideal for artists who want to work with mixed media.
@@ -38,9 +34,7 @@ The smear test, in which I run a wet finger over the paper, revels that the ink 
 
 In order to get the ink to leave the page, I actually had to get the paper wet, and then rub it hard enough to take a layer of paper up. Essentially, I had to destroy the paper to get the ink off. This certainly qualifies for the label of permanent for me – and I think it will certainly please those that are looking to use it for artistic purposes.
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TUS9FN-ymMI/AAAAAAAAAPU/FcFpJ7z4S_c/s400/platinum%2Bpigment%2Brose%2Bred%2Bbottle.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TUS9FN-ymMI/AAAAAAAAAPU/FcFpJ7z4S_c/s1600/platinum%2Bpigment%2Brose%2Bred%2Bbottle.jpg)
-
-(click to embiggen)
+![](platinum-pigment-rose-red-bottle.jpg)
 
   
 Platinum Pigment inks come in a clear, 60ml bottle that definitely shows off the ink. Unlike many dye-based inks, which can look dark and uniform within the bottle, pigment inks are vibrant, and look exactly like their respective color on paper. The thick bottomed bottle would look equally at home on an artist's shelf as on top of one's desk.

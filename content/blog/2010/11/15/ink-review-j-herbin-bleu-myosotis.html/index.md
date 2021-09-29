@@ -11,7 +11,7 @@ tags:
 Rating: 4.0  
 November 15, 2010
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP41McRhS9I/AAAAAAAAAF8/ykjUHa1VpK8/s1600/j%2Bherbin%2Bbleu%2Bmyosotis.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP41McRhS9I/AAAAAAAAAF8/ykjUHa1VpK8/s1600/j%2Bherbin%2Bbleu%2Bmyosotis.jpg)
+![](j-herbin-bleu-myosotis.jpg)
 
   
 J. Herbin Bleu Myosotis is a lovely, pale blue ink that evokes a field of wildflowers – like its namesake “myositis,” which is more commonly known as “forget-me-not.” The low level of saturation allows for an extremely high degree of shading in both fine and wide nibs. In fact, in a wide enough nib, it almost looks like one is painting with watercolors.
@@ -22,7 +22,7 @@ Beyond the tendency to feather, this ink is otherwise well behaved. Both show-th
 
 Blue inks are generally acceptable in business use, and I expect that Bleu Myosotis would be no exception. It’s a bit pale for my tastes, and, in fact, I find it a bit challenging to read on off-white paper due to its low level of contrast, but it is a lovely ink. For those who like a more ephemeral ink, this would be a good choice for journaling or correspondence. Where I see myself using it most often is in calligraphy, since the level of shading in a wide nib is simply gorgeous.
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP41Wv7z9MI/AAAAAAAAAGA/g_x5BE8MMfw/s1600/j%2Bherbin%2Bbleu%2Bmyosotis%2Bbottle.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP41Wv7z9MI/AAAAAAAAAGA/g_x5BE8MMfw/s1600/j%2Bherbin%2Bbleu%2Bmyosotis%2Bbottle.jpg)
+![](j-herbin-bleu-myosotis-bottle.jpg)
 
   
 J. Herbin fountain pen inks come in a 30ml bottle with an integrated pen rest that is suitable for displaying on top of one’s desk. In fact, the colored labels provide a nice burst of color when one has a significant collection assembled.

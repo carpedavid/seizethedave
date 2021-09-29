@@ -11,7 +11,7 @@ tags:
 Rating: 4.0  
 December 07, 2010
 
-[![diamine sepia](http://farm5.static.flickr.com/4105/4961229044_fce04bd6fd.jpg)](http://www.flickr.com/photos/carpedavid/4961229044/ "diamine sepia by carpedavid@gmail.com, on Flickr")
+![diamine sepia](diamine-sepia.jpg)
 
   
 
@@ -29,7 +29,7 @@ The drying time for this ink was also very friendly. On the typically long dryin
 
   
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP2_bMcS0KI/AAAAAAAAAFk/OdhKqpy3tL8/s640/diamine%2Bsepia%2Bwater%2Btest.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP2_bMcS0KI/AAAAAAAAAFk/OdhKqpy3tL8/s1600/diamine%2Bsepia%2Bwater%2Btest.jpg)
+![](diamine-sepia-water-test.jpg)
 
   
 
@@ -43,7 +43,7 @@ The last test, the soak test, was conducted by running the paper under the fauce
 
   
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP2_dNik5MI/AAAAAAAAAFo/C9AmXWARTwA/s1600/diamine%2Bsepia%2Bbottle.JPG)](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP2_dNik5MI/AAAAAAAAAFo/C9AmXWARTwA/s1600/diamine%2Bsepia%2Bbottle.JPG)
+![](diamine-sepia-bottle.jpg)
 
   
 

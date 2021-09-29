@@ -7,4 +7,4 @@ tags:
   - "sketch"
 ---
 
-[![](https://lh4.googleusercontent.com/-4hDxg4sTVX4/TmoqqrJHByI/AAAAAAAAAWo/9VcKGQPZHBs/s640/blogger-image--1209870289.jpg)](https://lh4.googleusercontent.com/-4hDxg4sTVX4/TmoqqrJHByI/AAAAAAAAAWo/9VcKGQPZHBs/s640/blogger-image--1209870289.jpg)
+![](blogger-image--1209870289.jpg)

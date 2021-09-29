@@ -8,11 +8,7 @@ tags:
   - "sailor"
 ---
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/-BpSUXAyuU1I/TePS9RUHrUI/AAAAAAAAASE/2ER34eTWcTQ/s640/sailor%2Bjentle%2Bultramarine.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/-BpSUXAyuU1I/TePS9RUHrUI/AAAAAAAAASE/2ER34eTWcTQ/s1600/sailor%2Bjentle%2Bultramarine.jpg)
-
-(click to embiggen)
-
-  
+![](sailor-jentle-ultramarine.jpg)
 
 Sailor Jentle Ultramarine is one of Sailor's six new ink colors (the others being Apricot, Epinard, Grenade, Peche, and Sky High). I purchased samples of each, and Ultramarine is the first one I tested. Ultramarine is a unique color that sits on the spectrum between blue and indigo. One could call it blue-purple, but that wouldn't quite do it justice.
 
@@ -29,11 +25,7 @@ The ink's performance on the Moleskine cahier was better then many. While it too
 
 My only complaint about the ink is that it has a very sharp chemical solvent smell to it. Some inks possess a mild odor that is only noticeable up close, but this scent is more powerful. It is similar to the smell of some permanent markers. If you're sensitive to odors in general, or specifically to that type of scent, I'd recommend trying a sample or otherwise evaluating it in person before buying.
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/-8fXTTDYwLck/TePS8_WOl2I/AAAAAAAAASA/jEctG3yKb18/s400/sailor%2Bjentle%2Bultramarine%2Bwater%2Btest.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/-8fXTTDYwLck/TePS8_WOl2I/AAAAAAAAASA/jEctG3yKb18/s1600/sailor%2Bjentle%2Bultramarine%2Bwater%2Btest.jpg)
-
-(click to embiggen)
-
-  
+![](sailor-jentle-ultramarine-water-test.jpg)
 
 Ultramarine held up unexpectedly well during the water tests. The smear test, in which I ran a wet finger across the page, was first. Here, the ink did smudge, but left behind legible lines. The drip test, in which I let droplets of water sit for a minute before blotting, raised about a third the ink from the page, but left the other two-thirds intact and legible.
 

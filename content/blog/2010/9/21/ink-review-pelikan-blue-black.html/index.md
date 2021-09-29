@@ -11,7 +11,7 @@ tags:
 Rating: 4.0  
 September 21, 2010
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP6bCN0eqQI/AAAAAAAAAGw/RlBMJQSoS6w/s1600/pelikan%2Bblue%2Bblack.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP6bCN0eqQI/AAAAAAAAAGw/RlBMJQSoS6w/s1600/pelikan%2Bblue%2Bblack.jpg)
+![](pelikan-blue-black.jpg)
 
   
 Pelikan Blue Black is a member of Pelikan’s 4001 ink line – their standard, bottled fountain pen inks. It is a pleasant blue-grey that reminds me of denim, and is moderately saturated while exhibiting a modicum of shading. The color of the ink is not dramatically affected by the color of paper – it lays down a consistent line on both bright-white Rhodia paper and off-white Moleskine paper.
@@ -20,7 +20,7 @@ Blue Black is a dry writing ink, which makes it a great choice for taming wet-wr
 
 When I ordered this ink, I was under the impression that it was of the waterproof variety. Alas, I was mistaken. According to Pelikan, this is not a waterproof ink. It’s permanent, in the sense that it is resistant to fading, but it is not waterproof. My testing reveals that it does possess a moderate degree of water resistance. Running it under water gradually reduced the strength of the line over the course of several minutes, and rubbing the ink while wet increased the rate of dispersion. Thus, I think it’s appropriate for addressing envelopes – a little rain won’t render it illegible – but wouldn’t be my choice for signing checks.
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP6a9ZQ8kII/AAAAAAAAAGs/w418xbvP9k0/s1600/pelikan%2Bblue%2Bblack%2Bbottle.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP6a9ZQ8kII/AAAAAAAAAGs/w418xbvP9k0/s1600/pelikan%2Bblue%2Bblack%2Bbottle.jpg)
+![](pelikan-blue-black-bottle.jpg)
 
   
 Pelikan inks come in both 30ml and 62.5ml bottles. While they’re not especially fancy, they’re aesthetically pleasing enough that they could sit atop one’s desk instead of in the drawer. The 62.5ml bottle that I purchased has nice, wide mouth, which is good, but also has a flat bottom, which I suspect will make soaking up the very last drops of ink more difficult than it needs to be.

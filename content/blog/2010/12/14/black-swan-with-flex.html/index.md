@@ -6,9 +6,7 @@ tags:
   - "noodlers"
 ---
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TQbzUfgr2lI/AAAAAAAAAMQ/Eb6sDioRYtI/s640/noodler%252527s%2Bblack%2Bswan%2Bflex%2Bnib.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TQbzUfgr2lI/AAAAAAAAAMQ/Eb6sDioRYtI/s1600/noodler%252527s%2Bblack%2Bswan%2Bflex%2Bnib.jpg)
-
-(click to embiggen)
+![](noodlers-black-swan-flex-nib.jpg)
 
   
 

@@ -9,8 +9,7 @@ tags:
 Rating: 5.0  
 June 23, 2010
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP7Qc3I_lLI/AAAAAAAAAIg/JWIJYK_VDHs/s1600/dot%2Bpad%2B1.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP7Qc3I_lLI/AAAAAAAAAIg/JWIJYK_VDHs/s1600/dot%2Bpad%2B1.jpg)
-
+![](dot-pad-1.jpg)
   
 Ever since I started writing ink reviews, I’ve been using Rhodia notepads. Rhodia uses bright white, 80gsm, acid-free, pH neutral, Clairefontaine paper in their notepads, which is a joy to write on. Clairefontaine paper is widely considered by fountain pen aficionados to be the best paper available. It has a very smooth finish to it, which makes the pen glide across the paper, and it stands up to even the wettest ink without complaint and without feathering.
 
@@ -20,12 +19,12 @@ While there are a number of sizes available, I’ve settled on the No 16 pad, wh
 
 All in all, I’ve been very, very happy with these pads. Recently, though, I received a review copy of the new Rhodia Dot Pad, which is in all respects identical to the pads that I had been using, except that it features a dot grid instead of a ruled grid. I’m not certain who originally created dot grid paper, but whoever it was should be knighted, beatified, and inducted into the Awesome Hall of Fame.
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP7Qd_KxcvI/AAAAAAAAAIk/PDKwQfz5rhc/s1600/dot%2Bpad%2B2.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP7Qd_KxcvI/AAAAAAAAAIk/PDKwQfz5rhc/s1600/dot%2Bpad%2B2.jpg)
+![](dot-pad-2.jpg)
 
   
 The dot grid is essentially a normal grid, with the lines removed, and only small dots at the intersections of said lines remaining. Here, the dots are the same pale violet ink that the normal grid is printed with, which makes it both easy to read and completely unobtrusive. Initially, I was skeptical that it would provide the same guidance that a ruled grid would, but a little testing revealed that it was just as easy to use. Consider me a convert – the Dot Pad is fantastic.
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP7QeTOQ0gI/AAAAAAAAAIo/nae5UXHSsqE/s1600/dot%2Bpad%2B3.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP7QeTOQ0gI/AAAAAAAAAIo/nae5UXHSsqE/s1600/dot%2Bpad%2B3.jpg)
+![](dot-pad-3.jpg)
 
   
 The Rhodia Dot Pad is currently available in four sizes: 3 3/8” x 4 3/4”, 6” x 8 1/4”, 8 1/4” x 12 1/2”, and 16 1/2” x 12 1/2”.

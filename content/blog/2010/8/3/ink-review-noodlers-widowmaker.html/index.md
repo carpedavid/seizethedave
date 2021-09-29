@@ -11,7 +11,7 @@ tags:
 Rating: 3.0  
 August 03, 2010
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP7HK89jJTI/AAAAAAAAAIA/U50pQzh_cxA/s1600/noodler%252527s%2Bwidowmaker.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP7HK89jJTI/AAAAAAAAAIA/U50pQzh_cxA/s1600/noodler%252527s%2Bwidowmaker.jpg)
+![](noodlers-widowmaker.jpg)
 
   
 Noodler’s Widowmaker is a hard color to pin down, as it changes character based on the underlying paper. On the bright white paper of a Rhodia pad, it comes across as a very dark, earthy magenta, whereas on the cream color of a Moleskine notebook, it looks a bit like dried blood, with a brown cast to it. While the ink itself is highly saturated, and thus the hue doesn’t actually change, the contrast between the ink and the paper greatly affects one’s perception of it.
@@ -22,7 +22,7 @@ Unfortunately, I’m not sure whether the Noodler’s fountain pen I used to tes
 
 With regard to dry time, this ink behaves like most of the other Noodler’s inks I’ve used, in that it exhibits a wide range based on the paper. On Moleskine journals and Rhodia notebooks, the ink takes upwards of a minute to fully dry. On the more absorbent paper of an Ecosystem journal or on standard copy paper, however, it dries between 8 and 10 seconds. Generally, it is going to be too slow to dry for lefty over-writers, regardless of paper, but it behaves well enough for fast-paced writing by everyone else on absorbent paper.
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP7HKLUP33I/AAAAAAAAAH8/ETJEv4g0zqk/s1600/noodler%252527s%2Bwidowmaker%2Bbottle.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP7HKLUP33I/AAAAAAAAAH8/ETJEv4g0zqk/s1600/noodler%252527s%2Bwidowmaker%2Bbottle.jpg)
+![](noodlers-widowmaker-bottle.jpg)
 
   
 Noodler’s Widowmaker comes in a 3 oz. bottle that is filled to the brim – so be careful when opening. See the picture above for what a gentle bump to the very, very full bottle can do. Noodler’s intentionally uses stock bottles and lids to keep their prices low, which means that they aren’t intended to be attractive in and of themselves. They are functional and stable, but not something one would display on one’s desk.

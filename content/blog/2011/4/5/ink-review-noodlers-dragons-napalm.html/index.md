@@ -8,11 +8,7 @@ tags:
   - "noodlers"
 ---
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/-plkMdN9L_Wk/TZpZXOR4B0I/AAAAAAAAARU/CD89vCXhbcA/s640/noodler%252527s%2Bdragon%252527s%2Bnapalm.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/-plkMdN9L_Wk/TZpZXOR4B0I/AAAAAAAAARU/CD89vCXhbcA/s1600/noodler%252527s%2Bdragon%252527s%2Bnapalm.jpg)
-
-(click to embiggen)
-
-  
+![](noodlers-dragons-napalm.jpg)
 
 If you want to get someone's attention, send them a letter written in Noodler's Dragon's Napalm ink. It's the perfect ink for the task, as it is very close to the color of safety orange – that attention-getting hue that adorns traffic cones, the tips of toy guns, hunting caps, inmate jumpsuits, and the official state fungus of Ohio – the orange barrel.
 
@@ -41,14 +37,7 @@ On the Ecosystem's New Leaf paper, Noodler's Dragon's Napalm performed the best.
 With a few exceptions, Noodler's inks also tend to behave in a specific fashion with the fountain-pen friendly Rhodia paper, and Dragon's Napalm remains consistent. I found no feathering, no bleed-through, and a low level of show-through. On the other hand, the drying time was over 1 minute. It's a shame that so many of the Noodler's inks I've tried take so long to dry on Rhodia paper, since they otherwise behave so well.
 
   
-
-  
-
-[![](http://s3.media.squarespace.com/production/1431296/16917466/-wAOK74EvOZc/TZpZVLhKQII/AAAAAAAAARQ/EkMZAlFGy1k/s400/noodler%252527s%2Bdragon%252527s%2Bnapalm%2Bwater%2Btest.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/-wAOK74EvOZc/TZpZVLhKQII/AAAAAAAAARQ/EkMZAlFGy1k/s1600/noodler%252527s%2Bdragon%252527s%2Bnapalm%2Bwater%2Btest.jpg)
-
-(click to embiggen)
-
-  
+![](noodlers-dragons-napalm-water-test.jpg)
 
 Dragons are known to the western world as fearsome, fire-breathing creatures that will engulf entire cities in flame to ensure that their snacks of medieval peasants are cooked to perfection. However, this particular dragon's fire can be easily quenched by a little bit of water; it did not hold up well on any of the water tests. The smear test, in which I run a wet finger across the page, resulted in a lovely neon orange smudge, but no trace of the underlying lines.
 
@@ -56,15 +45,7 @@ Dragons are known to the western world as fearsome, fire-breathing creatures tha
 
 The drip test, in which I let several droplets of water soak on the page before blotting, resulted in the ink being lifted almost entirely from the page; only a hint of the original lines remained. Similarly, the soak test, in which I run the paper under a stream of water, washed the ink away quite effectively. It's an attention-getting ink, to be sure, but not one which you'd want to use in any water-sensitive situations.
 
-  
-
-  
-
-[![](http://s3.media.squarespace.com/production/1431296/16917466/-DqhQQDxxPtI/TZpZZfYhheI/AAAAAAAAARY/3OXZvhiN0vM/s400/noodler%252527s%2Bdragon%252527s%2Bnapalm%2Bbottle.JPG)](http://s3.media.squarespace.com/production/1431296/16917466/-DqhQQDxxPtI/TZpZZfYhheI/AAAAAAAAARY/3OXZvhiN0vM/s1600/noodler%252527s%2Bdragon%252527s%2Bnapalm%2Bbottle.JPG)
-
-(click to embiggen)
-
-  
+![](noodlers-dragons-napalm-bottle.JPG)
 
 Noodler's Dragon's Napalm comes in a standard 3 oz. Noodler's bottle that's filled to the brim – so be careful when opening. Noodler’s intentionally uses stock bottles and lids to keep their prices low, which means that they aren’t intended to be show pieces in and of themselves. They are functional and stable, but not objets d'art intended for the top of one's desk.
 

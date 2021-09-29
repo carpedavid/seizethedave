@@ -16,7 +16,7 @@ Additionally, all of the components are sourced in the United States, which cuts
 
 However, their commitment to producing sustainable and ecologically sound products would be for naught if the books themselves weren’t any good. Fortunately, they’re great.
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP7RqQOmUqI/AAAAAAAAAIs/DNZlDBypzG0/s1600/ecosystem%2B1.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP7RqQOmUqI/AAAAAAAAAIs/DNZlDBypzG0/s1600/ecosystem%2B1.jpg)
+![](ecosystem-1.jpg)
 
   
 In November of 2009, I purchased a medium, hardback, author (ruled) notebook from Barnes & Noble, and I’ve been using it as my writing journal since. It is exactly the same size and shape as a large Moleskine journal, though it is thicker due to its heavier weight paper. I purchased mine in “lagoon,” which is Ecosystem’s term for their light, sea-blue color covers.
@@ -25,14 +25,14 @@ One of the odd things about the Ecosystem line is that certain combinations of s
 
 Ecosystem has adopted the Moleskine form factor for their books, which appeals to me. They feature rounded corners, a pocket in the back, a sewn-in bookmark, and an elastic band. I have noticed that the elastic bands on these books hold up better than their Moleskine counterparts, and don’t stretch out over time. The bookmark is not as long as Moleskine bookmarks, but it’s plenty big enough to do its job – I haven’t had any trouble with it in the six months I’ve been writing in it.
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP7RqxGqM3I/AAAAAAAAAIw/spedZBARgnM/s1600/ecosystem%2B2.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP7RqxGqM3I/AAAAAAAAAIw/spedZBARgnM/s1600/ecosystem%2B2.jpg)
+![](ecosystem-2.jpg)
 
   
 The front endpapers feature a distinctive leaf pattern, some explanatory text about Ecosystem’s mission and a space to record your name and contact information. The back features the same leaf pattern, the previously mentioned paper pocket, and a unique code with a special purpose. This code can be entered on the Ecosystem website to register one’s notebook, so that if it is ever lost, it can be used to contact the owner. Also, one can see the components that went into one’s individual book – and the environmental savings from it manufacture.
 
 The binding in the hardback notebooks is sewn, so the book lies mostly flat. I say “mostly” because of my major quibble with the book – where most of the signatures meet, a bit of adhesive creeps up between the pages, locking them together near the spine. The adhesive never spreads more than a quarter inch, so the pages are entirely usable – but it’s a bit annoying when the rest of the book performs so admirably.
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP7Rrga6ufI/AAAAAAAAAI0/12NvQPtyQ1A/s1600/ecosystem%2B3.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP7Rrga6ufI/AAAAAAAAAI0/12NvQPtyQ1A/s1600/ecosystem%2B3.jpg)
+![](ecosystem-3.jpg)
 
   
 The paper itself is fairly smooth, though not as smooth as Clairefontaine or Moleskine paper; I have had no difficulty writing on the paper for long stretches of time. The author journal is ruled from edge to edge – the narrow rule provides for 32 lines per page, with a half-inch margin at the top and bottom. The ink itself is neither too bold nor too light – I find it just right for ease of use.

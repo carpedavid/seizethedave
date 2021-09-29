@@ -11,7 +11,7 @@ tags:
 Rating: 4.0  
 November 2, 2010
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP43q9kQKOI/AAAAAAAAAGM/6dAddZGlsXE/s1600/diamine%2Bjet%2Bblack.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP43q9kQKOI/AAAAAAAAAGM/6dAddZGlsXE/s1600/diamine%2Bjet%2Bblack.jpg)
+![](diamine-jet-black.jpg)
 
   
 I do not use black ink on a daily basis. To me, one of the joys of using fountain pens is the broad spectrum of available ink colors and black ink just isn’t all that interesting. However, there are a number of situations for which only black ink will do, so when Diamine offered to send me ink samples for review, I requested Jet Black.
@@ -22,7 +22,7 @@ On each of the papers I tested this ink with, it exhibited low feathering. It is
 
 Oddly, Diamine Jet Black seemed to have a consistent drying time. On both Rhodia (on which ink tends to take longer to dry) and generic, absorbent copier paper (on which ink tends to dry quickly), Jet Black took about ten seconds to dry with a medium nib pen. I’m not certain whether this is due to the formulation of the ink or to the combination of ink and nib, but I haven’t seen this behavior in any other inks. Regardless, it takes just long enough to dry that I wouldn’t recommend it for a lefty over-writer.
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP43mPHjp6I/AAAAAAAAAGI/U7JJ0b-jhvE/s320/diamine%2Bjet%2Bblack%2Bbottle.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP43mPHjp6I/AAAAAAAAAGI/U7JJ0b-jhvE/s1600/diamine%2Bjet%2Bblack%2Bbottle.jpg)
+![](diamine-jet-black-bottle.jpg)
 
   
 Diamine inks are available in a 30ml plastic bottle and an 80ml glass bottle, both of which are utilitarian in appearance. The smaller plastic bottle has a neck that is very small in diameter. I found that some of my larger pens, like a Lamy 2000, would not fit all the way in, which made getting to the ink a bit of a challenge. My recommendation would be to go for the larger bottle.

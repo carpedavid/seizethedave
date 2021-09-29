@@ -11,13 +11,12 @@ tags:
 Rating: 5.0  
 September 07, 2010
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP6cQWHlS-I/AAAAAAAAAHE/2R0VKCEf1Tk/s1600/diamine%2Bred%2Bdragon.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP6cQWHlS-I/AAAAAAAAAHE/2R0VKCEf1Tk/s1600/diamine%2Bred%2Bdragon.jpg)
+![](diamine-red-dragon.jpg)
 
   
 I love red inks, and Diamine Red Dragon has just won a place in my top three. I’ve had a lot of experience with J. Herbin, Iroshizuku, and Noodler’s inks, but, up until recently, had no experience with Diamine inks. I’d read many flattering things about them online, so I figured that I should give them a shot. The lovely folks at Diamine were nice enough to send over six bottles for review, and Red Dragon is the first of them.
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP6cPv_xw_I/AAAAAAAAAG8/bJSkbrSSids/s1600/diamine%2Bbottles.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP6cPv_xw_I/AAAAAAAAAG8/bJSkbrSSids/s1600/diamine%2Bbottles.jpg)
-
+![](diamine-bottles.jpg)
   
 To appeal to my tastes, an ink brand has to possess a certain set of qualities. They need to have bold, interesting colors with moderate to good shading; they should be resistant to feathering; and they need to be quick to dry on the paper I most often use them with. Noodler’s inks are often bold and interesting, but take forever to dry on higher quality paper. J Herbin inks possess tremendous shading potential, but are often watery and prone to feathering. Thus far, Diamine seems to possess each of the qualities that I’ve mentioned.
 
@@ -29,7 +28,7 @@ The drying time for Red Dragon was quite acceptable. On the slow-drying Rhodia p
 
 Show-though was noticeable on Moleskine journal paper and minimal on Rhodia paper, but in neither case did I find it bothersome. I did notice a small amount of bleed-through on the thin paper of a Moleskine cahier, but not on any of the other papers I tested.
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP6cP28YImI/AAAAAAAAAHA/sloX85jsvso/s1600/diamine%2Bred%2Bdragon%2Bbottle.jg.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP6cP28YImI/AAAAAAAAAHA/sloX85jsvso/s1600/diamine%2Bred%2Bdragon%2Bbottle.jg.jpg)
+![](diamine-red-dragon-bottle.jpg)
 
   
 Diamine inks are available in a 30ml plastic bottle and an 80ml glass bottle, both of which are utilitarian in appearance. The smaller plastic bottle has a neck that is very small in diameter. I found that some of my larger pens, like a Lamy 2000, would not fit all the way in, which made getting to the ink a bit of a challenge. My recommendation would be to go for the larger bottle.

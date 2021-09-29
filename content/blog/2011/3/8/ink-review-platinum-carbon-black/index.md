@@ -11,9 +11,7 @@ tags:
 Rating: 4.5  
 March 8, 2011
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/-D6H9WDYAlbA/TVm_GHS5p8I/AAAAAAAAAPo/QqPjC5u-gRE/s640/platinum%2Bcarbon%2Billuminated.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/-D6H9WDYAlbA/TVm_GHS5p8I/AAAAAAAAAPo/QqPjC5u-gRE/s1600/platinum%2Bcarbon%2Billuminated.jpg)
-
-(click to embiggen)
+![](platinum-carbon-illuminated.jpg)
 
   
 Traditional carbon inks were made with soot or lampblack mixed with gum arabic or another binder. The carbon particles would not fade over time, even when exposed to sunlight, and the ink was not harmful to paper. However, it was not waterproof, could smudge in humid environments, and was not at all fountain-pen friendly.
@@ -30,9 +28,7 @@ It was well behaved on each of the papers that I tested it with. I saw no feathe
 
 Drying time was also fairly good, ranging from 2 seconds on copier paper to 8 seconds on the normally long-drying Rhodia paper. The ink flowed nicely, and produced a line true to width – being neither particularly wet nor particularly dry.
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/-bQVOftfIBOc/TVm_GYlgGrI/AAAAAAAAAPs/S-c2UMIc-RE/s400/platinum%2Bcarbon%2Bwater%2Btest.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/-bQVOftfIBOc/TVm_GYlgGrI/AAAAAAAAAPs/S-c2UMIc-RE/s1600/platinum%2Bcarbon%2Bwater%2Btest.jpg)
-
-(click to embiggen)
+![](platinum-carbon-water-test.jpg)
 
   
 One of the selling points for carbon and other pigmented inks is their water resistance. Some bulletproof, dye-based inks, like Noodler's, bind to the cellulose in the paper, but any ink left to dry on the surface can wash away or smear when exposed to water. This makes them great for signing checks, but poor candidates for artists that want to apply a wash over them. Platinum Carbon Black, on the other hand, dries like paint. This makes them ideal for artists who want to work with mixed media.
@@ -41,10 +37,7 @@ The smear test, in which I run a wet finger over the paper, reveals that the ink
 
 In the visual example above, I was able to draw an illuminated letter "C" with the carbon ink and then paint over it with thinned acrylic paint without smudging it at all. I had no trouble with it affecting the color of the paint in any way. It seems to be quite artistically friendly in this regard.
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/-gmol6eWITh4/TVm-_i6LTHI/AAAAAAAAAPk/K1siyoQ1KHc/s400/platinum%2Bcarbon%2Bbottle.JPG)](http://s3.media.squarespace.com/production/1431296/16917466/-gmol6eWITh4/TVm-_i6LTHI/AAAAAAAAAPk/K1siyoQ1KHc/s1600/platinum%2Bcarbon%2Bbottle.JPG)
-
-(click to embiggen)
-
+![](platinum-carbon-bottle.JPG)
   
 Platinum Carbon comes in a clear, 60ml bottle that definitely shows off the solid black ink. In the bottle, it looks exactly like it does on paper. The thick bottomed bottle would look equally at home on an artist's shelf as on top of one's desk.
 

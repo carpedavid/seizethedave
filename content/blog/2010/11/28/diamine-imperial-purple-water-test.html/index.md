@@ -8,7 +8,7 @@ tags:
 
   
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP4zjxlB7lI/AAAAAAAAAF4/_2-nDYYnCNQ/s1600/diamine%2Bimperial%2Bpurple%2Bwater%2Btest.jpg)](http://3.bp.blogspot.com/_PYw92neEA7o/TP4zjxlB7lI/AAAAAAAAAF4/_2-nDYYnCNQ/s1600/diamine+imperial+purple+water+test.jpg)
+![](diamine-imperial-purple-water-test.jpg)
 
   
 

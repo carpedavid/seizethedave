@@ -11,7 +11,7 @@ tags:
 Rating: 5.0  
 July 25, 2010
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP7J3o9o4PI/AAAAAAAAAIM/qac81Wu3EnM/s1600/noodler%252527s%2Bkung%2Bte%2Bcheng.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP7J3o9o4PI/AAAAAAAAAIM/qac81Wu3EnM/s1600/noodler%252527s%2Bkung%2Bte%2Bcheng.jpg)
+![](noodlers-kung-te-cheng.jpg)
 
   
 Noodler’s Kung Te-Cheng is a beautiful, imperial ink that is the color of sapphires dipped in an indigo dye. According to the manufacturer, this ink is their attempt to replicate the characteristics of the first royal ink of ancient China – an ink was used during government exams during the age of Confucianism. Due to the connection to Confucius, they have named it after his 77th direct descendant, Kung Te-Cheng (1920 – 2008). They put a great deal of research into finding ancient examples and modern samples to base the color on, and have, as a result, developed an exquisitely beautiful ink.
@@ -25,8 +25,7 @@ The drying time of Te-Cheng is surprisingly quick compared to other Noodler’s 
 Kung Te-Cheng is a “bulletproof” ink, meaning that it can’t be removed from a document. According to Noodler’s, its bulletproof inks bind with the cellulose in the paper, making it impervious to most forging techniques. I can attest that this is indeed a waterproof ink, since I completely soaked a page of Rhodia paper and this ink went nowhere.  It didn’t move, bleed, or decrease in intensity at all.  
 
   
-
-[![](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP7J3YnCBCI/AAAAAAAAAII/RP7U1_tfaZk/s1600/noodler%252527s%2Bkung%2Bte%2Bcheng%2Bbottle.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP7J3YnCBCI/AAAAAAAAAII/RP7U1_tfaZk/s1600/noodler%252527s%2Bkung%2Bte%2Bcheng%2Bbottle.jpg)
+![](noodlers-kung-te-cheng-bottle.jpg)
 
   
 Unlike most Noodler’s inks, Kung Te-Cheng ships in a circular 4.5 oz bottle with an eyedropper lid. Like their other inks, the bottle is stark and utilitarian – nothing you’d want to set on top of your desk to display. It also comes with a Platinum Preppy fountain pen and a Platinum Preppy highlighter that have been converted to an eyedropper feed.

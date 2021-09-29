@@ -13,7 +13,7 @@ A little bit of googling revealed that, with the right materials, the process of
 
 So, feeling confident, I ordered ten or so Preppys plus the neccessary ingredients, and then proceeded to convert them. The process was quick and easy, and I was quite happy with the result - a handful of pens filled with a rainbow of fruit flavors.
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/-ZZkX22y3aVA/TojPjmg1CBI/AAAAAAAAAWw/9bQOA3lhAow/s1600/platinum-pens.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/-ZZkX22y3aVA/TojPjmg1CBI/AAAAAAAAAWw/9bQOA3lhAow/s1600/platinum-pens.jpg)
+![](platinum-pens.jpg)
 
   
 Then I hit a creative drought, and the pens sat on the shelf for a good six months without being touched. This is every fountain pen owner's worst nightmare. Would the ink have dried in the nib? Would the pens be unusable? Could I get them to write, but be faced with hard starts, skipping, and the other consequences of gross pen abuse?
@@ -22,7 +22,7 @@ I'm pleased to report that every single one of them picked up and wrote flawless
 
 There are drawbacks to the Preppy, of course - after all, it is a budget pen. At $3-4 you are not getting a gold nib that glides across the page with no effort. The nib is steel and, though it has a tiny bit of give, it is not terribly smooth. The rest of the pen is clear plastic that looks very cool filled with ink, but otherwise has a "school children's pen case" feel to it.
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/-MKiOi3_lP10/TojPkH7gT9I/AAAAAAAAAW0/T34wCcVooE8/s1600/platinum-preppy-close-up.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/-MKiOi3_lP10/TojPkH7gT9I/AAAAAAAAAW0/T34wCcVooE8/s1600/platinum-preppy-close-up.jpg)
+![](platinum-preppy-close-up.jpg)
 
   
 Yet, the Preppy is one of the few pens that it easy to take apart and thoroughly clean. When you do run into trouble - say with the previously mentioned Noodler's Kung Te-Cheng-filled pen sitting around with the cap not fully closed (even though you thought it was), and the ink does dry in the feed - it is possible to completely wash out the pen and return it to its original state.

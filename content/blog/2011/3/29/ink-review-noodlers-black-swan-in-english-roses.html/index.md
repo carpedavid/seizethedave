@@ -8,18 +8,13 @@ tags:
   - "noodlers"
 ---
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/-5FJUU1r_sro/TZE2dt2KB3I/AAAAAAAAARA/AX0LTeo_hRM/s640/noodler%252527s%2Benglish%2Broses.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/-5FJUU1r_sro/TZE2dt2KB3I/AAAAAAAAARA/AX0LTeo_hRM/s1600/noodler%252527s%2Benglish%2Broses.jpg)
-
-(click to embiggen)
-
+![](noodlers-english-roses.jpg)
   
 Noodler's has released the second in its line of inks that have been designed for flex nib pens. The high-shading Black Swan in English Roses continues the high level of quality set by its predecessor. In my [review of Black Swan in Australian Roses](/2010/11/ink-review-noodlers-black-swan-in.html), I praised the ink's poetic nature, and English Roses delivers a similarly lyrical experience.
 
 Where Australian Roses was violet-black with pink undertones, English Roses is an earthy red-brown with bright, poppy red undertones that peek out from time to time. It is a wonderfully deep, rich, and rewarding ink to work with.
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/-eTRotPzGTdA/TZE3IYJnDpI/AAAAAAAAARI/xwWH17UY1ug/s640/noodler%252527s%2Benglish%2Broses%2Bflex%2Bnib.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/-eTRotPzGTdA/TZE3IYJnDpI/AAAAAAAAARI/xwWH17UY1ug/s1600/noodler%252527s%2Benglish%2Broses%2Bflex%2Bnib.jpg)
-
-(Flex nib sample written with a Noodler's Flex Nib pen. Click to embiggen.)
+![Flex nib sample written with a Noodler's Flex Nib pen](noodlers-english-roses-flex-nib.jpg)
 
   
 This ink is definitely designed for a wet-writing pen. In my TWSBI Diamond 530 with an extra-fine nib, it felt a bit dry and produced a very narrow line. However, it behaves exactly the way I want it to in my Pilot Falcon with a soft-medium nib. The Pilot is a very wet writer, and even inks like Diamine, which are in the midrange of "wetness," produce too great a flow for my tastes. English Roses, on the other hand, is exactly right – I can use it on the ultra-thin paper of a Moleskine cahier without any bleed-through whatsoever, and it produces dramatic and lovely shading.
@@ -28,18 +23,14 @@ I tested English Roses on five different papers using a fine nib: cheap, office-
 
 Drying time ranged from a low of 4 second on the absorbent paper of the Ecosystem, to 6 seconds on the copier paper and the bagasse, to 12 seconds on the Rhodia, to a high of 20 seconds on the Moleskine.
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/-Qy4BGTxBjhQ/TZE2zfjYD1I/AAAAAAAAARE/h23gHWRJ1WM/s640/noodler%252527s%2Benglish%2Broses%2Bwater%2Btest.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/-Qy4BGTxBjhQ/TZE2zfjYD1I/AAAAAAAAARE/h23gHWRJ1WM/s1600/noodler%252527s%2Benglish%2Broses%2Bwater%2Btest.jpg)
-
-(click to embiggen)
+![](noodlers-english-roses-water-test.jpg)
 
   
 Like Australian Roses, English Roses is partially water resistant. The smear test, in which I run a wet finger across the page, created a red streak, but the lines remained intact and are still mostly legible. The drip test, in which I let droplets of water sit on the paper for a minute before blotting, resulted in the red dye being lifted, but the darker brown dye remained on the page.
 
 The soak test, in which I run the paper under a faucet, resulted in the complete washing away of the red dye (it left a red haze on the page), but left the brown parts of the ink intact. It was fully readable even after a full soak. In my opinion, it is not an ink that you could put down and then paint or wash over, but an envelope addressed with it should have no trouble arriving at its destination.
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/-sAZFuu6LAcM/TZE6QeD5sBI/AAAAAAAAARM/rIBY7u5heNY/s320/Noodler%252527s%2BEnglish%2BRoses%2Bbottle.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/-sAZFuu6LAcM/TZE6QeD5sBI/AAAAAAAAARM/rIBY7u5heNY/s1600/Noodler%252527s%2BEnglish%2BRoses%2Bbottle.jpg)
-
-(click to embiggen)
+![](noodlers-english-roses-bottle.jpg)
 
   
 Noodler's Black Swan in English Roses comes in a standard 3 oz. Noodler's bottle that's filled to the brim – so be careful when opening. Noodler’s intentionally uses stock bottles and lids to keep their prices low, which means that they aren’t intended to be show pieces in and of themselves. They are functional and stable, but not an objet d'art intended for the top of one's desk.

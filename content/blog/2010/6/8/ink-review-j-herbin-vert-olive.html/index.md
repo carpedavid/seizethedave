@@ -11,7 +11,7 @@ tags:
 Rating: 2.5  
 June 08, 2010
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP7TCg_0F7I/AAAAAAAAAI8/5Q0G13SLM3w/s1600/j%2Bherbin%2Bolive.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP7TCg_0F7I/AAAAAAAAAI8/5Q0G13SLM3w/s1600/j%2Bherbin%2Bolive.jpg)
+![](j-herbin-olive.jpg)
 
   
 J. Herbin Vert Olive should be an ink that’s the color of olives, but it is not. Instead, it is the color of extra virgin olive oil – an ephemeral, translucent yellow-green – as backlit by a fluorescent light. One could also describe it as the color of Mountain Dew. Either way, it’s a color found somewhere in one’s kitchen.  Its level of saturation is very low, but it does exhibit a very high degree of shading in both fine and wide nibs.
@@ -22,7 +22,7 @@ Dry time is exceptionally fast. On Ecosystem, Rhodia, and Moleskine papers, Vert
 
 There are plenty of green inks that are suitable for business use, but Vert Olive isn’t one of them. I could see it being used for highlighting or possibly editing, but not for correspondence. It is difficult to read on both white and cream-colored paper; while it provides plenty of contrast, the color is so vibrant as to be tiring on the eyes.
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP7TCI4CoqI/AAAAAAAAAI4/zuQJMEblTV0/s1600/j%2Bherbin%2Bolive%2B2.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP7TCI4CoqI/AAAAAAAAAI4/zuQJMEblTV0/s1600/j%2Bherbin%2Bolive%2B2.jpg)
+![](j-herbin-olive-2.jpg)
 
   
 All of J. Herbin’s fountain pen inks come in a 30ml bottle with an integrated pen rest that is suitable for displaying on top of one’s desk.

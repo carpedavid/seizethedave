@@ -11,9 +11,7 @@ tags:
 Rating: 1.0  
 January 11, 2011
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TSu6arOrTSI/AAAAAAAAAOs/EJdc8T6BSMI/s640/everflo%2Bblue-black.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TSu6arOrTSI/AAAAAAAAAOs/EJdc8T6BSMI/s1600/everflo%2Bblue-black.jpg)
-
-(click to embiggen)
+![](everflo-blue-black.jpg)
 
   
 After I've finished writing an ink review, I'm left with anywhere from four to six pens lying around with several milliliters of ink still in them. Typically, I empty the pens back into the ink bottle they came from, in order to save the ink for later. Occasionally, I like an ink enough that it stays in the pen I used to test it until I'm distracted by the next wonderful ink to cross my desk. More rarely, I'll be so crazy about an ink that it takes up near-permanent residence in my ink rotation: Noodler's Kung Te-Cheng, Diamine Imperial Purple, J. Herbin 1670. Everflo Blue-Black, on the other hand, is the first ink that went right down the drain.
@@ -32,16 +30,12 @@ I tested with both pens on Rhodia, Moleskine, and Ecosystem paper. Rhodia was th
 
 Moleskine was, by far, the worst performer. Both pens made a mess of the paper – with extreme amounts of feathering and show-through, and significant bleed-through. Drying time with the Safari was in the twelve to fifteen second range. The absorbent paper of the Ecosystem notebook reduced the drying time to five seconds, which is manageable, but suffered from noticeable feathering and show-through, and even a bit of bleed-through from both pens.
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TSu6jmYGgdI/AAAAAAAAAOw/IIEMygjo4j0/s640/everflo%2Bblue-black%2Bwater%2Btest.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TSu6jmYGgdI/AAAAAAAAAOw/IIEMygjo4j0/s1600/everflo%2Bblue-black%2Bwater%2Btest.jpg)
-
-(click to embiggen)
+![](everflo-blue-black-water-test.jpg)
 
   
 Water resistance is intentionally absent, as Everflo inks are designed to be washable. The smear test, in which I ran a wet finger across the page, left an illegible blue streak. The drip test, in which I let a drop of water sit for a minute before blotting it, raised nearly all of the ink from the page. The soak test, in which I run the paper under a stream of water, was quite effective in eliminating almost any trace of the ink. Pleasantly, the ink washed right out of my pens, as well, leaving no trace behind.
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TSu9GLGUEBI/AAAAAAAAAO4/-qPbZW6OxoY/s400/everflo%2Bblue%2Bblack%2Bbottle.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TSu9GLGUEBI/AAAAAAAAAO4/-qPbZW6OxoY/s1600/everflo%2Bblue%2Bblack%2Bbottle.jpg)
-
-(click to embiggen)
+![](everflo-blue-black-bottle.jpg)
 
   
 As mentioned earlier, Everflo comes in bottles that are suspiciously identical to those used by Noodler's. They're also filled nearly to the brim, just like Noodler's. They're also about as unlikely to grace the top of your desk, just like Noodler's. They do an admirable job of keeping the ink in the bottle, though, which is precisely where this particular one should stay.

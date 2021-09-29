@@ -11,7 +11,7 @@ tags:
 Rating: 4.0  
 August 18, 2010
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP6fTMGwszI/AAAAAAAAAHQ/13OlOBpCxFc/s1600/j%2Bherbin%2Brouge%2Bcaroubier.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP6fTMGwszI/AAAAAAAAAHQ/13OlOBpCxFc/s1600/j%2Bherbin%2Brouge%2Bcaroubier.jpg)
+![](j-herbin-rouge-caroubier.jpg)
 
   
 J. Herbin Rouge Caroubier (red carob) is a bright red the color of cherry gumdrops. Using it makes me want to run out and buy a big bag of Swedish Fish, as it has low saturation, giving the ink a somewhat translucent feel – just like gummy candy. It exhibits a moderate level of shading in both calligraphy and fine nibs.
@@ -22,7 +22,7 @@ The drying time of this ink seems to be fairly consistent between Rhodia and Mol
 
 Except for editing functions, red inks are not generally business appropriate, and this one is no different. For editing and proofing, though, it excels – being quite bright and providing very high contrast on white paper. The color is a bit too bold to use in a journaling capacity, in my opinion, but your mileage may vary.
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP6fTcSEvOI/AAAAAAAAAHU/ENpLlJigKzE/s1600/j%2Bherbin%2Brouge%2Bcaroubier%2Bbottle.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP6fTcSEvOI/AAAAAAAAAHU/ENpLlJigKzE/s1600/j%2Bherbin%2Brouge%2Bcaroubier%2Bbottle.jpg)
+![](j-herbin-rouge-caroubier-bottle.jpg)
 
   
 J. Herbin fountain pen inks come in a 30ml bottle with an integrated pen rest that is suitable for displaying on top of one’s desk. The bright red label on Rouge Caroubier makes this bottle especially eye catching.

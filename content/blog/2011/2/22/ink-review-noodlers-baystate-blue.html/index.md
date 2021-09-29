@@ -11,9 +11,7 @@ tags:
 Rating: 3.0  
 February 22, 2011
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/-3vbUtRlXWuI/TVyLjKVtlJI/AAAAAAAAAQQ/lBvl2NjcgG4/s640/noodler%252527s%2Bbaystate%2Bblue.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/-3vbUtRlXWuI/TVyLjKVtlJI/AAAAAAAAAQQ/lBvl2NjcgG4/s1600/noodler%252527s%2Bbaystate%2Bblue.jpg)
-
-(click to embiggen)
+![](noodlers-baystate-blue.jpg)
 
   
 My first thought, upon opening the bottle of Noodler's Baystate Blue, was "Holy cats, that's blue." It is not a subtle ink. Rather, it is an electric cobalt blue that positively jumps off the page. It's highly saturated, as many Noodler's inks tend to be, and it exhibits no shading. It simply lays down a solid, bright, blue line.
@@ -34,15 +32,11 @@ Noodler's themselves warn against using any of the Baystate line of inks if you 
 
 Second, it can and will actively stain the plastic parts of a pen, though a solution of bleach and water will apparently remove most of the color from plastic; it is not an easy ink to clean out of a pen. Third, Noodler's indicates that Baystate Blue should not be mixed with other inks except for those in the Baystate line, as the pH value is more alkaline than other inks in the Noodler's line.
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/-f1UkG5KtBw4/TVyLhiRFiLI/AAAAAAAAAQI/6uzTbB3Ucvg/s400/noodler%252527s%2Bbaystate%2Bblue%2Bwater%2Btest%2B1.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/-f1UkG5KtBw4/TVyLhiRFiLI/AAAAAAAAAQI/6uzTbB3Ucvg/s1600/noodler%252527s%2Bbaystate%2Bblue%2Bwater%2Btest%2B1.jpg)
-
-Rhodia (click to embiggen)
+![Rhodia](noodlers-baystate-blue-water-test-1.jpg)
 
   
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/-lUal9CHJjFc/TVyLia2zGuI/AAAAAAAAAQM/-Ue3AMpHU0E/s400/noodler%252527s%2Bbaystate%2Bblue%2Bwater%2Btest%2B2.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/-lUal9CHJjFc/TVyLia2zGuI/AAAAAAAAAQM/-Ue3AMpHU0E/s1600/noodler%252527s%2Bbaystate%2Bblue%2Bwater%2Btest%2B2.jpg)
-
-Copier paper (click to embiggen)
+![Copier paper](noodlers-baystate-blue-water-test-2.jpg)
 
   
 This ink is marketed as being waterproof, and here, once again, my results varied depending on the paper. I used both the coated paper of a Rhodia Dot Pad and the absorbent paper taken from my home office laser printer. From what I can discern, only the ink that gets absorbed by the paper can be considered water-fast. By definition, the coated Rhodia paper absorbs far less ink than the printer paper, and consequently shows much worse behavior.
@@ -53,9 +47,7 @@ The soak test, in which I run the paper under a stream of water, resulted in a b
 
 So is it waterproof? Well, yes. You won't lose your work if you drop your notebook into the ocean and then jump in to recover it. However, it won't be pretty to read once you've managed to dry it out. If you're concerned about full water resistance, I'd point you to other Noodler's inks that perform better across all paper types, or the Platinum line of pigment inks.
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/-RT5P-ayjqkQ/TVyL-Sj5MUI/AAAAAAAAAQU/DSQ_AYD4B-U/s400/noodler%252527s%2Bbaystate%2Bblue%2Bbottle.JPG)](http://s3.media.squarespace.com/production/1431296/16917466/-RT5P-ayjqkQ/TVyL-Sj5MUI/AAAAAAAAAQU/DSQ_AYD4B-U/s1600/noodler%252527s%2Bbaystate%2Bblue%2Bbottle.JPG)
-
-(click to embiggen)
+![](noodlers-baystate-blue-bottle.JPG)
 
   
 Noodler's inks come in a standard 3 oz. bottle that's filled to the brim – so be careful when opening (especially this one). Noodler’s intentionally uses stock bottles and lids to keep their prices low, which means that they aren’t intended to be show pieces in and of themselves. They are functional and stable, but not an objet d'art intended for the top of one's desk.

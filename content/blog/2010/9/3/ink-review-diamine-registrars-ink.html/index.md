@@ -11,7 +11,7 @@ tags:
 Rating: 4.0  
 September 03, 2010
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP6dc98DdfI/AAAAAAAAAHM/c4mPM79vt28/s1600/diamine%2Bregistrar%252527s%2Bink.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP6dc98DdfI/AAAAAAAAAHM/c4mPM79vt28/s1600/diamine%2Bregistrar%252527s%2Bink.jpg)
+![](diamine-registrars-ink.jpg)
 
   
 In addition to writing ink reviews, I love to cook. Over the years, I’ve compiled all of my favorite recipes into a Moleskine journal so that I have my very own recipe book. For a long while, I used a Sharpie pen, which has a high degree of water resistance. After my switch to fountain pens about a year ago, though, I recorded recipes in whatever fountain pen ink I had in a pen at the time – which, as I found out the hard way last week, generally have a very low degree of water resistance.
@@ -30,7 +30,7 @@ I noticed very little feathering on any of the papers I tested this with, from t
 
 This is a dry ink that does a good job of taming my very wet-writing Lamy Studio. This pen is normally a gusher, but I noticed very little show-through and no bleed-through even on the thin paper of a Moleskine cahier. It has a thin feel, though, and provides no lubrication, so the EF nib was a bit scratchier than I am used to. Drying time was fairly standard: 20 seconds on Rhodia and Moleskine, and 8 seconds on standard copy paper.
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP6dcHi20BI/AAAAAAAAAHI/320-VPEP8fM/s1600/diamine%2Bregistrar%252527s%2Bink%2Bbottle.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP6dcHi20BI/AAAAAAAAAHI/320-VPEP8fM/s1600/diamine%2Bregistrar%252527s%2Bink%2Bbottle.jpg)
+![](diamine-registrars-ink-bottle.jpg)
 
   
 Diamine Registrar’s Ink is sold in 30ml glass bottles and 100ml plastic refills. The glass bottle is functional and not much more. It has a simple label with the Diamine diamond logo on the front and a nice, secure lid. It’s the kind of bottle that one shoves in the drawer when one is finished with it.

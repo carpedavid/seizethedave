@@ -11,7 +11,7 @@ tags:
 Rating: 3.0  
 October 09, 2010
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP5KXwJiqqI/AAAAAAAAAGY/lxs6dkBRk-s/s1600/pelikan%2Bedelstein%2Bruby.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP5KXwJiqqI/AAAAAAAAAGY/lxs6dkBRk-s/s1600/pelikan%2Bedelstein%2Bruby.jpg)
+![](pelikan-edelstein-ruby.jpg)
 
 Pelikan has just released a new line of premium inks called Edelstein, which means “gemstone” in German. There are seven colors in the line, all intended to represent a jewel tone: Onyx, Sapphire, Topaz, Jade, Aventurine, Mandarin, and Ruby. As of the date of this review, all but Onyx are available via US retailers. Like many ink collectors, I was eagerly awaiting the line, and I ordered a bottle of Ruby as soon as I got word that they were in.
 
@@ -27,7 +27,7 @@ Dry time varies significantly, depending on the composition of the paper. It tak
 
 Edelstein Ruby does not provide much contrast on either white or off-white paper, so it can be a bit tough to read. On the other hand, it avoids the problem that many red inks have – being hard on the eyes. It’s certainly not an ink you’d use for business correspondence, though it would make a decent proofing ink. It is pleasant enough to use for personal correspondence for those that prefer a softer touch.
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP5Kl4kMfQI/AAAAAAAAAGc/CW2qKtP0Cm8/s1600/pelikan%2Bedelstein%2Bruby%2Bbottle.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP5Kl4kMfQI/AAAAAAAAAGc/CW2qKtP0Cm8/s1600/pelikan%2Bedelstein%2Bruby%2Bbottle.jpg)
+![](pelikan-edelstein-ruby-bottle.jpg)
 
   
 The entries in the Edelstein collection come in a beautiful glass bottle that holds 50ml of ink. The bottle is nice and heavy, with a thick bottom and soft corners. The cap has a raised Pelikan logo gilt in silvery paint. It is definitely intended to be a showpiece – whoever designed it was clearly inspired by jewelry design. It is easily a match for the Iroshizuku ink bottles in terms of beauty, and, depending on your aesthetic preference, may very well surpass it.

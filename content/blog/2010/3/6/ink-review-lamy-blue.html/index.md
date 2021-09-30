@@ -11,8 +11,7 @@ tags:
 Rating: 3.5  
 March 06, 2010
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP-HG9fbltI/AAAAAAAAAL4/Lv8-bi9_bt0/s1600/lamy.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP-HG9fbltI/AAAAAAAAAL4/Lv8-bi9_bt0/s1600/lamy.jpg)
-
+![](lamy.jpg)
   
 Lamy Blue was the first fountain pen ink I used, as it came in the cartridge included with my very first fountain pen – a Lamy Safari. I liked it enough that I purchased a bottle and it remains in my regular rotation. The ink itself is a prototypical blue with moderate shading and saturation. It’s the kind of blue most people would think of when thinking of a blue ballpoint pen.
 

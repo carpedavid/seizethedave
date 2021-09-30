@@ -11,8 +11,7 @@ tags:
 Rating: 4.0  
 March 18, 2010
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP-FFwOTyUI/AAAAAAAAALo/9gpfxMCa4CM/s1600/kon%2Bpeki.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP-FFwOTyUI/AAAAAAAAALo/9gpfxMCa4CM/s1600/kon%2Bpeki.jpg)
-
+![](kon-peki.jpg)
   
 Iroshizuku Kon-peki is a beautiful, azure blue ink that captures the tempestuous nature of the wild ocean. It is a highly saturated ink that exhibits a surprising level of shading – representing the light blue of the ocean surface and the deep blue of the bottom of the sea. Because it is highly saturated, it creates a bold line on both white and off-white paper.
 

@@ -11,7 +11,7 @@ tags:
 Rating: 4.0  
 February 28, 2010
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP-INplG1sI/AAAAAAAAAME/hJr80UyAJ_c/s1600/yu%2Byake.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP-INplG1sI/AAAAAAAAAME/hJr80UyAJ_c/s1600/yu%2Byake.jpg)
+![](yu-yake.jpg)
 
   
 The Iroshizuku inks by Pilot are quickly becoming my favorite brand. I started my Iroshizuku collection with Yu-Yake (Sunset), which is a delightful burnt orange that I would describe as somewhere between a sunset and the color of autumn leaves. It is a very saturated orange, though it exhibits significant shading in a wide nib. In a fine nib, the shading is reduced, though still apparent.

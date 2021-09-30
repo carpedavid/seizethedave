@@ -11,8 +11,7 @@ tags:
 Rating: 3.5  
 March 01, 2010
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP-H0iupOKI/AAAAAAAAAMA/aO3BMPNMlo4/s1600/kiri.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP-H0iupOKI/AAAAAAAAAMA/aO3BMPNMlo4/s1600/kiri.jpg)
-
+![](kiri.jpg)
   
 Iroshizuku Kiri-same (Misty Dark Gray) by Pilot is the essence of storm clouds in a bottle. It runs the gamut from light to dark gray, as it exhibits significant shading in wider nibs. In fine nibs, it tends to run very light – almost too light for normal use.
 

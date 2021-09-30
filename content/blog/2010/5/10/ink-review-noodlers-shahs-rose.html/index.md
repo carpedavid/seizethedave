@@ -11,7 +11,7 @@ tags:
 Rating: 3.5  
 May 10, 2010
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP8A_g2XPGI/AAAAAAAAAKI/0kObV_XZSYQ/s1600/shah%2B1.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP8A_g2XPGI/AAAAAAAAAKI/0kObV_XZSYQ/s1600/shah%2B1.jpg)
+![](shah-1.jpg)
 
   
 Noodler’s Shah’s Rose is an aptly named ink – I’ve had roses in my garden this exact color. It is a beautiful dusky pink, just slightly less purple than a true magenta. It is highly saturated, and I recommend shaking the bottle before using to make sure that the dye has not settled out. It exhibits moderate shading in wide nibs, but is extremely consistent in fine nibs.
@@ -20,7 +20,7 @@ Noodler’s inks tend to flow well – unlike J. Herbin inks, which have a water
 
 One of the qualities of Noodler’s inks that mystifies me is the dramatic difference in dry time with different paper. On Moleskine journals and Rhodia notebooks, the ink takes upwards of a minute to fully dry. On the more absorbent paper of an Ecosystem journal or on standard copy paper, however, it dries in 3 to 4 seconds. Thus, depending on the paper, this ink can be great for lefty over-writers, or it can be their worst nightmare.
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP8BAJ7YtlI/AAAAAAAAAKM/F-UJ6a5qyj8/s1600/shah%2B2.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP8BAJ7YtlI/AAAAAAAAAKM/F-UJ6a5qyj8/s1600/shah%2B2.jpg)
+![](shah-2.jpg)
 
   
 Noodler’s Shah’s Rose comes in a 3 oz. bottle that is filled to the brim. Noodler’s intentionally uses stock bottles and lids to keep their prices low, which means that they aren’t intended to be attractive in and of themselves. They are functional and stable, but not something one would display on one’s desk.

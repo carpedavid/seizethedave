@@ -11,7 +11,7 @@ tags:
 Rating: 3.5  
 March 13, 2010
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP-GO3p96iI/AAAAAAAAALw/LoUlzhc7zdE/s1600/vert.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP-GO3p96iI/AAAAAAAAALw/LoUlzhc7zdE/s1600/vert.jpg)
+![](vert.jpg)
 
   
 J. Herbin Vert Empire is a forest green ink with grey undertones. To me, it is invocative of a pine forest in the hazy light of morning. It is a wet ink with low saturation, so it exhibits a tremendous tonal range, depending on the pen and paper used. In most of my pens it displays significant shading, whereas in a wet writer it lays down a very dark line. Also, the ink takes on the character of the paper – for example, it takes on slight olive tones when used with the off-white paper of Moleskine journals.

@@ -11,7 +11,7 @@ tags:
 Rating: 5.0  
 April 10, 2010
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP-CHD3Ud1I/AAAAAAAAALI/4_OHKDce_MA/s1600/yama%2B1.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP-CHD3Ud1I/AAAAAAAAALI/4_OHKDce_MA/s1600/yama%2B1.jpg)
+![](yama-1.jpg)
 
   
 Iroshizuku Yama-budo (wild mountain grapes) is a vibrant purple ink the color of fresh grape juice that’s been spilled across a glazed, porcelain countertop. It is brighter and juicier than J. Herbin Poussiere de Lune, which, itself, can be favorably compared to a red wine stain.
@@ -24,7 +24,7 @@ On Moleskine and Rhodia paper, Yama-budo dries in six to ten seconds – compara
 
 The vibrancy of this ink makes it inappropriate for conservative business use, but it is wonderful for personal use of all sorts. In a fine nib, it produces a dark enough line to provide plenty of contrast for everyday reading.
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP-CHutnJRI/AAAAAAAAALM/VkY0Q4BfHzA/s1600/yama%2B2.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP-CHutnJRI/AAAAAAAAALM/VkY0Q4BfHzA/s1600/yama%2B2.jpg)
+![](yama-2.jpg)
 
   
 As with the other Iroshizuku inks, Yama-budo comes in a beautiful, solid, 50 ml bottle that looks great on one’s desk. The bottle has a depression in the base to allow for the last drops to be claimed with ease. The only minor drawback to this ink is the cost – for a comparable volume, Iroshizuku tends to run 50% to 100% more than other inks.

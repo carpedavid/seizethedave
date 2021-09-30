@@ -11,8 +11,7 @@ tags:
 Rating: 5.0  
 March 03, 2010
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP-HenqMEOI/AAAAAAAAAL8/6oBm3WRyQH8/s1600/lune.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP-HenqMEOI/AAAAAAAAAL8/6oBm3WRyQH8/s1600/lune.jpg)
-
+![](lune.jpg)
   
 J. Herbin Poussière de Lune (Moon dust) is a deep violet color that reminds me of the shadow cast by a lunar eclipse. It exhibits moderate shading in wider nibs, but is remarkably consistent in a fine nib. It is a moderately saturated ink – especially compared to other J. Herbin inks I own, which tend toward low saturation – so its overall color is affected by the paper it is used with. On the off-white paper of a Moleskine, the ink takes on an even more umbral tone.
 

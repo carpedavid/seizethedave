@@ -11,7 +11,7 @@ tags:
 Rating: 4.0  
 March 28, 2010
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP-DpHqzL9I/AAAAAAAAALg/Uw6wMIAwUW4/s1600/navajo%2B1.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP-DpHqzL9I/AAAAAAAAALg/Uw6wMIAwUW4/s1600/navajo%2B1.jpg)
+![](navajo-1.jpg)
 
   
 Noodler’s Navajo Turquoise is a beautiful, medium-tone blue with a hint of green – very close to cyan, but just a bit darker. It is highly saturated, and I recommend shaking the bottle before using to make sure that the dye has not settled out. It exhibits a nice degree of shading in wide nibs, but is fairly consistent in fine nibs. While this ink is pretty on white paper, its true beauty comes out on cream-colored paper, where its green tones come to the surface – creating a beautiful jewel-like color.

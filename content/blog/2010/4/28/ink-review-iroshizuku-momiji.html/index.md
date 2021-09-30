@@ -11,7 +11,7 @@ tags:
 Rating: 4.5  
 April 28, 2010
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP9_hrTaEXI/AAAAAAAAAKU/v9dsvxVe82I/s1600/momiji%2B1.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP9_hrTaEXI/AAAAAAAAAKU/v9dsvxVe82I/s1600/momiji%2B1.jpg)
+![](momiji-1.jpg)
 
   
 Iroshizuku Momiji is currently my favorite ink of all time. I’m a big fan of red ink – though most people consider it too hard to read on an extended basis, I’ve never had an issue with most of them – and Momiji is currently at the top of my list. It is a deep red ink that falls on the bluish side of the spectrum. According to the manufacturer, Pilot/Namiki, it is intended to evoke the “bright red leaves that are iconic of a Japanese autumn.”
@@ -26,7 +26,7 @@ Unlike Yama-budo, Momiji takes a while to dry. In my tests on Moleskine and Rhod
 
 While clearly not a standard color for use in daily business writing, Momiji makes a great highlighting or editing ink. For personal use, it works quite well for journaling and other daily use – it’s not too bright to be uncomfortable to read.
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP9_iPAsHPI/AAAAAAAAAKY/MCGRJKuUzJM/s1600/momiji%2B2.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP9_iPAsHPI/AAAAAAAAAKY/MCGRJKuUzJM/s1600/momiji%2B2.jpg)
+![](momiji-2.jpg)
 
   
 As with the other Iroshizuku inks, Momiji comes in a beautiful, solid, 50 ml bottle that looks great on one’s desk. The bottle has a depression in the base to allow for the last drops to be claimed with ease. The only minor drawback to this ink is the cost – for a comparable volume, Iroshizuku tends to run 50% to 100% more than other inks.

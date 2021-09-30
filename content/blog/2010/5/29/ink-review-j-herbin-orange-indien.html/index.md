@@ -11,7 +11,7 @@ tags:
 Rating: 4.5  
 May 29, 2010
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP77uj-AwxI/AAAAAAAAAJg/IlcERpLVb0g/s1600/j%2Bherbin%2Borange%2B1.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP77uj-AwxI/AAAAAAAAAJg/IlcERpLVb0g/s1600/j%2Bherbin%2Borange%2B1.jpg)
+![](j-herbin-orange-1.jpg)
 
   
 J. Herbin Orange Indien reminds me of the wildflowers that grew in the front lawn of my childhood home and of the tiger lilies that lined the streets of my neighborhood. It is a sumptuous, moderately saturated ink that exhibits a high degree of shading in both fine and wide nibs.
@@ -22,8 +22,7 @@ Dry time on a Rhodia pad and Moleskine cahier was within the range of other J. H
 
 Orange isn’t a color that normally factors into business use, and this ink is no exception. For journaling or other personal use, though, it is great. On white paper, it provides great contrast, and while it blends into off-white paper slightly, it is still eminently readable. Dry writing pens work perfectly fine with this ink, but it is in a wet writing pen the character of this ink truly shines – the shading is gorgeous.
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP77u9hF1tI/AAAAAAAAAJk/XJFlFxmbZ1w/s1600/j%2Bherbin%2Borange%2B2.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP77u9hF1tI/AAAAAAAAAJk/XJFlFxmbZ1w/s1600/j%2Bherbin%2Borange%2B2.jpg)
-
+![](j-herbin-orange-2.jpg)
   
 J. Herbin fountain pen inks come in a 30ml bottle with an integrated pen rest that is suitable for displaying on top of one’s desk. This one has a picture of a tiny orange elephant on the front label.
 

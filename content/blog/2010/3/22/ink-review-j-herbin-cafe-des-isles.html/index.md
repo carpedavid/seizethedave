@@ -14,7 +14,7 @@ Rating:
 
 March 22, 2010
 
-![](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP-EtFQOEAI/AAAAAAAAALk/fkOXlZKeHVA/s1600/cafe.jpg)
+![](cafe.jpg)
 
 J. Herbin Café des Îsles
 

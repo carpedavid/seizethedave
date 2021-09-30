@@ -7,7 +7,7 @@ tags:
   - "haiku"
 ---
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP-CdDzLBGI/AAAAAAAAALQ/dfQAF3m7xVg/s1600/hot%2Bdogs.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP-CdDzLBGI/AAAAAAAAALQ/dfQAF3m7xVg/s1600/hot%2Bdogs.jpg)
+![](hot-dogs.jpg)
 
   
 Hot dogs cause gas yet

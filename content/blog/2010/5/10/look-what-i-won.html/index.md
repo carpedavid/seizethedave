@@ -5,8 +5,7 @@ tags:
   - "ink"
 ---
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP8BbCaQ0_I/AAAAAAAAAKQ/v9dpQHlud44/s1600/fpgeek.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP8BbCaQ0_I/AAAAAAAAAKQ/v9dpQHlud44/s1600/fpgeek.jpg)
-
+![](fpgeek.jpg)
   
 The fine folks over at [Fountain Pen Geeks](http://www.fpgeeks.com/) held a giveaway, and I was the lucky winner. Included were a large Moleskine sketchbook, a vintage bottle of Skrip red ink (review forthcoming), and a vintage Esterbrook SJ pen. Dan Smith, one of the administrators of the Fountain Pen Geeks, even included a lovely handwritten note of congratulations. As befits a true geek, he even noted the ink that he’d used to write it: Iroshizuku Tsuki-yo, which is a lovely greenish blue-black.
 

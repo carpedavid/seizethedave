@@ -11,7 +11,7 @@ tags:
 Rating: 3.0  
 March 07, 2010
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP-G0fY0z7I/AAAAAAAAAL0/ec_XaalbmX4/s1600/black.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP-G0fY0z7I/AAAAAAAAAL0/ec_XaalbmX4/s1600/black.jpg)
+![](black.jpg)
 
   
 Noodler’s (Bulletproof) Black is the first bottled ink that I added to my ink collection. I had heard many good things about the ink, and while many of those things are true, there is one major issue that is difficult to overcome.

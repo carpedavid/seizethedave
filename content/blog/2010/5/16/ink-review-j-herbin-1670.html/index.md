@@ -11,7 +11,7 @@ tags:
 Rating: 5.0  
 May 16, 2010
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP7_aYCjoMI/AAAAAAAAAJs/XYRvHL-EIoI/s1600/1670%2B1.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP7_aYCjoMI/AAAAAAAAAJs/XYRvHL-EIoI/s1600/1670%2B1.jpg)
+![](1670-1.jpg)
 
   
 I bet that if the devil ever asked you to sign a contract in blood, you could fool him by pulling out a fountain pen filled with J. Herbin 1670 anniversary ink. The color is called Rouge Hematite, after the mineral hematite, which derives its own name from the Greek word for blood. Justly so – there’s really no mistaking it – this is the color of ink you’d expect to be filling Dracula’s ink well.
@@ -22,7 +22,7 @@ Ghoulishness aside, 1670 is an utterly amazing dark red color with “earthy ove
 
 The drying time of 1670 is noticeably longer than other J. Herbin inks. On Rhodia paper, a wet line took between fifteen and twenty seconds to dry fully, whereas on the absorbent paper of my Ecosystem notebook, it was dry to the touch in about five seconds.
 
-[![](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP7_ayemJkI/AAAAAAAAAJw/6OVzeN7I3Fw/s1600/1670%2B2.jpg)](http://s3.media.squarespace.com/production/1431296/16917466/_PYw92neEA7o/TP7_ayemJkI/AAAAAAAAAJw/6OVzeN7I3Fw/s1600/1670%2B2.jpg)
+![](1670-2.jpg)
 
   
 Surpassing the beautiful bottling of their other inks, 1670 comes in a very special 50ml bottle. It has a gold wax seal on the front of the bottle, and the cap has been dipped in a red wax that matches the color of the ink. I have two complaints about the bottle, despite its beauty. First, the neck of the bottle is extremely narrow. It would be difficult to fit anything much wider than a Lamy Safari through, and as a result it is definitely not conducive to being able to tip the bottle to get the last drop of ink out. Second, the wax on the cap is extremely fragile and prone to crumbling. I have read that the manufacturer is planning on rectifying this in future production, but as of now, expect it to start falling apart soon after you get the bottle.

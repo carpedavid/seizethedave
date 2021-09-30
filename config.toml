@@ -27,7 +27,7 @@ googleAnalytics = "UA-16386425-2" # Enable Google Analytics by entering your tra
   fontFamilySecondary = "SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace"
 
 [Params.logo]
-  image = "images/logo@2x.png"
+  image = "images/logo.svg"
   subtitle = "A little bit about a lot of stuff." # Logo subtitle
 
 [Params.sidebar]
@@ -45,6 +45,8 @@ googleAnalytics = "UA-16386425-2" # Enable Google Analytics by entering your tra
   twitter = "carpedavid"
   email = "carpedavid@gmail.com"
   instagram = "carpedavid"
+  github = "carpedavid"
+  linkedin = "dmgarrett"
 
 [[Params.widgets.social.custom]]
   title = "Reddit"

@@ -3,7 +3,7 @@ title: "pseudopod"
 date: "2010-11-28"
 ---
 
-[![](http://pseudopod.org/wp-content/images/250x250.jpg)](http://pseudopod.org/)
+[![](https://pseudopod.org/wp-content/images/250x250.jpg)](https://pseudopod.org/)
 
   
 

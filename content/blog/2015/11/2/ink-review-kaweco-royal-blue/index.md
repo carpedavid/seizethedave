@@ -36,7 +36,6 @@ After evaluating all eight colors, I've concluded that Royal Blue is the best al
 
 Kaweco Royal Blue is available from:
 
-- [Goulet Pens](http://www.gouletpens.com/kaweco-royal-blue-30ml-bottled-fountain-pen-ink/p/KAW-10000673-746)
 - [Jet Pens](http://www.jetpens.com/Kaweco-Ink-30-ml-Royal-Blue/pd/11932)
 - [Pen Chalet](https://www.penchalet.com/ink_refills/fountain_pen_ink/kaweco_bottle_fountain_pen_ink.html)
 

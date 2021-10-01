@@ -9,7 +9,6 @@ Welcome to the September edition of the Blog Carnival of Pen, Pencil, and Paper!
 
 ### **Editor's Choice**
 
-- Cheryl, from the Writer's Bloc, shares [ten tips for writing thank you notes](http://blog.shopwritersbloc.com/general/ten_tips_for_writing_thank_you.html).
 - Brian, from Ink Nouveau, introduces the new smaller-sized [Edison Beaumont fountain pen](http://www.inknouveau.com/2012/08/introducing-edison-beaumont.html). They look nifty.
 - Gentian, from Drawing with a Squirrel, shows off her amazing artwork by reviewing the [Tachikawa Linemarker A.T. Sketch Pen](http://www.gentianosman.com/2012/08/tachikawa-linemarker-at-sketch-pen.html).
 
@@ -29,7 +28,6 @@ Welcome to the September edition of the Blog Carnival of Pen, Pencil, and Paper!
 
 ### **Miscellaneous**
 
-- Cheryl, from Writer's Bloc, discusses [various options for pen storage](http://blog.shopwritersbloc.com/fountain_pens/protect_your_precious_pens.html).
 - Sandra, from Life Imitates Doodles, discusses the [Rad and Hungry Peru kit](http://lifeimitatesdoodles.blogspot.ca/2012/08/new-tangle-pattern-ww-and-review-of-rad.html), and also dazzles us with tangles.
 - Jonny, from Smart Blog, shares the [benefits of writing in a notebook](http://jonny-smartblog.blogspot.co.uk/2012/08/benefits-of-writing-notebook.html), and the follows it up with [9 tips to organize a notebook](http://jonny-smartblog.blogspot.co.uk/2012/08/9-tips-to-organise-notebook.html).
 

@@ -45,6 +45,6 @@ Noodler’s 3 oz glass bottles are, in and of themselves, utilitarian. They’re
 
 Berning Red is a great ink. I’m very happy with having had the chance to test it. While it doesn’t displace [Diamine Red Dragon](http://www.carpedavid.com/blog/2010/9/7/ink-review-diamine-red-dragon.html) as my current favorite red ink, its good behavior, ease of reading, and cost effectiveness make it a go-to choice when I’m in the mood for a vibrant red ink.
 
-This bottle of [Noodler’s Ink Berning Red](http://www.penboutique.com/noodler-s-berning-red-3-oz-fast-dry-ink.html) was graciously provided by [Pen Boutique](http://www.penboutique.com/).
+This bottle of Noodler’s Ink Berning Red was graciously provided by [Pen Boutique](http://www.penboutique.com/).
 
 Review notes: the handwritten portion of the review was created on 160 gsm, acid free, mixed media paper from Canson’s XL line. All lines, broad and thin, were made using a Pilot Parallel pen with a 3.8mm calligraphy nib.

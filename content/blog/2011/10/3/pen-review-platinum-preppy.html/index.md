@@ -33,4 +33,3 @@ Platinum Preppy Fountain Pens are available from:
 
 - [Goulet Pens](http://www.gouletpens.com/Platinum_Preppy_Fountain_Pen_s/879.htm)
 - [Jet Pens](http://www.jetpens.com/Platinum-Preppy-Fountain-Pens/ct/371)
-- [Writer's Bloc](http://www.shopwritersbloc.com/platinum-preppy-fountain-pen.html)

@@ -44,9 +44,7 @@ Is Noodler's Black the perfect ink? No – I haven't yet found one that is. But 
 
 Noodler's Black is available from:
 
-- [Goldspot Pens](http://www.goldspot.com/Noodler's_Ink_pens/Refills/ND-19001.html)
 - [Goulet Pens](http://www.gouletpens.com/Noodler_s_Ink_Black_p/n19001.htm)
-- [Writer's Bloc](http://www.shopwritersbloc.com/noodlers-ink-black.html)
 
   
 Review notes: for the fine lines, I used a [Visconti Homo Sapiens](/2011/11/pen-review-visconti-homo-sapiens.html) with an EF Dreamtouch Palladium nib. For the bold lines, I used a Lamy Safari Joy with a 1.9mm steel calligraphy nib. For the very wide lines, I used a Pilot Parallel pen with a 6.0mm steel calligraphy nib. The paper is Rhodia 80gsm from a Rhodia No. 18 Bloc Pad.

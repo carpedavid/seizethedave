@@ -48,4 +48,3 @@ Review materials: For the wide strokes, I used three calligraphy pens: Pilot Par
 Platinum Pigment Rose Red is available from:
 
 - [The Goulet Pen Company](http://www.gouletpens.com/Platinum_Pigmented_Rose_Red_Ink_p/plat-inkg-1500-20.htm)
-- [Writer's Bloc](http://www.shopwritersbloc.com/platinum-pigment-ink--rose-red.html)

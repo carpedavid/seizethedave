@@ -21,4 +21,4 @@ My only frustration with the book is that, practically speaking, it is a work in
 
 [Buy Superbug](http://www.amazon.com/gp/product/141655727X?ie=UTF8&tag=seizethedav0c-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=141655727X)
 
-[Read the Superbug Blog](http://www.superbugthebook.com/blog/)
+[About Superbug](https://marynmckenna.com/books/superbug/)

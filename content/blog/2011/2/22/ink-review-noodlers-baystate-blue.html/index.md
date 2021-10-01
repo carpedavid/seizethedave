@@ -63,4 +63,3 @@ Review materials: For the wide strokes, I used three calligraphy pens: Pilot Par
 Noodler's Baystate Blue is available from:
 
 - [Goulet Pen Company](http://www.gouletpens.com/Noodler_s_Ink_Baystate_Blue_p/n19048.htm)
-- [Writer's Bloc](http://www.shopwritersbloc.com/noodlers-ink--baystate-blue.html)

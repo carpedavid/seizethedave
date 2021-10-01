@@ -5,7 +5,7 @@ date: "2018-03-27"
 
 ![Case 1](case1.jpg)
 
-The folks at Pen Boutique were kind enough to send me a sample of the brown, twelve-pen, [Yak Leather pen case](https://www.penboutique.com/yak-leather-premium-leather-12-pen-case-brown.html) to review. It’s a new brand to them, and to me, so I thought it was worth taking a look.  
+The folks at Pen Boutique were kind enough to send me a sample of the brown, twelve-pen, [Yak Leather pen case](https://www.penboutique.com/products/yak-leather-premium-leather-24-pen-case-brown) to review. It’s a new brand to them, and to me, so I thought it was worth taking a look.  
 
 The case arrived in a nondescript cardboard box lightly wrapped in tissue paper - enough packaging to keep it safe, but nothing special - and without any accompanying information. It was just the case and a silica gel packet, if I recall correctly, which is unfortunate, because I can’t find any other information on the brand online - so I don’t know if this is actual yak leather or not.
 

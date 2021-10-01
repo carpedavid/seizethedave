@@ -51,4 +51,3 @@ Platinum Carbon Black is available from:
 
 - [Goulet Pen Company](http://www.gouletpens.com/Platinum_Carbon_Black_Ink_p/plat-inkc-1500-1.htm)
 - [Jet Pens](http://www.jetpens.com/index.php/product/view/products_id/3461)
-- [Writer's Bloc](http://www.shopwritersbloc.com/platinum-carbon-ink--black.html)

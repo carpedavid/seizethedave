@@ -5,4 +5,5 @@
 [build.environment]
   HUGO_VERSION = "0.88.1"
   HUGO_ENV = "production"
-
+  ALGOLIA_API_KEY = "41b99f92803bb4168daedc2ddca7a779b12f818bc9442e87c35b5b1c6908bedc"
+  ALGOLIA_BASE_URL = "https://crawler.algolia.com"

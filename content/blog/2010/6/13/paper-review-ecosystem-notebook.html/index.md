@@ -48,5 +48,3 @@ However, using thicker inks like Noodler’s and Private Reserve on this paper i
 I can’t recommend this combination of paper and ink enough. Ecosystem notebooks have opened up a whole segment of the ink market to me that I’d previously been avoiding, which, for someone who likes ink as much as I do, is a wonderful gift. Ecosystem products have become my preferred notebooks.
 
 Ecosystem is a brand of Sterling Publishing, which is itself a wholly owned subsidiary of Barnes & Noble. Therefore it is unsurprising that I first found the Ecosystem books in my local Barnes & Noble. It appears that they are beginning to appear in other bookstores as well, and they are readily available online at the Barnes & Noble website or at the Ecosystem website itself.
-
-Ecosystem: [http://www.ecosystemlife.com/](http://www.ecosystemlife.com/)

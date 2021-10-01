@@ -8,7 +8,7 @@ tags:
   - "sacred-geometry"
 ---
 
-Last time on Sacred Geometry: [Part 4](/2011/04/sacred-geometry-part-4-vesica-piscis.html) | [Part 5](/2011/05/sacred-geometry-part-5.html)
+Last time on Sacred Geometry: [Part 4](/blog/2011/4/1/sacred-geometry-part-4-vesica-piscis.html/) | [Part 5](/blog/2011/5/20/sacred-geometry-part-5.html/)
 
 "So what's the plan?" asked Ben as he joined Scarlett in at the window.
 

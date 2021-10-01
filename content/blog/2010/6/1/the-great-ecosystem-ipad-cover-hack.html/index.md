@@ -6,7 +6,7 @@ tags:
   - "paper"
 ---
 
-The fine folks at Ecosystem [put out a call for people to hack their large notebooks](http://ecosystemlife.tumblr.com/post/523382323/these-m-edge-ipad-covers-make-your-tablet-look) in service of creating an iPad cover. I volunteered, and a large, flexi-cover, lagoon notebook showed up at my door a few weeks ago. I finally got a chance to play with the notebook today, and I think the hack turned out well.
+The fine folks at Ecosystem put out a call for people to hack their large notebooks in service of creating an iPad cover. I volunteered, and a large, flexi-cover, lagoon notebook showed up at my door a few weeks ago. I finally got a chance to play with the notebook today, and I think the hack turned out well.
 
 Below is the ecosystem notebook with the iPad. The notebook is almost exactly the same shape and size and the iPad - it is about a quarter inch taller and about an eighth of an inch narrower.
 

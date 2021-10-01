@@ -25,7 +25,7 @@ Over the past 9 months, I’ve been using an Apica Premium CD Notebook as my dai
 
 APICA PREMIUM CD LINED NOTEBOOK
 
-It’s a joy to write in. Its 96 pages of bright white premium paper are glassy smooth. It is very easy to write on, with no drag whatsoever. This is the closest that you’ll get to knowing just how much friction your pen contributes to the writing experience.The paper itself held up to any ink I put in my [Visconti Homo Sapiens](/blog/2011/11/20/pen-review-visconti-homo-sapiens) (EF nib), with no bleed-through and no show-through. Dry times varied by ink, but were generally comparable to other sized papers - a little on the longer side, but not prohibitive.
+It’s a joy to write in. Its 96 pages of bright white premium paper are glassy smooth. It is very easy to write on, with no drag whatsoever. This is the closest that you’ll get to knowing just how much friction your pen contributes to the writing experience.The paper itself held up to any ink I put in my [Visconti Homo Sapiens](blog/2011/11/20/pen-review-visconti-homo-sapiens.html/) (EF nib), with no bleed-through and no show-through. Dry times varied by ink, but were generally comparable to other sized papers - a little on the longer side, but not prohibitive.
 
 The cardstock covers are fairly thick, providing enough protection for me to throw the book into my bag every day, though not enough support to write without a solid surface underneath. The book has stitched binding, and it lays flat without having to force it. Its squared corners have gotten a little rounded from being carried in my bag for the past year, but it’s held up pretty well overall.
 

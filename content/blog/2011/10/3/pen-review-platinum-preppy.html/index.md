@@ -5,7 +5,7 @@ categories:
   - "pen-reviews"
 ---
 
-After a year or so of doing pen and ink reviews, I decided that I needed to [establish a set of reference inks](/2011/03/reference-inks.html) - those inks that I would use to evaluate others against. Once I picked out the colors, I then decided that it would be nice to have pens that I could keep inked wit these reference colors that, presumably, I would be using all of the time. Enter the Platinum Preppy.
+After a year or so of doing pen and ink reviews, I decided that I needed to [establish a set of reference inks](/blog/2011/3/15/reference-inks.html/) - those inks that I would use to evaluate others against. Once I picked out the colors, I then decided that it would be nice to have pens that I could keep inked wit these reference colors that, presumably, I would be using all of the time. Enter the Platinum Preppy.
 
 The Preppy is a budget-level fountain pen with above-budget level price. The first one I owned was a de-labeled one that came with a bottle of Noodler's Kung-Te Cheng ink. It had been converted into an eyedropper-filled pen with an o-ring a bit of silicone grease and functioned as one of the coolest looking demonstrator pens that one could find. Each converted Preppy holds upwards of 3 ml of ink - a prodigious amount. I figured that doing something similar would be a great way to have each of my reference inks close at hand without breaking the bank.
 

@@ -108,4 +108,4 @@ Scarlett coughed and then grimaced again, "Ok." Images danced through her head â
 
 ###
 
-[Part 1](/2011/03/tesseract.html) | [Previous Part](/2011/03/golden-spiral.html) | [Next Part](/2011/04/sacred-geometry-part-4-vesica-piscis.html)
+[Part 1](/blog/2011/3/4/sacred-geometry-part-1-tesseract.html/) | [Previous Part](/2011/03/golden-spiral.html) | [Next Part](/2011/04/sacred-geometry-part-4-vesica-piscis.html)

@@ -271,4 +271,4 @@ Scarlett set down her tea, put her hands on the keyboard, and started to write a
 
 ###
 
-[Part 1](/2011/03/tesseract.html) | [Next Part](/2011/03/sine-wave-sacred-geometry-pt-3.html)
+[Part 1](/blog/2011/3/4/sacred-geometry-part-1-tesseract.html/) | [Next Part](/blog/2011/3/16/sacred-geometry-part-3-sine-wave.html/)

@@ -7,7 +7,7 @@ tags:
   - "sacred-geometry"
 ---
 
-\>> New to the series? Start with [Part 1](/2011/03/tesseract.html).
+\>> New to the series? Start with [Part 1](/blog/2011/3/4/sacred-geometry-part-1-tesseract.html/).
 
   
 "This is why I don't do UFO stuff," Scarlett thought angrily as she gingerly removed her foot from the middle of a cow patty. "Too many fields, too many cows, too much bullshit."
@@ -160,4 +160,4 @@ He waved her off. "It's ok. I'll google it later."
 
 ###
 
-[Part 1](/2011/03/tesseract.html) | [Previous Part](/2011/03/sine-wave-sacred-geometry-pt-3.html) | [Next Part](/2011/05/sacred-geometry-part-5.html)
+[Part 1](/blog/2011/3/4/sacred-geometry-part-1-tesseract.html/) | [Previous Part](/2011/03/sine-wave-sacred-geometry-pt-3.html) | [Next Part](/2011/05/sacred-geometry-part-5.html)

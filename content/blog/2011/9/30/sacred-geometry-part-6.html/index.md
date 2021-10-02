@@ -200,4 +200,4 @@ Scarlett laughed. "Yes. Yes, indeed."
 
 ###
 
-[Part 1](blog/2011/3/4/sacred-geometry-part-1-tesseract.html/) | [Previous](/blog/2011/5/20/sacred-geometry-part-5.html/l) | Next
+[Part 1](/blog/2011/3/4/sacred-geometry-part-1-tesseract.html/) | [Previous](/blog/2011/5/20/sacred-geometry-part-5.html/) | Next

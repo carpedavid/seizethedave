@@ -12,12 +12,12 @@ tags:
 
   
 
-De Atramentis Aubergine is a wonderful, juicy purple that is more red than [Diamine Imperial Purple](/2010/10/ink-review-diamine-imperial-purple.html), but less so than [Iroshizuku Yama Budo](/2010/04/ink-review-iroshizuku-yama-budo.html). It's one of those inks that possess a name that's far more evocative than anything I could come up with. They weren't kidding when they named it Aubergine. The color fits nicely into the purple family – filling a gap in my ink collection that I didn't even know existed.
+De Atramentis Aubergine is a wonderful, juicy purple that is more red than [Diamine Imperial Purple](/blog/2010/10/18/ink-review-diamine-imperial-purple.html/), but less so than [Iroshizuku Yama Budo](/blog/2010/4/10/ink-review-iroshizuku-yama-budo.html/). It's one of those inks that possess a name that's far more evocative than anything I could come up with. They weren't kidding when they named it Aubergine. The color fits nicely into the purple family – filling a gap in my ink collection that I didn't even know existed.
 
 Aubergine is highly saturated and creates moderate shading in a wet nib. It is also very wet ink – on the level of J. Herbin or Iroshizuku. It flowed easily from the nib, setting the pen gliding across any of the papers on which I tested it. While it performed well on fountain-pen friendly Rhodia pads and Clairefontaine notebooks, it did exhibit moderate feathering and noticeable bleed-through on absorbent paper types.
   
 
-On Rhodia paper, Aubergine dried in fifteen seconds, displayed no feathering, and had only moderate show-through when used with the EF nib in my [Visconti Homo Sapiens](/2011/11/pen-review-visconti-homo-sapiens.html). It did bleed through in the large-nib calligraphy pens – and you can even see significant feathering where the ink pooled in the "a" in "Atramentis."
+On Rhodia paper, Aubergine dried in fifteen seconds, displayed no feathering, and had only moderate show-through when used with the EF nib in my [Visconti Homo Sapiens](/blog/2011/11/20/pen-review-visconti-homo-sapiens.html/). It did bleed through in the large-nib calligraphy pens – and you can even see significant feathering where the ink pooled in the "a" in "Atramentis."
   
 
 On Staples bagasse, it dried in five seconds, trading quick dry time for moderate feathering and show-through, and minor bleed-through. On cheap, recycled copier paper, it dried in 3 seconds and exhibited the same level of feathering, show-though, and bleed-through. I'd say it behaves reasonably when used with a fine nib, though caution should be used with a broad or other wet-writing nib.
@@ -33,7 +33,7 @@ The drip test, in which I let drops of water sit on the page before blotting the
 De Atramentis inks come in 35ml glass bottles with plastic caps. The label on the bottles is semi-representative of the color of the ink contained within – Aubergine is fairly accurate, but I have heard that other colors are less so. The bottles themselves are functional and not unpleasant to look at, but don't rank among the sculptural achievements that contain Iroshizuku or Peklian Edelstein ink.
 
 
-The vibrancy of Aubergine makes it ill suited to business use. While it is dark and saturated, it is quite clearly purple – and not a conservative purple like [Diamine Damson](/2012/01/ink-review-diamine-damson.html) or [J. Herbin Poussiere de Lune](/2010/03/ink-review-j-herbin-poussiere-de-lune.html). It is _purple_ and there's no getting around it. For personal use, though, it's quite versatile – the color is luscious, but it's neither glaring nor obnoxious. It is easy to read and provides excellent contrast on bright white paper.
+The vibrancy of Aubergine makes it ill suited to business use. While it is dark and saturated, it is quite clearly purple – and not a conservative purple like [Diamine Damson](/blog/2012/1/15/ink-review-diamine-damson.html/) or [J. Herbin Poussiere de Lune](/blog/2010/3/3/ink-review-j-herbin-poussiere-de-lune.html/). It is _purple_ and there's no getting around it. For personal use, though, it's quite versatile – the color is luscious, but it's neither glaring nor obnoxious. It is easy to read and provides excellent contrast on bright white paper.
 
   
 

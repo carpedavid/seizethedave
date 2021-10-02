@@ -11,7 +11,7 @@ tags:
 ![rohrer and klingner salix](r%20and%20k%20salix.jpg)
 
   
-Rohrer and Klingner make wonderful inks – I've enjoyed [Morinda](/2011/05/ink-review-rohrer-and-klingner-morinda_17.html), a vibrant, juicy candy-red, and [Verdigris](/2012/01/ink-review-rohrer-and-klingner.html), a dark, weathered blue-green. I also really liked Scabiosa, a dusky purple, and one of the only non-blue-black iron gall inks that I've ever seen. Salix is R&K's other iron gall ink, and it, too, defies the traditional iron-gall color scheme, though not as significantly as [Scabiosa](/2012/02/ink-review-rohrer-and-klingner-scabiosa.html).
+Rohrer and Klingner make wonderful inks – I've enjoyed [Morinda](/blog/2011/5/17/ink-review-rohrer-and-klingner-morinda.html/), a vibrant, juicy candy-red, and [Verdigris](/blog/2012/1/22/ink-review-rohrer-and-klingner-verdigris.html/), a dark, weathered blue-green. I also really liked Scabiosa, a dusky purple, and one of the only non-blue-black iron gall inks that I've ever seen. Salix is R&K's other iron gall ink, and it, too, defies the traditional iron-gall color scheme, though not as significantly as [Scabiosa](/blog/2012/2/16/ink-review-rohrer-and-klingner-scabiosa.html/).
 
 Salix goes down on paper a bright oceanic blue and then darkens as it dries. In wet nibs, it turns a deep midnight blue, and exhibits moderate shading, whereas in dry nibs, it takes on a powdery look and delivers a consistent line. As it ages, it takes on more of the traditional blue-black iron-gall character, but remains primarily blue.
 
@@ -26,7 +26,7 @@ Salix behaves reasonably on each of the papers I tested. Its drying time is sign
 ![water test](r%20and%20k%20salix%20water%20test.jpg)
 
   
-As befits iron-gall ink, Salix performed well on the various water tests I subjected it to. However, like most permanent dye-based inks, (and unlike [Platinum Carbon](/2011/03/ink-review-platinum-carbon-black.html) and other pigmented inks) only the ink that bonds to the paper can be considered waterproof. In the smear test, in which I drag a wet finger across the surface of the paper, you can see a light smudge caused by a small amount of ink that dried on top of the surface of the paper.
+As befits iron-gall ink, Salix performed well on the various water tests I subjected it to. However, like most permanent dye-based inks, (and unlike [Platinum Carbon](/blog/2011/3/8/ink-review-platinum-carbon-black/) and other pigmented inks) only the ink that bonds to the paper can be considered waterproof. In the smear test, in which I drag a wet finger across the surface of the paper, you can see a light smudge caused by a small amount of ink that dried on top of the surface of the paper.
 
 The drip test, in which I let droplets of water soak on the page before blotting them up, reveals a slight bit of feathering due to the surface ink running and then drying elsewhere on the page. The original lines are still completely readable.
 
@@ -43,4 +43,4 @@ Rohrer and Klingner Salix is available from:
 - [Jet Pens](http://www.jetpens.com/Rohrer-Klingner-Writing-Ink-50-ml-Bottle-Eisen-Gallus-Tinte-Salix-Iron-Gall-Nut-ink-Salix-Blue/pd/7429)
 
   
-Review notes: The widest lines were made with two Pilot Parallel calligraphy pens: one with a steel 6.0mm nib and the other with a steel 3.8mm nib. The medium lines were made with a Lamy Joy Safari with a 1.9mm steel calligraphy nib. The narrow lines were created with a [TWSBI Diamond 540](/2011/11/pen-review-twsbi-diamond-540.html) with a steel EF nib. The paper is Rhodia 80 gsm from a Rhodia Bloc No. 18. The featured script is Fractur.
+Review notes: The widest lines were made with two Pilot Parallel calligraphy pens: one with a steel 6.0mm nib and the other with a steel 3.8mm nib. The medium lines were made with a Lamy Joy Safari with a 1.9mm steel calligraphy nib. The narrow lines were created with a [TWSBI Diamond 540](/blog/2011/11/1/pen-review-twsbi-diamond-540.html/) with a steel EF nib. The paper is Rhodia 80 gsm from a Rhodia Bloc No. 18. The featured script is Fractur.

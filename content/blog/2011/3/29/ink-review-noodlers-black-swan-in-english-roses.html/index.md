@@ -10,7 +10,7 @@ tags:
 
 ![](noodlers-english-roses.jpg)
   
-Noodler's has released the second in its line of inks that have been designed for flex nib pens. The high-shading Black Swan in English Roses continues the high level of quality set by its predecessor. In my [review of Black Swan in Australian Roses](/2010/11/ink-review-noodlers-black-swan-in.html), I praised the ink's poetic nature, and English Roses delivers a similarly lyrical experience.
+Noodler's has released the second in its line of inks that have been designed for flex nib pens. The high-shading Black Swan in English Roses continues the high level of quality set by its predecessor. In my [review of Black Swan in Australian Roses](/blog/2010/11/30/ink-review-noodlers-black-swan-in-australian-roses.html/), I praised the ink's poetic nature, and English Roses delivers a similarly lyrical experience.
 
 Where Australian Roses was violet-black with pink undertones, English Roses is an earthy red-brown with bright, poppy red undertones that peek out from time to time. It is a wonderfully deep, rich, and rewarding ink to work with.
 

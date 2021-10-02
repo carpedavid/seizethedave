@@ -319,4 +319,4 @@ He shrugged. "Sure. Sounds like fun."
 
 ###
 
-[Next Part](/2011/03/golden-spiral.html)
+[Next Part](/blog/2011/3/11/sacred-geometry-part-2-golden-spiral.html/)

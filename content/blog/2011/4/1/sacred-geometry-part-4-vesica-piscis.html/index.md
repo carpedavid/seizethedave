@@ -160,4 +160,4 @@ He waved her off. "It's ok. I'll google it later."
 
 ###
 
-[Part 1](/blog/2011/3/4/sacred-geometry-part-1-tesseract.html/) | [Previous Part](/2011/03/sine-wave-sacred-geometry-pt-3.html) | [Next Part](/2011/05/sacred-geometry-part-5.html)
+[Part 1](/blog/2011/3/4/sacred-geometry-part-1-tesseract.html/) | [Previous Part](/blog/2011/3/16/sacred-geometry-part-3-sine-wave.html/) | [Next Part](/blog/2011/5/20/sacred-geometry-part-5.html/)

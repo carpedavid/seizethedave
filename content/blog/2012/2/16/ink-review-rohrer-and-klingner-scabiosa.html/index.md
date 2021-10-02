@@ -44,7 +44,7 @@ Fortunately, modern formulations of iron gall ink are safe for fountain pens. Th
 
   
 
-Scabiosa is a pretty, dusky purple comparable to [Diamine Damson](/2012/01/ink-review-diamine-damson.html) and [J. Herbin Poussiere de Lune](/2010/03/ink-review-j-herbin-poussiere-de-lune.html). Named after the eponymous flower, it has a low level of saturation which results in a moderate level of shading in a fine-nib pen. In a broad calligraphy pen, the shading is accentuated, and it results in a very lovely line full of depth and character.
+Scabiosa is a pretty, dusky purple comparable to [Diamine Damson](/blog/2012/1/15/ink-review-diamine-damson.html/) and [J. Herbin Poussiere de Lune](/blog/2010/3/3/ink-review-j-herbin-poussiere-de-lune.html/). Named after the eponymous flower, it has a low level of saturation which results in a moderate level of shading in a fine-nib pen. In a broad calligraphy pen, the shading is accentuated, and it results in a very lovely line full of depth and character.
 
   
 

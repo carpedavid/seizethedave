@@ -8,7 +8,7 @@ tags:
   - "sacred-geometry"
 ---
 
-> New to the series? Start with [Part 1](/2011/03/tesseract.html).
+> New to the series? Start with [Part 1](/blog/2011/3/4/sacred-geometry-part-1-tesseract.html/).
 
   
 "Why wouldn't you want to be probed?" asked Jim. "How many other people can say they've been abducted by extraterrestrials and had their DNA extracted? That would be so amazing!"

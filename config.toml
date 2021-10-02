@@ -58,3 +58,8 @@ googleAnalytics = "UA-16386425-2" # Enable Google Analytics by entering your tra
   genre = "genres"
   audience = "audiences"
   category = "categories"
+
+[sitemap]
+  changefreq = 'monthly'
+  filename = 'sitemap.xml'
+  priority = 0.5

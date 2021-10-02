@@ -10,7 +10,7 @@ Amongst fountain pen aficionados, Moleskine is known primarily for the inconsist
 
 ![about two years worth of notes](IMG_0527.jpg)
 
-Over the course of the past two years, I've amassed quite a collection. I fill roughly one notebook a month with the notes I take for all of the meetings that I sit through on a daily basis. Typically, the paper is smooth, thin, and slightly absorbent. When I purchased my wet-writing [Visconti Homo Sapiens](/2011/11/pen-review-visconti-homo-sapiens.html), I was pleased to find that I saw very little bleed through and only mild feathering - that is, until I finished my last notebook and had to buy a new pack.
+Over the course of the past two years, I've amassed quite a collection. I fill roughly one notebook a month with the notes I take for all of the meetings that I sit through on a daily basis. Typically, the paper is smooth, thin, and slightly absorbent. When I purchased my wet-writing [Visconti Homo Sapiens](/blog/2011/11/20/pen-review-visconti-homo-sapiens.html/), I was pleased to find that I saw very little bleed through and only mild feathering - that is, until I finished my last notebook and had to buy a new pack.
 
 ![old notebook - nice and crisp lines](IMG_0521.jpg)
 

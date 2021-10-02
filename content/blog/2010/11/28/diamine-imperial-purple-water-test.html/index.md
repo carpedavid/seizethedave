@@ -15,7 +15,7 @@ tags:
 Greg asked:
 
 > I just read your review at:  
-> [/2010/10/ink-review-diamine-imperial-purple.html](/2010/10/ink-review-diamine-imperial-purple.html)
+> [/2010/10/ink-review-diamine-imperial-purple.html](/blog/2010/10/18/ink-review-diamine-imperial-purple.html/)
 > 
 > Very nice.  How permanent is this ink?
 

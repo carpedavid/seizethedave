@@ -10,7 +10,7 @@ tags:
 
   
 
-Above is a writing sample of [Noodler's Black Swan in Australian Roses](/2010/11/ink-review-noodlers-black-swan-in.html) in the new Noodler's Flex Nib Piston Fill fountain pen. I'll have more thoughts about the pen later, but this is my first attempt at using a flex nib fountain pen, and I think the Black Swan ends up shading quite nicely with it.
+Above is a writing sample of [Noodler's Black Swan in Australian Roses](/blog/2010/11/30/ink-review-noodlers-black-swan-in-australian-roses.html/) in the new Noodler's Flex Nib Piston Fill fountain pen. I'll have more thoughts about the pen later, but this is my first attempt at using a flex nib fountain pen, and I think the Black Swan ends up shading quite nicely with it.
 
   
 

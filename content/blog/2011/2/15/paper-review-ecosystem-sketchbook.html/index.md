@@ -12,7 +12,7 @@ February 15, 2011
 
 ![](IMG_0274.JPG)
   
-I've been a big fan of ecosystem notebooks, having positively reviewed their [hardback lined journal](/2010/06/paper-review-ecosystem-notebook.html) and [created an iPad cover](/2010/06/great-ecosystem-ipad-cover-hack.html) from a large, lined softcover journal. When I found out that they were releasing a sketchbook, I made it a point to get a copy to review, and I have to say that I'm pretty pleased.
+I've been a big fan of ecosystem notebooks, having positively reviewed their [hardback lined journal](/blog/2010/6/13/paper-review-ecosystem-notebook.html/) and [created an iPad cover](/blog/2010/6/1/the-great-ecosystem-ipad-cover-hack.html/) from a large, lined softcover journal. When I found out that they were releasing a sketchbook, I made it a point to get a copy to review, and I have to say that I'm pretty pleased.
 
 The basic setup is very similar to a standard ecosystem hardback notebook: rounded corners on the paper and cover; a bound-in, 100% organic cotton bookmark; a sturdy elastic strap to keep the cover closed; and a paper pocket inside the back cover. The cover is 100% recycled board covered with 100% post-consumer recycled paper stock, and dyed with vegetable-based ink. Unlike the standard notebooks, the word "sketchbook" is embossed on the cover.
 

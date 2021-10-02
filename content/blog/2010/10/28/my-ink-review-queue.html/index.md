@@ -5,7 +5,7 @@ tags:
   - "ink"
 ---
 
-I didn’t have time to write an ink review this week, but I did have the opportunity to look through my ink collection to figure out what to review next. In the 8 months I’ve been writing reviews, I’ve managed to publish [24 ink reviews](/search/label/ink%20reviews), but I’ve got a lot more left to go. Since there are no signs that I’m going to stop collecting ink any time soon, I suspect I’ll be writing up reviews until I’m old and grey.
+I didn’t have time to write an ink review this week, but I did have the opportunity to look through my ink collection to figure out what to review next. In the 8 months I’ve been writing reviews, I’ve managed to publish [24 ink reviews](/categories/ink-reviews/), but I’ve got a lot more left to go. Since there are no signs that I’m going to stop collecting ink any time soon, I suspect I’ll be writing up reviews until I’m old and grey.
 
 For those that are curious, I’ve put together a list of the inks that I have in my collection that I haven’t reviewed yet:
 

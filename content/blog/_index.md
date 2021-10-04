@@ -5,3 +5,4 @@ draft: false
 menu: "main"
 ---
 
+Seize the Dave is a little bit about a lot of stuff: writing, calligraphy, poetry, origami, books, music, role-playing games, the occasional cocktail recipe, and anything else that comes to mind.

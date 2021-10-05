@@ -1,6 +1,6 @@
 ---
 title: "Scaling Strategy"
-date: 2021-05-19T15:47:27-04:00
+date: 2021-10-04
 draft: false
 menu: main
 ---

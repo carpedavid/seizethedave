@@ -2,7 +2,7 @@
 title: "Uses"
 author: "David Garrett"
 type: ""
-date: 2021-10-04
+date: 2021-10-13
 subtitle: ""
 image: ""
 tags: []
@@ -19,21 +19,22 @@ tags: []
 * [Adobe Illustrator](https://www.adobe.com/products/illustrator.html) - For vector-based illustration and design.
 * [Adobe InDesign](https://www.adobe.com/products/indesign.html) - For desktop publishing.
 * [Adobe Photoshop](https://www.adobe.com/products/photoshop.html) - It's Photoshop
-* [Adobe XD](https://www.adobe.com/products/xd.html) - UI/UX and prototyping.
 * [Craft](https://www.craft.do/) - Simply the finest writing tool around.
 * [Drafts](https://getdrafts.com/) - Writing notebook. Where ideas go to germinate.
+* [Figma](https://www.figma.com) - UX design and prototyping
 
 ## 🧑🏽‍💻 Development Environments
 
 * [Nova](https://nova.app/) - Code editor and extremely capable text editor for HTML, CSS, Javascript, Php, Python, Markdown, etc...
-* [Visual Studio Code](https://code.visualstudio.com/) - Code editor for nearly everything else (Go, Rust, etc...) except...
-* [Xcode](https://developer.apple.com/xcode/) - Code editor for Swift (Objective-C can go jump in a lake).
+* [Visual Studio Code](https://code.visualstudio.com/) - Code editor for nearly everything else (Go, Rust, etc...)
 
 ## 🧑🏽‍💻 Other Development Tools
 
 * [Dash](https://kapeli.com/dash) - Documentation browser.
+* [DataGrip](https://www.jetbrains.com/datagrip/) - Cross-platform database IDE by JetBrains.
+* [Oh My ZSH](https://ohmyz.sh/) - A framework for Zsh. Makes the terminal awesome again.
+* [Powerline 10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme for OMZ.
 * [Sip](https://sipapp.io/) - A lovely color picker.
-* [TablePlus](https://tableplus.com/) - MacOS native database tool.
 * [Termius](https://termius.com/) - Cross-platform SSH terminal.
 * [Transmit](https://panic.com/transmit/) - For moving files from here to there (FTP, SFTP, S3).
 
@@ -47,10 +48,12 @@ tags: []
 ## 📝 Everything Else
 
 * [1Password](https://1password.com/) - Everyone should be using a password manager.
+* [Bartender](https://www.macbartender.com/) - For managing your menubar icons.
 * [Cardhop](https://flexibits.com/cardhop) - Wonderful contacts app.
 * [Contexts](https://contexts.co/) - It's CMD-Tab, but BETTER! SO MUCH BETTER!
 * [Fantastical](https://flexibits.com/fantastical) - Wonderful calendar app.
 * [Firefox](https://www.mozilla.org/en-US/firefox/new/) - Fast browsing with an emphasis on privacy.
+* [Homebrew](https://brew.sh) - the missing MacOS package manager.
 * [iStat Menus](https://bjango.com/mac/istatmenus/) - Menu-bar based performance statistics.
 * [Keka](https://www.keka.io/en/) - File archiving and unarchiving.
 * [Magnet](https://magnet.crowdcafe.com/) - Window management.

@@ -6,6 +6,7 @@ date: 2021-10-13
 subtitle: ""
 image: ""
 tags: []
+menu: "main"
 ---
 
 ## 🖥 Hardware

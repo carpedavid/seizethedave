@@ -2,7 +2,7 @@
 title: "Uses"
 author: "David Garrett"
 type: ""
-date: 2021-10-13
+date: 2021-11-04
 subtitle: ""
 image: ""
 tags: []
@@ -22,26 +22,23 @@ menu: "main"
 * [Adobe Photoshop](https://www.adobe.com/products/photoshop.html) - It's Photoshop
 * [Craft](https://www.craft.do/) - Simply the finest writing tool around.
 * [Drafts](https://getdrafts.com/) - Writing notebook. Where ideas go to germinate.
-* [Figma](https://www.figma.com) - UX design and prototyping
-
-## 🧑🏽‍💻 Development Environments
-
-* [Nova](https://nova.app/) - Code editor and extremely capable text editor for HTML, CSS, Javascript, Php, Python, Markdown, etc...
-* [Visual Studio Code](https://code.visualstudio.com/) - Code editor for nearly everything else (Go, Rust, etc...)
+* [Figma](https://www.figma.com) - UX design and prototyping.
+* [Obsidian](https://www.obsidian.md) - Markdown-based personal knowledge base. I use it for work notes.
 
 ## 🧑🏽‍💻 Other Development Tools
 
 * [Dash](https://kapeli.com/dash) - Documentation browser.
 * [DataGrip](https://www.jetbrains.com/datagrip/) - Cross-platform database IDE by JetBrains.
+* [ImageOptim](https://imageoptim.com/) - Batch image compression. Makes optimizing image files super fast and easy.
 * [Oh My ZSH](https://ohmyz.sh/) - A framework for Zsh. Makes the terminal awesome again.
 * [Powerline 10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme for OMZ.
-* [Sip](https://sipapp.io/) - A lovely color picker.
 * [Termius](https://termius.com/) - Cross-platform SSH terminal.
 * [Transmit](https://panic.com/transmit/) - For moving files from here to there (FTP, SFTP, S3).
+* [Visual Studio Code](https://code.visualstudio.com/) - Code editor for just about anything (Go, React, Rust, Typescript, etc...)
 
 ## ⌨️ Typography
 
-* [Blambot](https://blambot.com/) - Comic fonts. All the comic fonts you will ever need. Forever.
+* [Blambot](https://blambot.com/) - All the comic fonts you will ever need. Forever.
 * [Floodfonts](https://www.floodfonts.com/) - By Felix Braden.
 * [Harbor Type](https://www.harbortype.com/) - A small but amazing collection.
 * [Mark Simonson](https://www.marksimonson.com/) - Proxima Nova and other fonts that aren't Proxima Nova.
@@ -55,17 +52,26 @@ menu: "main"
 * [Fantastical](https://flexibits.com/fantastical) - Wonderful calendar app.
 * [Firefox](https://www.mozilla.org/en-US/firefox/new/) - Fast browsing with an emphasis on privacy.
 * [Homebrew](https://brew.sh) - the missing MacOS package manager.
+* [Hookshot](https://hookshot.app) - a mouse/gesture-based window manager. I always have one installed and then almost never use it. This I started using right away.
 * [iStat Menus](https://bjango.com/mac/istatmenus/) - Menu-bar based performance statistics.
 * [Keka](https://www.keka.io/en/) - File archiving and unarchiving.
-* [Magnet](https://magnet.crowdcafe.com/) - Window management.
+* [MacUpdater](https://www.corecode.io/macupdater/) - It, well...it keeps your apps up to date.
 * [OmniFocus](https://www.omnigroup.com/omnifocus/) - One of the most powerful task management apps in existence.
 * [Pastebot](https://tapbots.com/pastebot/) - If you copy *and* you paste, you want a clipboard manager. Pastebot is my favorite.
 * [Raycast](https://raycast.com/) - Scriptable, extensible app launcher geared to developers.
 * [Rocket](https://matthewpalmer.net/rocket/) - Do you wish there were a system-wide Slack-like way to use emoji? The correct answer is yes. Yes, you do. The answer is Rocket.
 * [Spark](https://sparkmailapp.com/) - Email done well.
 * [Strongsync](https://www.expandrive.com/strongsync/) - A brand-new way of mounting cloud storage in MacOS.
-* [Tooth Fairy](https://c-command.com/toothfairy/) - How is this functionality not built into MacOS? If you use bluetooth anything, you want Tooth Fairy.
-* [Workspaces](https://www.apptorium.com/workspaces) - Lets you launch multiple apps, files, URLs *per project*.
+
+## Honorable Mentions
+
+These are apps I used to use and would still recommend, but simply don't fit my needs at the moment.
+
+* [Magnet](https://magnet.crowdcafe.com/) - Window management.
+* [Nova](https://nova.app/) - Code editor and extremely capable text editor for HTML, CSS, Javascript, Php, Python, Markdown, etc...
+* [Sip](https://sipapp.io/) - A lovely color picker.
+* [Tooth Fairy](https://c-command.com/toothfairy/) - How is this functionality not built into MacOS? (As of Monterey, it kind of is. Still a great app, though.)
+* [Workspaces](https://www.apptorium.com/workspaces) - Lets you launch multiple apps, files, URLs *per project*. As of Monterey, I have replaced this with Shortcuts. But if you want an app that's way easier to use than shortcuts, this is it.
 
 ## 🕸️ This Site
 

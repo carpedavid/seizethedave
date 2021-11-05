@@ -36,41 +36,41 @@ menu: "main"
 * [Transmit](https://panic.com/transmit/) - For moving files from here to there (FTP, SFTP, S3).
 * [Visual Studio Code](https://code.visualstudio.com/) - Code editor for just about anything (Go, React, Rust, Typescript, etc...)
 
-## ⌨️ Typography
+## 🖥 Typography
 
-* [Blambot](https://blambot.com/) - All the comic fonts you will ever need. Forever.
+* [Adobe Fonts](https://fonts.adobe.com) - All the fonts you'll ever need. Except for all the others. Because you can never have enough fonts.
+* [Blambot](https://blambot.com/) - All the comic fonts you will ever need. But for reals, this time.
 * [Floodfonts](https://www.floodfonts.com/) - By Felix Braden.
 * [Harbor Type](https://www.harbortype.com/) - A small but amazing collection.
 * [Mark Simonson](https://www.marksimonson.com/) - Proxima Nova and other fonts that aren't Proxima Nova.
 
-## 📝 Everything Else
+## 🖌 Everything Else
 
 * [1Password](https://1password.com/) - Everyone should be using a password manager.
 * [Bartender](https://www.macbartender.com/) - For managing your menubar icons.
-* [Cardhop](https://flexibits.com/cardhop) - Wonderful contacts app.
 * [Contexts](https://contexts.co/) - It's CMD-Tab, but BETTER! SO MUCH BETTER!
-* [Fantastical](https://flexibits.com/fantastical) - Wonderful calendar app.
 * [Firefox](https://www.mozilla.org/en-US/firefox/new/) - Fast browsing with an emphasis on privacy.
-* [Homebrew](https://brew.sh) - the missing MacOS package manager.
-* [Hookshot](https://hookshot.app) - a mouse/gesture-based window manager. I always have one installed and then almost never use it. This I started using right away.
+* [Homebrew](https://brew.sh) - The missing MacOS package manager.
+* [Hookshot](https://hookshot.app) - A mouse/gesture-based window manager. I always have one installed and then almost never use it. This I started using right away.
 * [iStat Menus](https://bjango.com/mac/istatmenus/) - Menu-bar based performance statistics.
 * [Keka](https://www.keka.io/en/) - File archiving and unarchiving.
 * [MacUpdater](https://www.corecode.io/macupdater/) - It, well...it keeps your apps up to date.
-* [OmniFocus](https://www.omnigroup.com/omnifocus/) - One of the most powerful task management apps in existence.
 * [Pastebot](https://tapbots.com/pastebot/) - If you copy *and* you paste, you want a clipboard manager. Pastebot is my favorite.
 * [Raycast](https://raycast.com/) - Scriptable, extensible app launcher geared to developers.
 * [Rocket](https://matthewpalmer.net/rocket/) - Do you wish there were a system-wide Slack-like way to use emoji? The correct answer is yes. Yes, you do. The answer is Rocket.
 * [Spark](https://sparkmailapp.com/) - Email done well.
-* [Strongsync](https://www.expandrive.com/strongsync/) - A brand-new way of mounting cloud storage in MacOS.
+* [Strongsync](https://www.expandrive.com/strongsync/) - A brand-new way of mounting cloud storage in MacOS. I'm *super happy* with it so far.
 
-## Honorable Mentions
+## 🏆 Honorable Mentions
 
 These are apps I used to use and would still recommend, but simply don't fit my needs at the moment.
 
-* [Magnet](https://magnet.crowdcafe.com/) - Window management.
-* [Nova](https://nova.app/) - Code editor and extremely capable text editor for HTML, CSS, Javascript, Php, Python, Markdown, etc...
-* [Sip](https://sipapp.io/) - A lovely color picker.
-* [Tooth Fairy](https://c-command.com/toothfairy/) - How is this functionality not built into MacOS? (As of Monterey, it kind of is. Still a great app, though.)
+* [Alfred](https://www.alfredapp.com/) - The gold standard of app launchers/multi-tools. I used this extensively before switching to Raycast, which has more of a developer orientation.
+* [Magnet](https://magnet.crowdcafe.com/) - Window management. Replaced by Hookshot.
+* [Nova](https://nova.app/) - Code editor and extremely capable text editor for HTML, CSS, Javascript, Php, Python, Markdown, etc... I'm now using VS Code pretty much exclusively, now.
+* [OmniFocus](https://www.omnigroup.com/omnifocus/) - One of the most powerful task management apps in existence. I have recently switched back to Apple Reminders.
+* [Sip](https://sipapp.io/) - A lovely color picker. Which I pretty much never actually used. Still lovely, though!
+* [Tooth Fairy](https://c-command.com/toothfairy/) - Manage Bluetooth devices from the menu bar *easily*. Much of what I used it for is built into Monterey now.
 * [Workspaces](https://www.apptorium.com/workspaces) - Lets you launch multiple apps, files, URLs *per project*. As of Monterey, I have replaced this with Shortcuts. But if you want an app that's way easier to use than shortcuts, this is it.
 
 ## 🕸️ This Site

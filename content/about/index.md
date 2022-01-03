@@ -6,7 +6,7 @@ menu: main
 sidebar: true
 ---
 
-*Technical entrepreneur and compulsive creative*
+*Technologist, entrepreneur, game designer, and general creative person. Proud husband, and dad to three burgeoning superheroes. MBA.*
 
 I am a transformative leader with nearly two decades of experience driving positive change through strategic planning, organizational design, process engineering, and cultural alignment. I lead, work, and mentor in the intersection of entrepreneurship and technology — especially in high-growth organizations.
 

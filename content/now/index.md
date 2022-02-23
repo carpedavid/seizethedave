@@ -2,7 +2,7 @@
 title: "Now"
 author: "David Garrett"
 type: ""
-date: 2021-12-18
+date: 2022-02-23
 subtitle: ""
 image: ""
 tags: []
@@ -13,7 +13,7 @@ Here's what I'm working on now...
 
 ## 🧑🏽‍💻 Work
 
-* I am the CTO of [GlobalCastMD](https://globalcastmd.com), a growing health education company headquartered in Cleveland, OH. We empower medical pioneers and knowledge generators with the tools and platform to connect with practitioners from around the world.
+* If you or anyone you know is looking for a senior leader who delivers excellence in product and technology development by taking an intentional approach to cultural development and process engineering, [send me a message](mailto:carpedavid@gmail.com).
 
 ## 🏠 Home
 

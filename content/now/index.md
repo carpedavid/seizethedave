@@ -13,9 +13,11 @@ Here's what I'm working on now...
 
 ## 🧑🏽‍💻 Work
 
-* If you or anyone you know is looking for a senior leader who delivers excellence in product and technology development by taking an intentional approach to cultural development and process engineering, [send me a message](mailto:carpedavid@gmail.com).
+Not every relationship lasts forever, including business relationships. Though we put together a rock-solid, superstar product and technology team at GlobalCastMD -- one that I'm confident will be able to deliver an incredible new medical knowledge-sharing platform -- I'm now looking for my next opportunity.
 
-## 🏠 Home
+I've built and led teams that built world-class platforms across industries ranging from entertainment to logistics to fintech. So, if you or anyone you know is looking for a senior leader who drives excellence in product and technology delivery through intentional culture development and process engineering, [send me a note](mailto:carpedavid@gmail.com)!
+
+## 🏠 Creative
 
 * Just published a solo, journaling RPG about being chased through a dark and dangerous forest by a [Wendigo](https://www.heroictalesrpg.com/wendigo).
 * A solo sci-fi game set in a post-war galaxy, powered by [Heroic Tales](https://heroictalesrpg.com).

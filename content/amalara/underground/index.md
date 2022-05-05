@@ -37,6 +37,8 @@ To play Underground, you’ll need the following in either analogue or digital f
 
 {{< itch src="https://itch.io/embed/1491274" url="https://carpedavid.itch.io/underground" title="Underground by David Garrett" >}}
 
+- [DriveThruRPG](https://www.drivethrurpg.com/product/394261/Underground)
+
 *For 1 to 6 players. Recommended for ages 10 and up.*
 
 Underground is copyright © 2022 by David Garrett. Licensed for use under the [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/) license.

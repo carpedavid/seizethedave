@@ -42,9 +42,7 @@ googleAnalytics = "UA-16386425-2" # Enable Google Analytics by entering your tra
   tags_counter = false # Enable counter for each tag in "Tags" widget (disabled by default)
 
 [Params.widgets.social]
-  twitter = "carpedavid"
   email = "carpedavid@gmail.com"
-  instagram = "carpedavid"
   github = "carpedavid"
   linkedin = "dmgarrett"
 

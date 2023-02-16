@@ -45,16 +45,12 @@ googleAnalytics = "UA-16386425-2" # Enable Google Analytics by entering your tra
   email = "carpedavid@gmail.com"
   github = "carpedavid"
   linkedin = "dmgarrett"
+  mastodon = "https://dice.camp/@carpedavid"
 
 [[Params.widgets.social.custom]]
   title = "Reddit"
   url = "https://www.reddit.com/u/carpedavid"
   icon = "reddit.svg" # Optional. Path relative to "layouts/partials"
-
-[[Params.widgets.social.custom]]
-  title = "Mastodon"
-  url = "https://dice.camp/@carpedavid"
-  icon = "mastodon.svg" # Optional. Path relative to "layouts/partials"
 
 [taxonomies]
   tag = "tags"
